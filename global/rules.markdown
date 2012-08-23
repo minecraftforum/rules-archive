@@ -1,0 +1,1 @@
+These are the global minecraftforum.net rules.
