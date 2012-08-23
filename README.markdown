@@ -1,6 +1,26 @@
 This repository is a collection of the minecraftforum.net rules, both global and
 sectional.
 
+I chose to use Markdown because Markdown is easy to write, that's what it was
+designed for. Although BBCode isn't /difficult/ to write it can be annoying,
+it creates extra stuff in the way of the text when reading. It's much easier to 
+read:
+
+```
+### Title here
+This is some text [with a url](http://google.com) 
+```
+
+Than it is:
+
+```
+[size=6][font=arial, helvetica, sans-serif]Title here[/font][/size]
+This is some text [url="http://google.com"]with a url[/url]
+```
+
+Full markdown documentation can be found
+[here](http://daringfireball.net/projects/markdown/).
+
 # Minecraftforum.net rules "system":
 
 A single destination to find all rules that includes sectional rules. When the 
@@ -46,5 +66,8 @@ convert from markdown to bbcode.
 
 ### deployment
 
-The global rules will be combined with the sectional rules to create a full rule
-post including automatically generated navigation to each sections rules.
+Deployment process does the following:
+
+1. Combine all the individual rules into 1
+2. Build the contents using the headings to decide where everything goes
+3. Parse markdown into HTML
