@@ -21,7 +21,7 @@ separating each word. For example show_your_creations, servers, game_modes.
 
 ### meta.json
 
-```
+```json
 {
     "id":"0", // forum id, 
     "title":"Global Rules", // title of the section
@@ -31,7 +31,7 @@ separating each word. For example show_your_creations, servers, game_modes.
 
 For example Show Your Creation would be:
 
-```
+```json
 {
     "id":"58",
     "title":"Show Your Creation",
