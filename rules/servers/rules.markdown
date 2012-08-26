@@ -17,6 +17,7 @@ Servers is the section for PC specific posts to be made.
 * You may not post blacklists or "ban this player" threads.
 * Copy-pasted posts are considered spam, and as such will be removed.
 * Black ASCII blocks are not allowed in your thread title.
+* no super-easrth
 
 All posts that violate these rules will be removed.
 
