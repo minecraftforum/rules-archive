@@ -264,14 +264,13 @@ class minecraftforum {
             "field_13" => $member_details["field_13"]["value"],
             "field_15" => $member_details["field_15"]["value"],
             "field_16" => $new_data["field_16"],
-            "isRte" => 0,
-            "noSmilies" => 0,
+            "isRte" => 1,
+            "noSmilies" => 1,
             "Post" => $member_details["signature"]["value"],
-            "isRte" => 0,
-            "noSmilies" => 0,
+            "isRte" => 1,
+            "noSmilies" => 1,
             "aboutme" => $member_details["pp_about_me"]["value"],
         );
-        
         
         $post = array("auth_key" => $this->secure_hash, "mid" => $member_id);
         $post_data = array_merge($details, $post);

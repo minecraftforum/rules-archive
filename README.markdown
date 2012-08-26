@@ -171,7 +171,6 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
 * sectional rules having their own page to reference to
 * add support for duplicate titles; possibly use the h1 parent in the ID, 
     something link #servers:posting_restrictions
-* fix the profile edit bug damnit IPB
 
 # Group Flash Embed
 
@@ -209,7 +208,7 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
             message will return.
         </p>
         <ul class="topic_buttons" style="margin-left:-10px; margin-top:20px;">
-            <li style="float:left;"><a href="http://rules-mcf-li.dev/" title="View Full Rules">View Rules</a></li>
+            <li style="float:left;"><a href="http://rules-mcf-li.dev/changes/0/{member_id}" title="View Full Rules">View Rules</a></li>
         </ul>
         <div style="clear:both;"></div>
     </div>
