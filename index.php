@@ -85,8 +85,13 @@
             if(!in_array($set, $reserved_rules)) {
                 $meta = json_decode(file_get_contents("rules/$set/meta.json"));
                 $rules = file_get_contents("rules/$set/rules.markdown");
-                $all_rules .= $rules."\n\n";
+                $rules_positioned[$meta->position] = $rules;
             }
+        }
+        
+        ksort($rules_positioned);
+        foreach($rules_positioned as $rule_set) {
+            $all_rules .= $rule_set."\n\n";
         }
         
         $compiled = Markdown($all_rules);

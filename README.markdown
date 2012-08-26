@@ -21,6 +21,32 @@ This is some text [url="http://google.com"]with a url[/url]
 Full markdown documentation can be found
 [here](http://daringfireball.net/projects/markdown/).
 
+A brief summary of the relevant markdown:
+
+#### Links
+```
+[title](http://link.com)
+```
+
+#### Auto link a URL
+```
+<http://link.com>
+```
+
+#### Headings
+```
+# Heading
+```
+
+#### Lists
+```
+* list item #1
+* list item #2
+    * sub-list item #1
+        * sub-sub list item #1
+* list item #3
+```
+
 # Minecraftforum.net rules "system":
 
 A single destination to find all rules that includes sectional rules. When the 
@@ -74,6 +100,35 @@ convert from markdown to bbcode.
 
 There should only be one "Sectional title" in the document.
 
+**PLEASE NOTE:** each heading MUST be totally unique. If a heading already
+exists and you make another it will not be usable for the jump to and linking. 
+For example if someone has already done 
+
+```
+### Posting Restrictions
+```
+
+and you do:
+
+```
+## Posting Restrictions
+```
+
+it won't work! don't do that! If you have to add an extra word or something, 
+do that!
+
+### Style / format guide
+
+* Do not use colons in headings, NO: "Restrictions:", YES: "Restrictions"
+* List items should not end with a full stop
+* Do not address the user, NO: "You cannot bump threads", YES: "Bumping threads
+    is not allowed"
+* Refer to minecraftforum.net as "we". NO: "minecraftforun.net staff will..." 
+    YES: "We will..."
+* Try to use links as rarely as possible. Rules should be easy to read without
+    any need to navigate away. Links are okay as long as they are necessary
+    and provide value that cannot (reasonably) provided within the rules.
+
 ### deployment
 
 Deployment process does the following:
@@ -99,7 +154,23 @@ against the last rule viewed time, if it's greater than then it's hidden.
 
 If a user hasn't ever viewed the rules before then a simple summary is displayed
 
-The group flash embed:
+### Deploying an update
+
+1. Update the live version of the site to match the repository version
+2. Run "{app_url}/compile/{key}"
+3. Copy the output
+4. Add the output to the group flash menu (in position #1)
+5. THAT'S IT! (hopefully)
+
+
+# TO DO
+
+* improved styling of the rules
+* sectional rules having their own page to reference to
+* add support for duplicate titles; possibly use the h1 parent in the ID, 
+    something link #servers:posting_restrictions
+
+# Group Flash Embed
 
 ```
 <!--
@@ -142,6 +213,7 @@ The group flash embed:
     <div id="citric_rules_updated" style="display:none;">
         <h3>Minecraftforum.net rules have been updated</h3>
         <p>Summaries of each change since you last reviewed our rules are as follows:</p>
+        <!-- updates here -->
         <ul id="citric_updated_rules_list">
             <li id="1345956772" style="display:none;">rule update summary 1 here</li>
             <li id="1345956779" style="display:none;">rule update summary 2 here</li>
