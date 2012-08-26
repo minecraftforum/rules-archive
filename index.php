@@ -10,8 +10,20 @@
         $compiled_rules = array_slice(scandir('compiled', 1), 0, 2);
         $new_rule_file = file_get_contents("compiled/".$compiled_rules[0]);
         
-        $old = $request->cookie('rule_set', false);
+        $old_time = $request->cookie('rule_set', false);
         $member_id = $request->cookie('rule_member_id', false);
+        
+        foreach($compiled_rules as $c_r) {
+            $expl = explode(".html", $c_r);
+            $comp_rules[] = $expl[0];
+        }
+        
+        sort($comp_rules);
+        foreach ($comp_rules as $c) {
+            if($c >= $old_time) {
+                $old = $c;
+            }
+        }
         
         if(is_numeric($member_id)) {
             $redis = new Redis();

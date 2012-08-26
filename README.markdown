@@ -245,3 +245,12 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
     }
 </script>
 ```
+
+# requirements
+
+if you want to run this for whatever reason it needs:
+
+* redis
+* php-redis <https://github.com/nicolasff/phpredis>
+* php5
+* php5-curl
