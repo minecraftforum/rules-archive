@@ -51,6 +51,7 @@ This is a brief summary of the global guidelines and why they matter
 * Derogatory statements about social groups, including but not limited to age, race, gender, religion, ethnicity, nationality, or sexuality;
 * Promoting or expressing support for hate groups and terrorist organizations;
 * NEW Posting messages deliberately fhgfhgto offend or upset members of a social group CHANGE HERE
+* new line
 
 
 ## How to deal with rule breaking posts that you see
@@ -61,7 +62,7 @@ The following information is about what to do when you find people breaking the 
 
 * If you see an infraction to the rules, report it. If you're not sure, report it anyway. There are no penalties if you're wrong
 * Don't tell the offender you’re reporting them, it doesn't help the staff in any way and can only lead to problems.
-* Don't respond to spam, flames, and trolls, much less flame them back. Ignore, report, move on
+* CHANGED LINE Don't respond to spam, flames, and trolls, much less flame them back. Ignore, report, move on
 * If someone is breaking the rules in a post, report the post.  Don’t report in their profile unless their profile itself is breaking the rules.
 * When reporting a post please include a reason why you're reporting otherwise we can't deal with the report. CHANGE HERE
 
