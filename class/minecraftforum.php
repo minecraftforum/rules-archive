@@ -15,7 +15,7 @@ class minecraftforum {
     
     public function authenticate ($username = false, $password = false) {
         if(!$username || !$password)
-            require 'config/minecraftforum.php';
+            die('no username and pass included for mcf connection asshat');
         
         $this->login($username, $password);
         
@@ -263,7 +263,7 @@ class minecraftforum {
             "field_12" => $member_details["field_12"]["value"],
             "field_13" => $member_details["field_13"]["value"],
             "field_15" => $member_details["field_15"]["value"],
-            "field_16" => time(),
+            "field_16" => $new_data["field_16"],
             "isRte" => 0,
             "noSmilies" => 0,
             "Post" => $member_details["signature"]["value"],

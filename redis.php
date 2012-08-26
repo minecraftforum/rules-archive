@@ -5,7 +5,6 @@
     require 'class/ipbxmlrpc.php';
     
     require 'config/application.php';
-    require 'config/minecraftforum.php';
 
     $redis = new Redis();
     $redis->connect(REDIS_IP, REDIS_PORT);
