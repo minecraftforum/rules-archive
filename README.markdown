@@ -110,7 +110,7 @@ For example if someone has already done
 ### Posting Restrictions
 ```
 
-and you do:
+and you do
 
 ```
 ## Posting Restrictions
