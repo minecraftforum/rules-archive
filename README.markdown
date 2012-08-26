@@ -70,6 +70,7 @@ separating each word. For example show_your_creations, servers, game_modes.
 ```json
 {
     "id":"0", // forum id, 
+    "position":"0", // position of the rules in the list
     "title":"Global Rules", // title of the section
     "last_updated":"2012-08-23 17:47" // last updated (BST)
 }
@@ -80,6 +81,7 @@ For example Show Your Creation would be:
 ```json
 {
     "id":"58",
+    "position":"1",
     "title":"Show Your Creation",
     "last_updated":"2012-08-23 17:47"
 }
@@ -169,6 +171,7 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
 * sectional rules having their own page to reference to
 * add support for duplicate titles; possibly use the h1 parent in the ID, 
     something link #servers:posting_restrictions
+* fix the profile edit bug damnit IPB
 
 # Group Flash Embed
 
@@ -215,12 +218,11 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
         <p>Summaries of each change since you last reviewed our rules are as follows:</p>
         <!-- updates here -->
         <ul id="citric_updated_rules_list">
-            <li id="1345956772" style="display:none;">rule update summary 1 here</li>
-            <li id="1345956779" style="display:none;">rule update summary 2 here</li>
-            <li id="1345956781" style="display:none;">rule update summary 3 here</li>
+            <li id="1345956772" style="display:none;">Profanity is no longer allowed in any capacity (2012-08-26)</li>
+            <li id="1345956779" style="display:none;">Support threads must contain a debug output (2012-08-24)</li>
         </ul>
         <p>
-            Please spend a couple of minutes reviewing our updated rules. The most important change is that we no longer allow profanity in any capacity. A full explanation of this new rule and the way it is enforced are available in the updated rules.
+            Please spend a couple of minutes reviewing our updated rules.
         </p>
         <ul class="topic_buttons" style="margin-left:-10px; margin-top:10px;">
             <li style="float:left;"><a href="http://rules-mcf-li.dev/changes/{field_16}/{member_id}" title="View Full Rules">View Updated Rules</a></li>
