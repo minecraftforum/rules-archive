@@ -1,5 +1,9 @@
 <?php
 
+    if(php_sapi_name() != 'cli') {
+        die('CLI access only');
+    }
+
     require 'helper.php';
     require 'class/minecraftforum.php';
     require 'class/ipbxmlrpc.php';

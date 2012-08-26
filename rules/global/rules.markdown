@@ -27,6 +27,8 @@ This is a brief summary of the global guidelines and why they matter
 * Misuse Money Linking Sites - Don’t use sites such as adf.ly for anything other than downloads of your own content. You must also always abide by the services TOS.
 * Post hoaxes - Deliberately posting false information. (For example, Herobrine sighting claims).
 * Create Multiple Accounts - If you have a good reason for having a clone account, contact a staff member first.
+* Herp Derpin
+* Herpy Derp Derpin
 
 ### Illegal Activity
 
@@ -81,11 +83,12 @@ Explanation of the infractions systems here
 
 ### Point actions
 
-1 Point:     No Posting Suspension
-2 Points:     3 Day Posting Suspension
-3-5 Points:     7 Day Postinfhfhgg Suspension
-6-9 Points:     14 Day Posting Suspension
-10 Points:     30 Day Posting Suspension
+1 Point:     No Posting Suspension  
+2 Points:     3 Day Posting Suspension  
+3-5 Points:     7 Day Postinfhfhgg Suspension  
+6-9 Points:     14 Day Posting Suspension  
+10 Points:     30 Day Posting Suspension  
+
 
 Each warning point is cleared 30 days after the last warning was issued -- this includes informal warnings -- unless permanently banned.
 
@@ -98,11 +101,11 @@ The administration reserves the right to permanently ban any member whose overal
 ### Disclaimer
 Staff - The administrators and moderators are responsible for the smooth and efficient running of the site. The staff reserves the right to take whatever action is deemed appropriate in any given situation, regardless of whether there is a specific rule covering that situation or not. If there is a misunderstanding or dispute, then please bring the issue up politely with that staff member in private. In all matters, the decision of the administration is final.
 
-## Help And Support
+## Help And Supports
 
 Sending private messages to staff members is not the correct way to get forum support. If you have a problem with the forum and need help you can post in the "[url="http://www.minecraftforum.net/forum/64-contact-forum-administration/"]Contact Forum Administration[/url]" section which is available under the "Forums" section. This section is monitored by all senior staff and will yield the fastest response to your issue. If you send a private message to a staff member there is a high chance it will be missed and not receive a reply.
 
-Each forum section has an assigned admghjgjhinistrator, they are as follows:
+Each forum section has an assigned admghjgjhinistrator, they are as follows:s
 
 ## FAQ
 

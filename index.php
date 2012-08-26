@@ -7,23 +7,11 @@
     require 'config/application.php';
     
     respond('/', function ($request, $response) {         
-        $compiled_rules = array_slice(scandir('compiled', 1), 0, 2);
+        $compiled_rules = array_slice(scandir('compiled', 1), 0, (count(scandir('compiled', 1)) - 2));
         $new_rule_file = file_get_contents("compiled/".$compiled_rules[0]);
         
         $old_time = $request->cookie('rule_set', false);
         $member_id = $request->cookie('rule_member_id', false);
-        
-        foreach($compiled_rules as $c_r) {
-            $expl = explode(".html", $c_r);
-            $comp_rules[] = $expl[0];
-        }
-        
-        sort($comp_rules);
-        foreach ($comp_rules as $c) {
-            if($c >= $old_time) {
-                $old = $c;
-            }
-        }
         
         if(is_numeric($member_id)) {
             $redis = new Redis();
@@ -36,11 +24,24 @@
             $redis->lPush('users', json_encode(array("member_id" => $member_id, "time" => time())));   
         }
         
-        if($old) {
+        if($old_time) {
+            
+            foreach($compiled_rules as $c_r) {
+                $expl = explode(".html", $c_r);
+                $comp_rules[] = $expl[0];
+            }
+
+            sort($comp_rules);
+            foreach ($comp_rules as $key => $c) {
+                if($c >= $old_time) {
+                    $old = (@$comp_rules[($key - 1)] ?: $c);
+                    break;
+                }
+            }
+            
             $old_rule_file = @file_get_contents("compiled/".$old.".html");
             
             if($old_rule_file) {
-                
                 $old_lines = explode("\n", $old_rule_file);
                 foreach($old_lines as $key => $line) {
                     if(strlen(trim($line)) > 0)
@@ -69,9 +70,7 @@
         $old = $request->param('old');
         $member_id = $request->param('member_id', false);
         
-        if(file_get_contents("compiled/{$old}.html")) {
-            $response->cookie('rule_set', $old);
-        }
+        $response->cookie('rule_set', $old);
         
         if($member_id) {
             $response->cookie('rule_member_id', $member_id);
