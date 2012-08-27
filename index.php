@@ -96,13 +96,19 @@
             if(!in_array($set, $reserved_rules)) {
                 $meta = json_decode(file_get_contents("rules/$set/meta.json"));
                 $rules = file_get_contents("rules/$set/rules.markdown");
-                $rules_positioned[$meta->position] = $rules;
+                if($meta->hidden == "0") { 
+                    $rules_positioned[$meta->position] = array("rules" => $rules, "meta" => $meta);
+                }
             }
         }
         
         ksort($rules_positioned);
         foreach($rules_positioned as $rule_set) {
-            $all_rules .= $rule_set."\n\n";
+            $meta = $rule_set["meta"];
+            $compiled = Markdown($rule_set["rules"]);
+            $compiled = str_replace("{last_updated}", $meta->last_updated, $compiled);
+            $rules = '<div class="section_rules" data-section="'.$meta->id.'" data-lastupdate="'.$meta->last_updated.'">'."\n\n".$compiled."\n\n".'</div>';
+            $all_rules .= $rules;
         }
         
         $compiled = Markdown($all_rules);

@@ -1,11 +1,12 @@
 h1, h2, h3, h4, h5, h6{
-    font-family:Georgia; /* font-family:'Lato',sans-serif; */
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight:bold;
+    margin:15px 0 5px 0;
     padding-bottom:6px;
 }
 
 #content{
-    margin-top:60px;
+    margin-top:40px;
 }
 
 .rules{
@@ -13,14 +14,25 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .rules p, li{
-    font-family:Georgia;
-    font-size:18px;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:16px;
     font-weight:400;
     line-height:26px;
 }
 
 .rules li{
     margin-bottom:6px;
+}
+
+.section_rules{
+    border:2px solid #EEE;
+    margin-bottom:20px;
+    padding:10px;
+}
+
+#footer{
+    margin-top:60px;
+    margin-bottom:60px;
 }
 
 .clear{

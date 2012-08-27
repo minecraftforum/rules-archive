@@ -1,122 +1,198 @@
 # Global Guidelines
 
-This is a brief summary of the global guidelines and why they matter
+The guidelines and information below applies to the entire forum.
 
-## Do
+## Do:
 
-* Be Polite - If you can't be respectful of other members, at least be courteous. Two wrongs don't make a right.
-* Be Nice - You may not see it, but a few nice words can make someone’s day better
-* Use Search - It's your friend, and it's in the upper-right corner of the forum.
-* Stay on Topic - Don't derail threads with your own conversation.
-* Think Before you Post - Sensible, well-thought-out, legible posts in the right section are easier to understand.
-* Use the Report Feature - If you see a rule violation, this lets the staff know to look at the thread/post and determine the best action.
+* __Be Nice And Polite__
 
-## Do Not
+    Every member deserves to be treated with respect. Positive and polite posts 
+    create a friendly and welcoming environment that all Minecraft players
+    will feel comfortable in.
 
-* OLD Bump Threads - Do not bump threads to get more replies or reply to older threads that have dropped off unless there is significant new information to add.
-* NEW Spam - TL;DR, +/-1, one word responses, memes, imageposts, doubleposts, large quotes, etc.
-* OLD Reply to Flames or Spam - Just report them
-* Post in the Wrong Section - We have specific sections to make things easier to find
-* Post server or player black lists - This has been used in the past to hurt innocent people
-* Trade or sell Minecraft accounts, this is a forum not a market place. This goes for other digital or physical products too, unless otherwise stated in a section specific rule list.
-* Post Giveaways - User-run giveaways or contests for prizes with monetary value are not allowed
-* Troll/Flame - See "Be Polite" above. Insulting and baiting will not be tolerated.
-* Troll Call - Calling someone a troll is a form of insult and will be treated as such.
-* Advertise - You can have a link to your personal (non-commercial) site in your signature. Any other links promoting outside websites or merchandise will be removed.
-* Post Redundant Threads - Be aware of other threads in the forum, and don't duplicate (see "Use Search" above).
-* Misuse Money Linking Sites - Don’t use sites such as adf.ly for anything other than downloads of your own content. You must also always abide by the services TOS.
-* Post hoaxes - Deliberately posting false information. (For example, Herobrine sighting claims).
-* Create Multiple Accounts - If you have a good reason for having a clone account, contact a staff member first.
-* Herp Derpin
-* Herpy Derp Derpin
+* __Search__
+
+    Most questions have been asked before, searching for an answer to a question 
+    before posting gets a question answered faster and keeps duplicate content 
+    low.
+
+* __Think Before Posting__
+
+    Sensible, well thought-out and legible posts help other users understand
+    what you are trying to explain.
+
+* __Report Content__
+    
+    Reported content is sent to staff members for review, if a post needs to be 
+    removed or modified then reporting will make that happen.
+
+* __Post In Relevant Section(s)__
+
+    Posting in the most relevant section will ensure topics are seen by members
+    most interested in the subject. Topics posted in the wrong section will be
+    moved by moderators.
+
+
+## Do Not:
+
+* __Use Profanity__
+
+    As a family friendly forum we censor all profanity, however the censor is
+    not an excuse to still swear; all posts that contain any instance of 
+    profanity will be removed.
+
+* __Bump Threads__
+    
+    Posting in a topic only to bring it back to the front page of the forum
+    is not allowed, a topic should only be on the front page of a forum if there
+    is active discussion taking place.
+
+* __Spam__
+
+    A spam post is a post that provides no value to the discussion. The most 
+    common spam posts are posting "tl:dr;", "+1", "this", posting image macros,
+    and nothing but memes. These sort of posts really rustle our jimmies.
+
+* __Reply to Inappropriate Content__
+
+    If inappropriate content is posted the report feature should be used,
+    replying to inappropriate content escalates the issue and can result in all
+    involved parties receiving infractions.
+
+* __Trade or Sell Minecraft Accounts__
+    
+    We do not allow the sale of Minecraft Accounts, if you wish to acquire a
+    Minecraft account please purchase via [Minecraft.net](http://minecraft.net).
+
+* __Giveaways__
+
+    User-run giveaways or contents for prizes of monetary value are not allowed.
+
+* __Advertise__
+
+    Advertising a website in your signature is acceptable, however creating
+    topics about your website is not allowed. If you want to advertise on
+    minecraftforum.net please contact the 
+    [Curse advertising department](http://www.curse.com/advertising/overview).
+
+* __Misuse Money Linking Services__
+
+    Sites that provide incentives for generating clickthroughs (such as adf.ly)
+    are only allowed to be used for downloads of content that you created. We
+    report any abuse to the site operators and will often result in the
+    relevant accounts being shut down.
+
+* __Hoxes__
+
+    Deliberately posting misleading or inaccurate information to confuse users
+    is unacceptable, this includes sightings of Herobrine.
+
+* __Access Accounts Without Permission__
+
+    The only user permitted to access an account is the owner, unless permission
+    is explicitly granted by that user.
 
 ### Illegal Activity
 
-* Making available copies of the current or previous Minecraft files, minecraft.jar etc
-* Anything referring to malicious game modifications or clients with the potential to harm other users or servers
-* Any link or image that encourages fghfhgusers to perform a task so that the poster may be compensated financially.
-* Any material that is the work of another individual but is being represented as original. Permission must be obtained from the original creator, and due credit must be given, before including any element of that creator's work.
-* Posting ANY illegal content, this includes pirated copies of ANY GAME not just Minecraft!!!!
+* __Piracy__
 
-### Abuse a Member's Personal Safety
+    Distribution of any content not owned by the user is unacceptable, this 
+    includes all forms of media piracy (music, film, video game etc). This rule
+    also extends to linking to sites that primarily function as a facilitator of
+    piracy.
 
-* NEW Swearing at a member; while there is no rule against swearing here, use of it against another member is a different story;
-* NEW Any offensive, pornographic, ghffghor obscene material;
-* NEW Overt sexually loaded comments or content;
-* Discrimination against the age, race, gender, religion, ethnicity, nationality, or sexual orientation of another member.
-* Login to another users account without permission
-* Spread malicious content such as viruses
+* __Redistribution of Mojang Property__
 
-### Spread Hate Speech
+    Minecraft and all associated assets are property of Mojang. Redistribution 
+    of Mojang owned property (for example Minecraft.jar) is not allowed, all
+    posts must remain inline with the 
+    [Minecraft Terms Of Service](http://www.minecraft.net/terms). Linking to 
+    Mojang hosted files is acceptable, eg: assets.minecraft.net.
 
-* The use of slurs of any kind;
-* Derogatory statements about social groups, including but not limited to age, race, gender, religion, ethnicity, nationality, or sexuality;
-* Promoting or expressing support for hate groups and terrorist organizations;
-* NEW Posting messages deliberately fhgfhgto offend or upset members of a social group CHANGE HERE
-* new line
+* __Hate Speech__
 
+    As a family friendly and all inclusive community we do not allow any form of
+    discrimination, this includes -- but is not limited to -- age, race, gender
+    nationality, ethnicity, religion and sexuality.
 
-## How to deal with rule breaking posts that you see
+* __Spread Malicious Content__
+
+    Viruses and malware are forbidden, any intentional distribution of either
+    will result in permanent exclusion from minecraftforum.net.
+
+## Section Specific Rules
+
+Each section (and individual forum) may have individual rules. Sectional rules do not contradict the global rules however they may require your posts to be in made in a specific way or contain information not required in other sections.
+
+## Moderator Action
 
 The following information is about what to do when you find people breaking the rules and what happens if you break the rules outlined above.
 
-### Reporting a post
+### Reporting A Post
 
-* If you see an infraction to the rules, report it. If you're not sure, report it anyway. There are no penalties if you're wrong
-* Don't tell the offender you’re reporting them, it doesn't help the staff in any way and can only lead to problems.
-* CHANGED LINE Don't respond to spam, flames, and trolls, much less flame them back. Ignore, report, move on
-* If someone is breaking the rules in a post, report the post.  Don’t report in their profile unless their profile itself is breaking the rules.
-* When reporting a post please include a reason why you're reporting otherwise we can't deal with the report. CHANGE HERE
+Rule breaking posts should be reported by any user that comes across them. There is a "report" button on every post, when a post is reported
+the moderators of the site are alerted, reports automatically include the post content. Reports should contain an explanation of why a post is being reported.
 
-#### Mini-Modding
+Any content that needs moderator attention should be reported. There are no penalties for mis-reporting content.
 
-Mini-modding is replyingfghfhg to a rule breaking post with information on the rule break. Some forms of mini-modding are allowed: If a user has broken a section specific rule (such as posting in the wrong section or not including required information) users are allowed to reply to the user explaining what rule has been broken and how to fix the issue. To be acceptable "Mini-modding" the post must neet the following requirements
+### Mini Modding
+
+Mini-modding is replying to a rule breaking post with information on the rule break. Some forms of mini-modding are allowed: 
+If a user has broken a section specific rule (such as posting in the wrong section or not including required information) users 
+are allowed to reply to the user explaining what rule has been broken and how to fix the issue. 
+To be acceptable "Mini-modding" the post must meet the following requirements
 
 * Explains which rule the post breaks
-* Explains (where necessary) how the poster can rectify the issue CHANGE HERE
+* Explains (where necessary) how the poster can rectify the issue
 
-Then you must report the post. "Mini-modding" without reporting the post is not allowed.
+Then the user must report the post. "Mini-modding" without reporting the post is not allowed.
 
 ## Infractions
 
-Explanation of the infractions systems here
+When a rule is broken an infraction will be issued. There are 2 types of infractions, formal and informal. 
 
-### Point actions
+### Informal
 
-1 Point:     No Posting Suspension  
-2 Points:     3 Day Posting Suspension  
-3-5 Points:     7 Day Postinfhfhgg Suspension  
-6-9 Points:     14 Day Posting Suspension  
-10 Points:     30 Day Posting Suspension  
+An informal infraction is used to remind a user that they have broken a minor rule for the first time. Informal infractions are used as a record
+of when a user has been informed. There are no infraction points issued with informals, they do not count towards the posting suspension limits.
 
+### Formal
 
-Each warning point is cleared 30 days after the last warning was issued -- this includes informal warnings -- unless permanently banned.
+A formal infraction is issued when a rule has been broken and we believe continued violation of this rule should result in a posting suspension.
+A formal warning can have between 1 and 10 points associated with it, the average formal warning has 1 point.
 
-If an account that you use is banned you yjjhgjare not permitted to use or create another account to bypass the ban.
+### Points
+
+Every 30 days infractions "expire" and the points are removed from a users total infraction points. If a user reaches a specific point total within
+30 days posting suspensions are issued, the point total and suspension lengths are as follows:
+
+* __1 Point__ No action
+* __2 Points__ 3 day posting suspension
+* __3 Points__ 7 day posting suspension
+* __4 Points__ 7 day posting suspension
+* __5 Points__ 7 day posting suspension
+* __6 Points__ 14 day posting suspension
+* __7 Points__ 14 day posting suspension
+* __8 Points__ 14 day posting suspension
+* __9 Points__ 14 day posting suspension
+* __10 Points__ 30 day posting suspension
+
 
 ### Permanent Bans
 
-The administration reserves the right to permanently ban any member whose overall behavior is detrimental to the community.
+Permanent bans are never automatically issued, they are reserved for users that we believed to be detrimental to the minecraftforum.net community.
+They are issued to users that continually break the rules and do not provide any value to the community.
 
-### Disclaimer
-Staff - The administrators and moderators are responsible for the smooth and efficient running of the site. The staff reserves the right to take whatever action is deemed appropriate in any given situation, regardless of whether there is a specific rule covering that situation or not. If there is a misunderstanding or dispute, then please bring the issue up politely with that staff member in private. In all matters, the decision of the administration is final.
+## Help And Support
 
-## Help And Supports
+Support is provided to minecraftforum.net members through the [Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) section of the forum.
+Private Messages are not an official method of requesting support and we do not guarantee that a private message sent to any staff member will be replied to.
 
-Sending private messages to staff members is not the correct way to get forum support. If you have a problem with the forum and need help you can post in the "[url="http://www.minecraftforum.net/forum/64-contact-forum-administration/"]Contact Forum Administration[/url]" section which is available under the "Forums" section. This section is monitored by all senior staff and will yield the fastest response to your issue. If you send a private message to a staff member there is a high chance it will be missed and not receive a reply.
+## Moderator Applications
 
-Each forum section has an assigned admghjgjhinistrator, they are as follows:s
+Active members of the community are encouraged to apply to be a forum moderator. Information on what being a moderator entails is [available here](http://www.minecraftforum.net/topic/1422941-applying-to-be-a-moderator/)
+and applications can be submitted via the [application system](http://www.minecraftforum.net/mod-recruit/post/).
 
-## FAQ
+## Ban Appeals
 
-### Posting Restrictions
-
-We currently have a set of posting restrictions in place for all new members that have been registered for less than 24 hours. These accounts are limited to 10 posts during those first 24 hours and can only create 1 topic every 5 minutes (up to the total of 10). We also have a filter in place that monitors posts for known scams and viruses. These restrictions are in place to help protect the forum and members from spam.
-
-### Moderator Applications
-
-explanation of mod apops here
-
-### Ban appeals (and other misc. help)
-
-explanation of ticket system here
+If you wish to appeal a minecraftforum.net please send an email to banappeal@minecraftforum.net including your account information.
