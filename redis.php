@@ -40,7 +40,12 @@
         
         $user_updates[$user_data->member_id] = time();
         
-        echo "user {$user_data->member_id} updated (time: {$user_data->time})"."\n";
+        $log_string = "user {$user_data->member_id} updated (time: {$user_data->time})"."\n";
+        
+        $fh = fopen("../logs/user_updates.log", "a");
+        fwrite($fh, $log_string);
+        
+        echo $log_string;
     }
     
-    echo "oh no, we died :-(";
+    echo "oh no, we died :-( SOMEONE ALERT CITRICSQUID";

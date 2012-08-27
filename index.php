@@ -115,7 +115,7 @@
         $fh = fopen("compiled/".$time.".html", "w");
         fwrite($fh, $compiled);
         
-        echo '<pre><textarea cols="100" rows="10">'.htmlspecialchars('<div id="'.$time.'">add summary here</div>').'</textarea></pre>';
+        echo '<pre><textarea cols="100" rows="10">'.htmlspecialchars('<li id="'.$time.'">add summary here</li>').'</textarea></pre>';
     });
     
     respond('404', function ($request, $response) {
