@@ -30,7 +30,7 @@ Released mods only.
 * Must follow tagging format.
 * Must have an installation guide.
 * Any required permissions must be displayed in the original post.
-* NO asking or pressuring for mods to update.
+* NO asking or pressuring for mods to update
 
 ### WIP Mods
 
