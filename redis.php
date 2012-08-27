@@ -31,7 +31,7 @@
         
         $user_data = json_decode($user[1]);
         
-        if(isset($user_updates[$user_data->member_id]) && $user_updates[$user_data->member_id] > (time() - 120)) {
+        if(@isset($user_updates[$user_data->member_id]) && @$user_updates[$user_data->member_id] > (time() - 120)) {
             echo "user {$user_data->member_id} skipping, already updated in the last 120 seconds (2 mins) :)\n";
             continue;
         }

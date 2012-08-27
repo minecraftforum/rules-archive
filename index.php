@@ -12,18 +12,7 @@
         
         $old_time = $request->cookie('rule_set', false);
         $member_id = $request->cookie('rule_member_id', false);
-        
-        if(is_numeric($member_id)) {
-            $redis = new Redis();
-            $redis->connect(REDIS_IP, REDIS_PORT);
-            $redis->auth(REDIS_AUTH);
-
-            if(!$redis->ping())
-                die('aw no redis :(');
-
-            $redis->lPush('users', json_encode(array("member_id" => $member_id, "time" => time())));   
-        }
-        
+            
         if($old_time) {
             
             foreach($compiled_rules as $c_r) {
@@ -74,6 +63,17 @@
         
         if($member_id) {
             $response->cookie('rule_member_id', $member_id);
+            
+            if(is_numeric($member_id)) {
+                $redis = new Redis();
+                $redis->connect(REDIS_IP, REDIS_PORT);
+                $redis->auth(REDIS_AUTH);
+
+                if(!$redis->ping())
+                    die('aw no redis :(');
+
+                $redis->lPush('users', json_encode(array("member_id" => $member_id, "time" => time())));   
+            }
         }
         
         $response->redirect('/', 301);
