@@ -82,7 +82,7 @@ The guidelines and information below applies to the entire forum.
     report any abuse to the site operators and will often result in the
     relevant accounts being shut down.
 
-* __Hoxes__
+* __Hoaxes__
 
     Deliberately posting misleading or inaccurate information to confuse users
     is unacceptable, this includes sightings of Herobrine.
