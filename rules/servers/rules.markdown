@@ -19,7 +19,7 @@ Servers is the section for PC specific posts to be made.
 
   There is no reserving of posts or any "First!" posts. The OP should be used for this instead. These posts are considered spam and a waste of space.
   
-* __Absolutely No Affiliate Linking.__
+* __Use Affiliate Links__
 
   Using affiliate links is not allowed in the hosting section.
   
@@ -55,35 +55,35 @@ All posts that violate these rules will be removed.
 
 * Cracked servers are not allowed to be advertised
 * Only 1 review per member 
-* Steal another server's original post is not allowed, this is considered spam and plagerism.
-* Encouraging bumping of any topic is not allowed.
+* Steal another server's original post is not allowed, this is considered spam and plagerism
+* Encouraging bumping of any topic is not allowed
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of your server topic.
 
 #### Looking For
 
-* Posting video-related/let's play topics is not allowed. Those belong here: Video/Series Help
-* There is absolutely no looking for normal players.
-* Refer to this [topic](http://www.minecraftforum.net/topic/1441894-) for what topic are allowed.
-* Refer to this [topic](http://www.minecraftforum.net/topic/1441894-) for how to reply to topics.
+* Posting video-related/let's play topics is not allowed
+* Only threads looking for specific servers, staff members, builders, or ideas are allowed
+* General server advertisement threads are not allowed
+* Copy-Paste Replies are not allowed, replies must be relevant to the thread
 
 #### Server Administration
 
-* Bumping once every 48 hours on your support-related topic is allowed.
-    * This is only this section, and only if there are no replies from other people after that time.
+* Bumping once every 48 hours on your support-related topic is allowed
+    * This is only this section, and only if there are no replies from other people after that time
     
 #### Custom Server Software
 
-* Only post things about your software topic in this section
+* Only post topics about server software in this section
 * Support questions belong in either Support or Server Administration
 
 #### Minecraft Server Hosting
 
-* Any feedback about a host should remain in a host's topic.
-* Excessive Arguments or complaints are not allowed, and should be taken to a PM.
-* There should be no support posts in a host's topic, these belong within the company's own support system.
-    * Informal warnings will be issued for continued support posting.
-* A host must apply to post in the default section, if one do not wish to, then post in [Other Hosts](http://www.minecraftforum.net/forum/46-other-hosts/).
-    * To apply for posting in that section, read [here](http://www.minecraftforum.net/topic/1254208)
-* Any non-reviewed hosts go in [Other Hosts](http://www.minecraftforum.net/forum/46-other-hosts/).
-* Those requesting a custom quote post in [Hosting Requests](http://www.minecraftforum.net/forum/130-hosting-requests/).
-* All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM.
+* At any time, a host may be removed or banned from posting in the hosting section at the staff's dicretion
+* Any feedback about a host should remain in a host's topic
+* All global rules regarding affiliate links and giveaways still apply
+* Excessive Arguments or complaints are not allowed, and should be taken to a PM
+* There should be no support posts in a host's topic, these belong within the company's own support system
+    * Informal warnings will be issued for continued support posting
+* A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
+* Those requesting a custom quote should post in the Hosting Requests section
+* All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
