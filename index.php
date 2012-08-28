@@ -103,6 +103,7 @@
         }
         
         ksort($rules_positioned);
+        
         foreach($rules_positioned as $rule_set) {
             $meta = $rule_set["meta"];
             $compiled = Markdown($rule_set["rules"]);

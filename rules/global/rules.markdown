@@ -2,7 +2,7 @@
 
 The guidelines and information below applies to the entire forum.
 
-## Do:
+## Do
 
 * __Be Nice And Polite__
 
@@ -33,7 +33,7 @@ The guidelines and information below applies to the entire forum.
     moved by moderators.
 
 
-## Do Not:
+## Do Not
 
 * __Use Profanity__
 

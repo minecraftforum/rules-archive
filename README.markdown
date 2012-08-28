@@ -236,8 +236,6 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
 
 * improved styling of the rules
 * sectional rules having their own page to reference to
-* add support for duplicate titles; possibly use the h1 parent in the ID, 
-    something link #servers:posting_restrictions
 * glossary? 
 * security? maybe like, fake encryption on the URL string? but this is open 
     source so that's like something dumb...

@@ -908,12 +908,26 @@ class Markdown_Parser {
 			return $matches[0];
                 
 		$level = $matches[2]{0} == '=' ? 1 : 2;
-		$block = "<h$level id=\"".strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[1])))."\>".$this->runSpanGamut($matches[1])."</h$level>";
+                
+                if($level == 1) {
+                    $this->level_heading = strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[1]))).":";
+                } else {
+                    $level_heading = $this->level_heading;
+                }
+                
+		$block = "<h$level id=\"".$this->level_heading.strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[1])))."\>".$this->runSpanGamut($matches[1])."</h$level>";
 		return "\n" . $this->hashBlock($block) . "\n\n";
 	}
 	function _doHeaders_callback_atx($matches) {
 		$level = strlen($matches[1]);
-		$block = "<h$level id=\"".strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2])))."\">".$this->runSpanGamut($matches[2])."</h$level>";
+                
+                if($level == 1) {
+                    $this->level_heading = strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2]))).":";
+                } else {
+                    $level_heading = $this->level_heading;
+                }
+                
+		$block = "<h$level id=\"".$level_heading.strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2])))."\">".$this->runSpanGamut($matches[2])."</h$level>";
 		return "\n" . $this->hashBlock($block) . "\n\n";
 	}
 
