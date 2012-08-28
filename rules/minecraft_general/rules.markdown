@@ -6,7 +6,7 @@ Each individual forum in this section has unique rules, they are as follows:
 
 * Discussion of released features only
 
-## Future Updates
+### Future Updates
 
 * Discussion of speculated, hinted and announced Minecraft features 
 * Suggestion are not allowed
