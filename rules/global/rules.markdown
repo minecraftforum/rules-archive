@@ -122,7 +122,13 @@ The guidelines and information below applies to the entire forum.
 
 ## Section Specific Rules
 
-Each section (and individual forum) may have individual rules. Sectional rules do not contradict the global rules however they may require your posts to be in made in a specific way or contain information not required in other sections.
+Each section (and individual forum) may have individual rules. Sectional rules 
+do not contradict the global rules however they may require your posts to be in 
+made in a specific way or contain information not required in other sections.
+
+The sectional rules are also included in this document, after reading through
+the remainder of the global rules you can scroll down to find the sectional 
+rules.
 
 ## Moderator Action
 
