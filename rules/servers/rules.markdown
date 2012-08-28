@@ -73,7 +73,7 @@ All posts that violate these rules will be removed.
     
 #### Custom Server Software
 
-* Only post things about your software topic in this section
+* Only post topics about server software in this section
 * Support questions belong in either Support or Server Administration
 
 #### Minecraft Server Hosting
@@ -84,6 +84,6 @@ All posts that violate these rules will be removed.
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM
 * There should be no support posts in a host's topic, these belong within the company's own support system
     * Informal warnings will be issued for continued support posting
-* A host must apply to post in the default section, if one do not wish to, then post in the "Other Hosts" Section
+* A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
 * Those requesting a custom quote should post in the Hosting Requests section
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
