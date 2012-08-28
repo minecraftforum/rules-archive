@@ -6,6 +6,7 @@
 * One thread per creation
 * You may only post your own work, not the work of others
 * Constructive criticism is encouraged, being rude is not
+* Excessive caps and symbols are not allowed in titles
 
 ## Screenshots
 
@@ -35,6 +36,7 @@ following Mapping and Modding sub-section instead:
     posted multiple times will be removed from each location.
 
 * Griefing videos are not allowed
+* Posts to announce a livestream restarting are allowed
 
 ## Videos / Series Help
 
