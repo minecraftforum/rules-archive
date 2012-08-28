@@ -277,7 +277,7 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
             message will return.
         </p>
         <ul class="topic_buttons" style="margin-left:-10px; margin-top:20px;">
-            <li style="float:left;"><a href="http://rules.mcf.li/changes/0/{member_id}" title="View Full Rules">View Rules</a></li>
+            <li style="float:left;"><a href="http://rules.mcf.li/changes/0/{member_id}/secure:" title="View Full Rules">View Rules</a></li>
         </ul>
         <div style="clear:both;"></div>
     </div>
@@ -293,7 +293,7 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
             Please spend a couple of minutes reviewing our updated rules.
         </p>
         <ul class="topic_buttons" style="margin-left:-10px; margin-top:10px;">
-            <li style="float:left;"><a href="http://rules.mcf.li/changes/{field_16}/{member_id}" title="View Full Rules">View Updated Rules</a></li>
+            <li style="float:left;"><a href="http://rules.mcf.li/changes/{field_16}/{member_id}/secure:{field_17}" title="View Full Rules">View Updated Rules</a></li>
         </ul>
         <div style="clear:both;"></div>
     </div>
