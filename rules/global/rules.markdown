@@ -18,7 +18,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Think Before Posting__
 
-    Sensible, well thought-out and legible posts help other users understand
+    Sensible, well thought-out and legible posts help other members understand
     what you are trying to explain.
 
 * __Report Content__
@@ -66,7 +66,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Giveaways__
 
-    User-run giveaways or contents for prizes of monetary value are not allowed.
+    Member-run giveaways or contents for prizes of monetary value are not allowed.
 
 * __Advertise__
 
@@ -84,19 +84,19 @@ The guidelines and information below applies to the entire forum.
 
 * __Hoaxes__
 
-    Deliberately posting misleading or inaccurate information to confuse users
+    Deliberately posting misleading or inaccurate information to confuse members
     is unacceptable, this includes sightings of Herobrine.
 
 * __Access Accounts Without Permission__
 
-    The only user permitted to access an account is the owner, unless permission
-    is explicitly granted by that user.
+    The only member permitted to access an account is the owner, unless permission
+    is explicitly granted by that member.
 
 ### Illegal Activity
 
 * __Piracy__
 
-    Distribution of any content not owned by the user is unacceptable, this 
+    Distribution of any content not owned by the member is unacceptable, this 
     includes all forms of media piracy (music, film, video game etc). This rule
     also extends to linking to sites that primarily function as a facilitator of
     piracy.
@@ -136,7 +136,7 @@ The following information is about what to do when you find people breaking the 
 
 ### Reporting A Post
 
-Rule breaking posts should be reported by any user that comes across them. There is a "report" button on every post, when a post is reported
+Rule breaking posts should be reported by any member that comes across them. There is a "report" button on every post, when a post is reported
 the moderators of the site are alerted, reports automatically include the post content. Reports should contain an explanation of why a post is being reported.
 
 Any content that needs moderator attention should be reported. There are no penalties for mis-reporting content.
@@ -144,14 +144,14 @@ Any content that needs moderator attention should be reported. There are no pena
 ### Mini Modding
 
 Mini-modding is replying to a rule breaking post with information on the rule break. Some forms of mini-modding are allowed: 
-If a user has broken a section specific rule (such as posting in the wrong section or not including required information) users 
-are allowed to reply to the user explaining what rule has been broken and how to fix the issue. 
+If a member has broken a section specific rule (such as posting in the wrong section or not including required information) members 
+are allowed to reply to the member explaining what rule has been broken and how to fix the issue. 
 To be acceptable "Mini-modding" the post must meet the following requirements
 
 * Explains which rule the post breaks
 * Explains (where necessary) how the poster can rectify the issue
 
-Then the user must report the post. "Mini-modding" without reporting the post is not allowed.
+Then the member must report the post. "Mini-modding" without reporting the post is not allowed.
 
 ## Infractions
 
@@ -159,8 +159,8 @@ When a rule is broken an infraction will be issued. There are 2 types of infract
 
 ### Informal
 
-An informal infraction is used to remind a user that they have broken a minor rule for the first time. Informal infractions are used as a record
-of when a user has been informed. There are no infraction points issued with informals, they do not count towards the posting suspension limits.
+An informal infraction is used to remind a member that they have broken a minor rule for the first time. Informal infractions are used as a record
+of when a member has been informed. There are no infraction points issued with informals, they do not count towards the posting suspension limits.
 
 ### Formal
 
@@ -169,7 +169,7 @@ A formal warning can have between 1 and 10 points associated with it, the averag
 
 ### Points
 
-Every 30 days infractions "expire" and the points are removed from a users total infraction points. If a user reaches a specific point total within
+Every 30 days infractions "expire" and the points are removed from a members total infraction points. If a member reaches a specific point total within
 30 days posting suspensions are issued, the point total and suspension lengths are as follows:
 
 * __1 Point__ No action
@@ -186,8 +186,8 @@ Every 30 days infractions "expire" and the points are removed from a users total
 
 ### Permanent Bans
 
-Permanent bans are never automatically issued, they are reserved for users that we believed to be detrimental to the minecraftforum.net community.
-They are issued to users that continually break the rules and do not provide any value to the community.
+Permanent bans are never automatically issued, they are reserved for members that we believed to be detrimental to the minecraftforum.net community.
+They are issued to members that continually break the rules and do not provide any value to the community.
 
 ## Help And Support
 
