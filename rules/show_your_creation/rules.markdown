@@ -48,7 +48,7 @@ Please do not post threads with the purpose of sharing videos here.
 * This section is also NOT for promoting personal pages (such as YouTube Channels).
 * Recruitment threads for griefing videos are not allowed
 
-## Technical Help
+### Technical Help
 
 This section is only for technical help regarding livestreaming and video making. It is not for general computer help.
 
