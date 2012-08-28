@@ -240,8 +240,6 @@ If a user hasn't ever viewed the rules before then a simple summary is displayed
 * security? maybe like, fake encryption on the URL string? but this is open 
     source so that's like something dumb...
 * "change log"? Directory of changes since last visit
-* count the number of headings and set the table of contents to that height 
-    for clicking the links externally for the page section
 
 # Group Flash Embed
 

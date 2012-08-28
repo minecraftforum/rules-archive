@@ -51,8 +51,11 @@
                 }
             }
         }
+
+        preg_match_all('%<h[0-6]%', $new_rule_file, $headings);
+        $toc_height = (count($headings[0]) ?: 0) * 30;
         
-        $response->render('views/rules.php', array("rules" => $new_rule_file));
+        $response->render('views/rules.php', array("rules" => $new_rule_file, "toc_height" => $toc_height));
     });
     
     respond('/changes/[i:old]/[i:member_id]', function ($request, $response) {    
