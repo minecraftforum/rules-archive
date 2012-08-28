@@ -95,6 +95,7 @@ do that!
 ### Style / format guide
 
 * Topics are topics (not threads)
+* Address users as members, NO: "Users should always...", YES: "Members should always..."
 * Do not use colons in headings, NO: "Restrictions:", YES: "Restrictions"
 * List items should not end with a full stop (unless it's the paragraph
     description of the item)
