@@ -46,7 +46,7 @@ Servers is the section for PC specific posts to be made.
 
   Black ASCII blocks are not allowed in your topic title.
 
-All posts that violate these rules will be removed.
+All posts that violate these rules or the global rules will be removed.
 
 ### Sub-section rules
 
@@ -74,7 +74,7 @@ All posts that violate these rules will be removed.
 * Bumping once every 48 hours on your support-related topic is allowed
     * This is only this section, and only if there are no replies from other people after that time
 * Posting "there is a plugin/mod for that" without linking that to the post is not allowed
-* Necroing (posting on an old thread) is not encouraged. 
+* Necroing (posting on an old thread) is not encouraged
 * Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
     
 #### Custom Server Software
@@ -88,8 +88,8 @@ All posts that violate these rules will be removed.
 * Any feedback about a host should remain in a host's topic
 * All global rules regarding affiliate links and giveaways still apply
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM
-* There should be no support posts in a host's topic, these belong within the company's own support system
+* Support related posts are not allowed. Use the host's own support system or send them a private message
     * Informal warnings will be issued for continued support posting
 * A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
-* Those requesting a custom quote should post in the Hosting Requests section
+* Posts requesting a custom quote go in the Hosting Requests section
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
