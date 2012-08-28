@@ -61,10 +61,10 @@ All posts that violate these rules will be removed.
 
 #### Looking For
 
-* Posting video-related/let's play topics is not allowed. Those belong here: Video/Series Help
-* There is absolutely no looking for normal players.
-* Refer to this [topic](http://www.minecraftforum.net/topic/1441894-) for what topic are allowed.
-* Refer to this [topic](http://www.minecraftforum.net/topic/1441894-) for how to reply to topics.
+* Posting video-related/let's play topics is not allowed. Those belong in the Video/Series Help section.
+* Only threads looking for specific servers, staff members, builders, or ideas are allowed.
+* General server advertisement threads are not allowed.
+* Copy-Paste Replies are not allowed, replies must be relevant to the thread.
 
 #### Server Administration
 
@@ -78,12 +78,12 @@ All posts that violate these rules will be removed.
 
 #### Minecraft Server Hosting
 
+* At any time, a host may be removed or banned from posting in the hosting section at the staff's dicretion.
 * Any feedback about a host should remain in a host's topic.
+* All global rules regarding affiliate links and giveaways still apply.
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM.
 * There should be no support posts in a host's topic, these belong within the company's own support system.
     * Informal warnings will be issued for continued support posting.
-* A host must apply to post in the default section, if one do not wish to, then post in [Other Hosts](http://www.minecraftforum.net/forum/46-other-hosts/).
-    * To apply for posting in that section, read [here](http://www.minecraftforum.net/topic/1254208)
-* Any non-reviewed hosts go in [Other Hosts](http://www.minecraftforum.net/forum/46-other-hosts/).
-* Those requesting a custom quote post in [Hosting Requests](http://www.minecraftforum.net/forum/130-hosting-requests/).
+* A host must apply to post in the default section, if one do not wish to, then post in the "Other Hosts" Section.
+* Those requesting a custom quote should post in the Hosting Requests section.
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM.
