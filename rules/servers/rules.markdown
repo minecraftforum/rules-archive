@@ -57,7 +57,7 @@ All posts that violate these rules will be removed.
 * Steal another server's original post is not allowed, this is considered spam and plagerism
 * Encouraging bumping of any topic is not allowed
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of your server topic.
-* Servers may be removed or banned at the staff's dicretion.
+* Servers may be removed or banned at the staff's dicretion
 
 #### Looking For
 
@@ -65,17 +65,17 @@ All posts that violate these rules will be removed.
 * Only threads looking for specific servers, staff members, builders, or ideas are allowed
 * General server advertisement threads are not allowed
 * Copy-Paste Replies are not allowed, replies must be relevant to the thread
-* Replies to a topic may only be made up to 7 days after the last post by the OP.
-* Replies must use words, using pictures that contain all the text is not allowed.
-* Replies to a topic must follow the guidelines outlined in the original post.
+* Replies to a topic may only be made up to 7 days after the last post by the OP
+* Replies must use words, using pictures that contain all the text is not allowed
+* Replies to a topic must follow the guidelines outlined in the original post
 
 #### Server Administration
 
 * Bumping once every 48 hours on your support-related topic is allowed
     * This is only this section, and only if there are no replies from other people after that time
-* Posting "there is a plugin/mod for that" without linking that to the post is not allowed.
+* Posting "there is a plugin/mod for that" without linking that to the post is not allowed
 * Necroing (posting on an old thread) is not encouraged. 
-* Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics.
+* Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
     
 #### Custom Server Software
 
