@@ -4,7 +4,8 @@ Servers is the section for PC specific posts to be made.
 
 ## Section-wide Rules
 
-DO NOT:
+### Do Not
+
 * __Sell Items And Services__
     
     This goes for virtual items as well as real-world items. The only exception to this rule is hosts selling Minecraft server hosting.
