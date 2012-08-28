@@ -294,5 +294,7 @@ class minecraftforum {
         $page_return = curl_exec($page);
 
         $req_info = curl_getinfo($page);
+        
+        return true;
     }
 }

@@ -41,7 +41,6 @@
         if($update) {
             $log_string = "user {$user_data->member_id} updated (time: {$user_data->time})"."\n";
             $user_updates[$user_data->member_id] = time();
-            
         } else {
             $log_string = "user {$user_data->member_id} could not be updated, invalid key :( (time: {$user_data->time})"."\n";
         }
