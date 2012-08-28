@@ -56,7 +56,7 @@ All posts that violate these rules will be removed.
 * Only 1 review per member
 * Stealing another server's original post is not allowed, this is considered spam and plagerism
 * Encouraging bumping of any topic is not allowed
-* Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of your server topic.
+* Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of your server topic
 * Servers may be removed or banned at the staff's discretion
 
 #### Looking For
@@ -84,7 +84,7 @@ All posts that violate these rules will be removed.
 
 #### Minecraft Server Hosting
 
-* At any time, a host may be removed or banned from posting in the hosting section at the staff's dicretion
+* At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
 * Any feedback about a host should remain in a host's topic
 * All global rules regarding affiliate links and giveaways still apply
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM
