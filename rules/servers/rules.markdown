@@ -53,18 +53,18 @@ All posts that violate these rules will be removed.
 #### Minecraft Survival and Creative Servers
 
 * Cracked servers are not allowed to be advertised
-* Only 1 review per member 
-* Steal another server's original post is not allowed, this is considered spam and plagerism
+* Only 1 review per member
+* Stealing another server's original post is not allowed, this is considered spam and plagerism
 * Encouraging bumping of any topic is not allowed
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of your server topic.
-* Servers may be removed or banned at the staff's dicretion
+* Servers may be removed or banned at the staff's discretion
 
 #### Looking For
 
 * Posting video-related/let's play topics is not allowed
 * Only threads looking for specific servers, staff members, builders, or ideas are allowed
 * General server advertisement threads are not allowed
-* Copy-Paste Replies are not allowed, replies must be relevant to the thread
+* Copy-Paste replies are not allowed, replies must be relevant to the thread
 * Replies to a topic may only be made up to 7 days after the last post by the OP
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
