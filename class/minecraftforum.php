@@ -226,7 +226,7 @@ class minecraftforum {
     * mcf functions
     */
 
-    function edit_member($member_id, $new_data) {        
+    function edit_member($member_id, $new_data, $view_key) {        
         $ipb_api = new ipbxmlrpc();
         
         $member = $ipb_api->sendXmlRpc(
@@ -246,6 +246,12 @@ class minecraftforum {
         
         $member_details = rpc_array($member["methodResponse"]["params"]["param"]["value"]["struct"]["member"]);
         
+        if($member_details["field_17"]["value"] != $view_key) {
+            return false;
+        }
+        
+        $view_key = md5(mt_rand());
+        
         $details = array(
             "status_updates" => ($member_details["bw_no_status_update"]["value"] == 1) ? 0 : 1,
             "title" => $member_details["title"]["value"],
@@ -264,6 +270,7 @@ class minecraftforum {
             "field_13" => $member_details["field_13"]["value"],
             "field_15" => $member_details["field_15"]["value"],
             "field_16" => $new_data["field_16"],
+            "field_17" => $view_key,
             "isRte" => 1,
             "noSmilies" => 1,
             "Post" => $member_details["signature"]["value"],

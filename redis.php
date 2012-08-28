@@ -36,11 +36,15 @@
             continue;
         }
     
-        $minecraftforum->edit_member($user_data->member_id, array("field_16" => $user_data->time));
+        $update = $minecraftforum->edit_member($user_data->member_id, array("field_16" => $user_data->time), $user_data->view_key);
         
-        $user_updates[$user_data->member_id] = time();
-        
-        $log_string = "user {$user_data->member_id} updated (time: {$user_data->time})"."\n";
+        if($update) {
+            $log_string = "user {$user_data->member_id} updated (time: {$user_data->time})"."\n";
+            $user_updates[$user_data->member_id] = time();
+            
+        } else {
+            $log_string = "user {$user_data->member_id} could not be updated, invalid key :( (time: {$user_data->time})"."\n";
+        }
         
         $fh = fopen("../logs/user_updates.log", "a");
         fwrite($fh, $log_string);

@@ -58,9 +58,10 @@
         $response->render('views/rules.php', array("rules" => $new_rule_file, "toc_height" => $toc_height));
     });
     
-    respond('/changes/[i:old]/[i:member_id]', function ($request, $response) {    
+    respond('/changes/[i:old]/[i:member_id]/[*:view_key]', function ($request, $response) {    
         $old = $request->param('old');
         $member_id = $request->param('member_id', false);
+        $view_key = substr($request->param('view_key', false), 7);
         
         $response->cookie('rule_set', $old);
         
@@ -75,7 +76,7 @@
                 if(!$redis->ping())
                     die('aw no redis :(');
 
-                $redis->lPush('users', json_encode(array("member_id" => $member_id, "time" => time())));   
+                $redis->lPush('users', json_encode(array("member_id" => $member_id, "time" => time(), "view_key" => $view_key)));   
             }
         }
         
