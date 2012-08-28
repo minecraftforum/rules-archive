@@ -6,7 +6,6 @@ Servers is the section for PC specific posts to be made.
 
 ### Do Not
 
-
 * __Sell Items And Services__
     
     This goes for virtual items as well as real-world items. The only exception to this rule is hosts selling Minecraft server hosting.
@@ -15,7 +14,6 @@ Servers is the section for PC specific posts to be made.
 
   Advertising a different server in an existing server topic is not allowed.
       
-
 * __Advertise Other Sites__
     
     Advertising other sites that are not selling Minecraft server hosting is not allowed. A host must sell Minecraft servers to be allowed to advertise in the Minecraft Hosting Section
@@ -70,7 +68,6 @@ All posts that violate these rules will be removed.
 * Replies to a topic may only be made up to 7 days after the last post by the OP.
 * Replies must use words, using pictures that contain all the text is not allowed.
 * Replies to a topic must follow the guidelines outlined in the original post.
-
 
 #### Server Administration
 
