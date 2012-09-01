@@ -1,7 +1,7 @@
 # Off Topic
 
 * Not safe for work content is not allowed
-* Minecraft unrelated content only
+* No Minecraft related content allowed
 * __Do Not Disrupt Roleplay__
 
     Participating in a Roleplay requires following of that Roleplay's rules.
