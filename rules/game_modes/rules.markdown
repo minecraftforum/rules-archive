@@ -2,7 +2,7 @@
 
 ## Minecraft: Pocket Edition
 
-* __Do not partake or create platform wars__
+* __Do not partake in or create platform wars__
 
     Please do not make threads or comments regarding one platform being better than the other as they encourage flame wars within the community. 
 
@@ -44,7 +44,7 @@
 
 * __Do not encourage modification__
  
-    Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against [Microsoft Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+    Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
 
 * __Do not post update threads__
 
