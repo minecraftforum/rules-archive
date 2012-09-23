@@ -12,7 +12,7 @@
     
 * __Do not post update threads__
 
-    Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have discussion value. Such threads will be locked for redundancy.
+    Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have no discussion value. Such threads will be locked for redundancy.
         
 ### Pocket Edition: Texture Packs
 
