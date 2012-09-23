@@ -6,17 +6,14 @@ Each individual forum in this section has unique rules, they are as follows:
 
 * Discussion of released features only
 
+### Snapshot Discussion
+
+* Discussion of snapshot features only
+
 ### Future Updates
 
-* Discussion of speculated, hinted and announced Minecraft features 
-* Suggestion are not allowed
-
-## Support
-
-* Bumping is allowed if there have been no replies for over 12 hours
-* Mod support should not be posted here, please post in the mods thread
-* Forum support belongs in the "Forum Discussion & Information" section
-* Minecraft support only, computer support is not allowed
+* Discussion of speculated, hinted and announced Minecraft features only
+* Suggestions are not allowed
 
 ## Suggestions
 
@@ -40,25 +37,25 @@ Each individual forum in this section has unique rules, they are as follows:
     dismiss the suggestion. Suggestions are primarily for vanilla Minecraft
     features.
 
-## Clans
+## Survival Mode
 
-* Malicious clans are not allowed, this includes griefing teams
-* Do not steal another clans name
-* __1 Thread__
+* Discussion about survival mode only
 
-    Each clan is allowed 1 thread only, if there are circumstances that may make
-    multiple threads necessary please contact a staff member to obtain 
-    permission.
+## Creative Mode
 
-* __No Harassment__
+* Discussion about creative mode only
 
-    Do not argue or harass another clan or members of another clan, rivalry and 
-    competition is allowed but it must remain civil.
+## Redstone
 
-## Skins
+This section is for discussing Redstone and pistons. This section includes
+Redstone tutorials, asking for advice on using Redstone and posting creations 
+made using Redstone and pistons.
 
-* Skins must be appropriate for all ages
+* __Redstone Only__
 
+    The focus of this section is Redstone itself, do not discuss creations that 
+    are not made using Redstone and/or pistons in this section.
+    
 ## Seeds
 
 This section is for posting and discussing seeds for maps that are considered
@@ -71,14 +68,3 @@ also allowed but the seed must also be provided.
     the "Maps" section of the forum.
 
 * Seeds which are offensive or contain profanity will be removed
-
-## Redstone
-
-This section is for discussing Redstone and pistons. This section includes
-Redstone tutorials, asking for advice on using Redstone and posting creations 
-made using Redstone and pistons.
-
-* __Redstone Only__
-
-    The focus of this section is Redstone itself, do not discuss creations that 
-    are not made using Redstone and/or pistons in this section.
