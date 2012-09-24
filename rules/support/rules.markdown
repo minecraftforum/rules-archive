@@ -41,12 +41,13 @@ This section is for requesting support with an unmodifed client.
     
 
 ## Modded Client Support
+
 This section is for requesting support with a modified client.
 
 * Do not distribute modified Minecraft Jars
 
-
 ## Server Support
+
 This section is for requesting support with the server client.  Anything non-bukkit server technical support questions should go here.
 
 * Do not advertise your server in this section
@@ -60,13 +61,15 @@ This section is for requesting support with the server client.  Anything non-buk
 
 
 ## Mojang Account/Website Support
+
 This section is for questions about Mojang's websites, such as minecraft.net, or your Mojang account. 
 
-* __Check help.mojang.com before making a thread__
+* __Check [help.mojang.com](http://help.mojang.com) before making a thread__
 
     Mojang's help website, help.mojang.com, contains useful information that can help you resolve your issue.  You can check Mojang's server status, and find solutions to common account issues there.
 
 ## Xbox Support
+
 This section is for questions about the Xbox version of Minecraft.  Keep in mind that this version of Minecraft was made by 4J Studios.
 
 * __Do not encourage modding of the Xbox version for Minecraft__
