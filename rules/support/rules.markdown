@@ -57,7 +57,7 @@ This section is for requesting support with the server client.  Anything non-buk
     
 * __Do not ask for Bukkit support__
 
-    Bukkit questions should be asked on [The Bukkit Forum](http://forums.bukkit.org/forums/bukkit-help.6/).
+    Bukkit questions should be asked on the [Bukkit Forum](http://forums.bukkit.org/forums/bukkit-help.6/).
 
 
 ## Mojang Account/Website Support
