@@ -11,7 +11,7 @@
 * __Do not create video related threads__
 
     If you would like to share and discuss a video, use the official chat thread. 
-    If you've made a video yourself and would like to share it, post it in the Culture, Media and Arts section. Please
+    If you've made a video yourself and would like to share it, post it in the User Creations section of Culture, Media and Arts. Please
     remember that advertising is not allowed.
     
 * __Do not disrupt roleplays / forum games__
