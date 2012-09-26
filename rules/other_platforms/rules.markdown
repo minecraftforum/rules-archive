@@ -14,6 +14,11 @@
 
     Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have no discussion value. Such threads will be locked for redundancy.
         
+### Pocket Edition: Maps
+
+* Map threads must include a download link to the map
+* Monetary linking should only be used for download links
+
 ### Pocket Edition: Texture Packs
 
 * __Label threads__
@@ -39,7 +44,11 @@
 * Blacklists and threads requesting that a certain player be banned are not allowed
 * Server support threads are not allowed
 * Threads requesting a specific type of server are not allowed
- 
+
+###Screenshots
+
+* Titles must describe the content of the screenshot(s)
+
 ## Minecraft: Xbox Edition
 
 * __Do not encourage modification__
@@ -49,3 +58,7 @@
 * __Do not post update threads__
 
     Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have discussion value. Such threads will be locked for redundancy.
+    
+###Screenshots
+
+* Titles must describe the content of the screenshot(s)
