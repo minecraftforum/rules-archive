@@ -4,18 +4,6 @@
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
 
-## Mods Discussion
-
-Only if it doesn't fit in other sections does it go here. Please check all others first.
-
-### Mod Development
-
-Only threads for the advancement of mods. The mod has to have already been started. Help with java code. 
-
-* Do not ask others to do it for you
-* Bumping is permitted once every 24 hours after the last reply if help is still needed
-* Mod teams are not allowed
-
 ## Minecraft Mods
 
 Released mods only. 
@@ -28,6 +16,22 @@ Released mods only.
 * Topics have an installation guide
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure mods to be updated
+
+### Modification Development
+
+Only threads for the advancement of mods. The mod has to have already been started. Help with java code. 
+
+* Do not ask others to do it for you
+* Bumping is permitted once every 24 hours after the last reply if help is still needed
+* Mod teams are not allowed
+
+### Mod Discussion
+
+Only if it doesn't fit in other sections does it go here. Please check all others first.
+
+### Requests / Ideas For Mods.
+
+* Topics must be either a request or an idea for a mod
 
 ### WIP Mods
 
@@ -44,9 +48,15 @@ download link and pictures are in the topic, report the topic for it to be moved
 
 This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
 
-## Texture Discussion
+## Maps
 
-Anything that does not produce textures directly belongs in this section.
+* Topics must have screenshots
+* Topics must have a download link
+* Topics must follow the tagging format
+
+### Maps Discussion
+
+* Only topics which do not fit in another map section, but are still related to maps go here. 
 
 ## Texture Packs
 
@@ -59,25 +69,19 @@ Anything that does not produce textures directly belongs in this section.
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure texture packs to update
 
+### Texture Discussion
+
+Anything that does not produce textures directly belongs in this section.
+
+## Skins
+
+* Skins must be appropriate for all ages
+
 ## Minecraft Tools
 
 * Topics must have screenshots
 * Topics must have download link or a link to the tool's location
 * Topics must have a "How to use" guide
-
-## Requests / Ideas For Mods.
-
-* Topics must be either a request or an idea for a mod
-
-## Maps Discussion
-
-* Only topics which do not fit in another map section, but are still related to maps go here. 
-
-## Maps
-
-* Topics must have screenshots
-* Topics must have a download link
-* Topics must follow the tagging format
 
 ## Tutorials
 
