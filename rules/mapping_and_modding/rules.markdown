@@ -31,16 +31,8 @@ Released mods only.
 
 ### WIP Mods
 
-Incomplete mods only. If the main features of the mod are not complete, it belongs in here.
-
-* Requires information
-* Topics do not require a download or images
-
-This section should be used to create your final topic. 
-Add images and an early release download link if wanted.
-When the mod is complete, and the title is formatted correctly, 
+Incomplete mods only. If the main features of the mod are not complete, it belongs in here. When the mod is complete, and the title is formatted correctly, 
 download link and pictures are in the topic, report the topic for it to be moved to "Minecraft Mods".
-
 
 ### Content Packs
 
@@ -52,7 +44,7 @@ download link and pictures are in the topic, report the topic for it to be moved
 
 This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
 
-## Texture Discussion.
+## Texture Discussion
 
 Anything that does not produce textures directly belongs in this section.
 
@@ -77,9 +69,9 @@ Anything that does not produce textures directly belongs in this section.
 
 * Topics must be either a request or an idea for a mod
 
-## Mapping Discussion
+## Maps Discussion
 
-  Only topics which do not fit in another map section, but are still related to maps go here. 
+* Only topics which do not fit in another map section, but are still related to maps go here. 
 
 ### Map Review and Showcase
 
