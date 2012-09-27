@@ -23,7 +23,7 @@
 
 * __Label threads__
 
-    Plese label threads according to what platform it will work with whether it be iOS, Android or both.
+    Please label threads according to what platform it will work with whether it be iOS, Android or both.
     
 * __Porting Texture Packs__
 
@@ -45,7 +45,7 @@
 * Server support threads are not allowed
 * Threads requesting a specific type of server are not allowed
 
-###Screenshots
+### Screenshots
 
 * Titles must describe the content of the screenshot(s)
 
@@ -58,7 +58,3 @@
 * __Do not post update threads__
 
     Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have discussion value. Such threads will be locked for redundancy.
-    
-###Screenshots
-
-* Titles must describe the content of the screenshot(s)
