@@ -2,13 +2,9 @@
 
 Each individual forum in this section has unique rules, they are as follows:
 
-## Recent Updates
+## Recent Updates and Snapshots
 
-* Discussion of released features only
-
-### Snapshot Discussion
-
-* Discussion of snapshot features only
+* Discussion of released features and features from within snapshots only
 
 ### Future Updates
 
