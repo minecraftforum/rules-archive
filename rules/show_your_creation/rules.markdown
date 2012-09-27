@@ -1,7 +1,5 @@
 # Show Your Creation
 
-## General SYC Rules
-
 * Minecraft related creations only
 * One thread per creation
 * You may only post your own work, not the work of others
