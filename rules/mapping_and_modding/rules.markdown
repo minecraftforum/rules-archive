@@ -73,17 +73,6 @@ Anything that does not produce textures directly belongs in this section.
 
 * Only topics which do not fit in another map section, but are still related to maps go here. 
 
-### Map Review and Showcase
-
-* Topics must contain a link to the thread of the map you are doing a review or showcase for,
-  not a link to the download
-* Do not create topics to advertise YouTube channels
-* __One Topic__
-
-  Keep reviews and showcases in one topic. Do not make a new topic for each new showcase or review.
-* Videos must be embed in the thread
-* Topics must contain at least one showcase or review
-
 ## Maps
 
 * Topics must have screenshots
