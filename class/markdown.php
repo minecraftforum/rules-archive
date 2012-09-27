@@ -924,7 +924,7 @@ class Markdown_Parser {
                 if($level == 1) {
                     $this->level_heading = strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2]))).":";
                 } else {
-                    $level_heading = $this->level_heading;
+                    $level_heading = ($this->level_heading ?: rand());
                 }
                 
 		$block = "<h$level id=\"".@$level_heading.strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2])))."\">".$this->runSpanGamut($matches[2])."</h$level>";
