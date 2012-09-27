@@ -1,7 +1,5 @@
 # Minecraft Support
 
-## General Section Rules
-
 * __Threads can be "Bumped" every 12 hours if no one responds__
 
     This is allowed in this section because users actually need a response in this section.
