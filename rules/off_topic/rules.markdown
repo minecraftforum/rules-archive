@@ -1,18 +1,14 @@
 # Off Topic
 
-* __Do no post not safe for work content__
-
-* __Do not post minecraft-related content__
+* Do not post minecraft-related content
 
 * __Do not sell items of any kind__
 
-    This is to prevent scams and people getting ripped off. The forum is not a marketplace.
+    The forum is not a marketplace.
     
 * __Do not create video related threads__
 
-    If you would like to share and discuss a video, use the official chat thread. 
-    If you've made a video yourself and would like to share it, post it in the User Creations section of Culture, Media and Arts. Please
-    remember that advertising is not allowed.
+    If you would like to share and discuss a video, use the official chat thread.
     
 * __Do not disrupt roleplays / forum games__
 

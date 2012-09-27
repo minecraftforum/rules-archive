@@ -21,9 +21,6 @@ Only threads for the advancement of mods. The mod has to have already been start
 Released mods only. 
 
 * Topics must have a download link
-* __Adfly__
- 
- Adfly is permitted for the download link only. No other adfly links are allowed.
 * Must modify the minecraft.jar file
 * Must contain the class files. .exe only downloads will be removed
 * Topics must have pictures
@@ -55,11 +52,9 @@ download link and pictures are in the topic, report the topic for it to be moved
 
 This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
 
-
 ## Texture Discussion.
 
 Anything that does not produce textures directly belongs in this section.
-
 
 ## Texture Packs
 
@@ -67,10 +62,8 @@ Anything that does not produce textures directly belongs in this section.
 * __Images__
  
   Topics must have images. Videos do not qualify if no other images are posted.
+
 * Topics must have a download link
-* __Adfly__
- 
- Adfly is permitted for the download link only. No other adfly links are allowed.
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure texture packs to update
 
@@ -78,9 +71,6 @@ Anything that does not produce textures directly belongs in this section.
 
 * Topics must have screenshots
 * Topics must have download link or a link to the tool's location
-* __Adfly__
- 
- Adfly is permitted for the download link only. No other adfly links are allowed.
 * Topics must have a "How to use" guide
 
 ## Requests / Ideas For Mods.
@@ -106,17 +96,15 @@ Anything that does not produce textures directly belongs in this section.
 
 * Topics must have screenshots
 * Topics must have a download link
-* __Adfly__
- 
- Adfly is permitted for the download link only. No other adfly links are allowed.
 * Topics must follow the tagging format
 
 ## Tutorials
 
 * __Tutorials Only__
  
- Topics must contain a "Last updated" date or which version of Minecraft it works for 
-  (You can put "Any" if Minecraft version number is irrelevant.)
+    Topics must contain a "Last updated" date or which version of Minecraft it works for 
+    (You can put "Any" if Minecraft version number is irrelevant.)
+
 * Do not post topics asking for help here
 
 ## Language Packs

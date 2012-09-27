@@ -1,4 +1,4 @@
-# Minecraft General
+# Minecraft Discussion
 
 Each individual forum in this section has unique rules, they are as follows:
 
