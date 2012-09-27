@@ -924,10 +924,10 @@ class Markdown_Parser {
                 if($level == 1) {
                     $this->level_heading = strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2]))).":";
                 } else {
-                    $level_heading = ($this->level_heading ?: rand());
+                    $level_heading = $this->level_heading;
                 }
                 
-		$block = "<h$level id=\"".@$level_heading.strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2])))."\">".$this->runSpanGamut($matches[2])."</h$level>";
+		$block = "<h$level id=\"".$level_heading.strtolower(preg_replace('/[^\w]+/', '_', $this->runSpanGamut($matches[2])))."\">".$this->runSpanGamut($matches[2])."</h$level>";
 		return "\n" . $this->hashBlock($block) . "\n\n";
 	}
 
