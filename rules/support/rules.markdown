@@ -20,7 +20,7 @@
 
 * __Do not give out or request personal information__
 
-    Personal information includes: Your location, your birthday, your transaction id, and credit card details.  This information can be used to steal your Minecraft/Mojang account, and should not be given out under any circumstances.
+    Personal information includes: Your location, your birthday, your transaction id, and credit card details. This information can be used to steal your Minecraft/Mojang account, and should not be given out under any circumstances.
 
 * __Do not request help on Topics that do not relate to your issue__
 
@@ -66,11 +66,11 @@ This section is for questions about Mojang's websites, such as minecraft.net, or
 
 * __Check [help.mojang.com](http://help.mojang.com) before making a thread__
 
-    Mojang's help website, help.mojang.com, contains useful information that can help you resolve your issue.  You can check Mojang's server status, and find solutions to common account issues there.
+    Mojang's help website, help.mojang.com, contains useful information that can help you resolve your issue. You can check Mojang's server status, and find solutions to common account issues there.
 
 ## Xbox Support
 
-This section is for questions about the Xbox version of Minecraft.  Keep in mind that this version of Minecraft was made by 4J Studios.
+This section is for questions about the Xbox version of Minecraft. Keep in mind that this version of Minecraft was made by 4J Studios.
 
 * __Do not encourage modding of the Xbox version for Minecraft__
 
