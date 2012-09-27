@@ -48,9 +48,7 @@ Servers is the section for PC specific posts to be made.
 
 All posts that violate these rules or the global rules will be removed.
 
-### Sub-section rules
-
-#### Minecraft Survival and Creative Servers
+#### PC Servers
 
 * Cracked servers are not allowed to be advertised
 * Only 1 review per member
@@ -58,6 +56,7 @@ All posts that violate these rules or the global rules will be removed.
 * Encouraging bumping of any topic is not allowed
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of your server topic
 * Servers may be removed or banned at the staff's discretion
+* Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server_types)
 
 #### Looking For
 
@@ -93,3 +92,36 @@ All posts that violate these rules or the global rules will be removed.
 * A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
 * Posts requesting a custom quote go in the Hosting Requests section
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
+
+#### Clans
+
+* Malicious clans are not allowed, this includes griefing teams
+* Do not steal another clans name
+* __1 Thread__
+
+    Each clan is allowed 1 thread only, if there are circumstances that may make
+    multiple threads necessary please contact a staff member to obtain 
+    permission.
+
+* __No Harassment__
+
+    Do not argue or harass another clan or members of another clan, rivalry and 
+    competition is allowed but it must remain civil.
+
+#### Server Types
+    
+* __Survival Servers__
+
+  The traditional style. Build, mine, and survive in the classic minecraft style with - or without - allies. Such servers do not offer a long-term goal other than surviving.
+  
+* __Creative Servers__
+
+  Servers that allow players to freely build either by giving creative mode or though the use of unlimited items.
+  
+* __Objective Servers__
+
+  Servers that differs from regular minecraft survival style. These servers offer a goal or objective players are to reach. Some examples are prison, spleef, and Hunger Games.
+  
+* __Hybrid Servers__
+
+  Servers that offer multiple gameplays to players. These servers have at least 2 of the types listed above.
