@@ -2,9 +2,7 @@
 
 Servers is the section for PC specific posts to be made. 
 
-## Section-wide Rules
-
-### Do Not
+## Do Not
 
 * __Sell Items And Services__
     
@@ -48,7 +46,7 @@ Servers is the section for PC specific posts to be made.
 
 All posts that violate these rules or the global rules will be removed.
 
-#### PC Servers
+### PC Servers
 
 * Cracked servers are not allowed to be advertised
 * Only 1 review per member
@@ -58,7 +56,7 @@ All posts that violate these rules or the global rules will be removed.
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server_types)
 
-#### Looking For
+### Looking For
 
 * Posting video-related/let's play topics is not allowed
 * Only threads looking for specific servers, staff members, builders, or ideas are allowed
@@ -68,7 +66,7 @@ All posts that violate these rules or the global rules will be removed.
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
 
-#### Server Administration
+### Server Administration
 
 * Bumping once every 48 hours on your support-related topic is allowed
     * This is only this section, and only if there are no replies from other people after that time
@@ -76,12 +74,12 @@ All posts that violate these rules or the global rules will be removed.
 * Necroing (posting on an old thread) is not encouraged
 * Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
     
-#### Custom Server Software
+### Custom Server Software
 
 * Only post topics about server software in this section
 * Support questions belong in either Support or Server Administration
 
-#### Minecraft Server Hosting
+### Minecraft Server Hosting
 
 * At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
 * Any feedback about a host should remain in a host's topic
@@ -93,7 +91,7 @@ All posts that violate these rules or the global rules will be removed.
 * Posts requesting a custom quote go in the Hosting Requests section
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
 
-#### Clans
+### Clans
 
 * Malicious clans are not allowed, this includes griefing teams
 * Do not steal another clans name
@@ -108,7 +106,7 @@ All posts that violate these rules or the global rules will be removed.
     Do not argue or harass another clan or members of another clan, rivalry and 
     competition is allowed but it must remain civil.
 
-#### Server Types
+### Server Types
     
 * __Survival Servers__
 
