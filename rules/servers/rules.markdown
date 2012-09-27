@@ -120,7 +120,7 @@ All posts that violate these rules or the global rules will be removed.
   
 * __Objective Servers__
 
-  Server that differs from regular minecraft survival style. These servers offer a goal or objective players are to reach. Some examples are prison, spleef, and Hunger Games.
+  Servers that differs from regular minecraft survival style. These servers offer a goal or objective players are to reach. Some examples are prison, spleef, and Hunger Games.
   
 * __Hybrid Servers__
 
