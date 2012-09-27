@@ -16,7 +16,7 @@
     
 * __Do not Redistribute property of Mojang__
 
-    Do not distribute any property of Mojang to other members on the forum, link them to a download if possible.  This includes: the minecraft launcher, the minecraft Jar, and the Minecraft server client.
+    Do not distribute any property of Mojang to other members on the forum.  This includes: the minecraft launcher, the minecraft Jar, and the Minecraft server client.
 
 * __Do not give out or request personal information__
 
