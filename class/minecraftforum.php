@@ -271,6 +271,7 @@ class minecraftforum {
             "field_15" => $member_details["field_15"]["value"],
             "field_16" => $new_data["field_16"],
             "field_17" => $view_key,
+            "field_19" => $member_details["field_19"]["value"],
             "isRte" => 1,
             "noSmilies" => 1,
             "Post" => $member_details["signature"]["value"],
