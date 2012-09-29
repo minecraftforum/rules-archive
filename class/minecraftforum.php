@@ -267,7 +267,6 @@ class minecraftforum {
             "field_10" => $member_details["field_10"]["value"],
             "field_11" => $member_details["field_11"]["value"],
             "field_12" => $member_details["field_12"]["value"],
-            "field_13" => $member_details["field_13"]["value"],
             "field_15" => $member_details["field_15"]["value"],
             "field_16" => $new_data["field_16"],
             "field_17" => $view_key,
