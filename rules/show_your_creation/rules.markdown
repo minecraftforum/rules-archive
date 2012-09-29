@@ -20,7 +20,7 @@ The video sections are for sharing Minecraft related videos. Videos should be po
 * __Embedded Videos__
 
     Each thread must contain at least one embedded video. Threads that only 
-    link to a Youtube channel will be removed. A guide to embedding videos is located [here](http://i.imgur.com/jVfBE.jpg).
+    link to a Youtube channel will be removed. A guide to embedding videos is located [here](http://img.mcf.li/video_guide.png).
 
 * __Explanations__
 
