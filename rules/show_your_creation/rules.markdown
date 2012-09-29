@@ -6,6 +6,8 @@
 * Constructive criticism is encouraged, being rude is not
 * Any creations which involve swearing must be tagged to inform members of this
 * Excessive caps and symbols are not allowed in titles
+* Any creations containing any use of swearing must be clearly tagged as such using the tag "profanity warning"
+
 
 ## Screenshots
 
@@ -15,14 +17,10 @@
 
 The video sections are for sharing Minecraft related videos. Videos should be posted in the appropriate section type. Topics made in the wrong section will be moved.
 
-Please note that videos for showcasing or reviewing maps should be posted in the 
-following Mapping and Modding sub-section instead: 
-[Map Showcase and Reviews](http://www.minecraftforum.net/forum/160-map-showcase-and-reviews/)
-
 * __Embedded Videos__
 
     Each thread must contain at least one embedded video. Threads that only 
-    link to a Youtube channel will be removed.
+    link to a Youtube channel will be removed. A guide to embedding videos is located [here](http://i.imgur.com/jVfBE.jpg).
 
 * __Explanations__
 
