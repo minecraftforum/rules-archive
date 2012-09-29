@@ -691,10 +691,10 @@ class ipbxmlrpc
 		// User and pass?
 		//-----------------------------------------
 		
-		if ( ! $this->auth_user AND $url_parts['user'] )
+		if ( ! $this->auth_user AND @$url_parts['user'] )
 		{
-			$this->auth_user = $url_parts['user'];
-			$this->auth_pass = $url_parts['pass'];
+			$this->auth_user = @$url_parts['user'];
+			$this->auth_pass = @$url_parts['pass'];
 		}
 		
 	  	//-------------------------------
