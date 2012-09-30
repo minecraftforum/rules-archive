@@ -66,7 +66,9 @@ The guidelines and information below applies to the entire forum.
 
 * __Giveaways__
 
-    Member-run giveaways or contents for prizes of monetary value are not allowed.
+    Member-run giveaways or contests that require performing a specific action
+    for entry (eg: subscribe to my Youtube channel, follow me on Twitter) 
+    are not allowed.
 
 * __Advertise__
 
