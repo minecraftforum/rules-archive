@@ -6,7 +6,6 @@
 * Constructive criticism is encouraged, being rude is not
 * Any creations which involve swearing must be tagged to inform members of this
 * Excessive caps and symbols are not allowed in titles
-* Any creations containing any use of swearing must be clearly tagged as such using the tag "profanity warning"
 
 
 ## Screenshots
@@ -33,6 +32,8 @@ The video sections are for sharing Minecraft related videos. Videos should be po
 
 * Griefing videos are not allowed
 * Posts to announce a livestream restarting are allowed
+* Do not post any Sub4Sub or similar topics
+* Do not post topics which require a member to subscribe to you in return for inclusion on any lists
 
 ## Videos / Series Help
 
@@ -41,8 +42,9 @@ This section is for requesting advice in order to improve your videos or series,
 Please do not post threads with the purpose of sharing videos here.
 
 * This section is NOT for sharing videos.
-* This section is also NOT for promoting personal pages (such as YouTube Channels).
+* This section is also NOT for promoting personal pages (such as YouTube Channels)
 * Recruitment threads for griefing videos are not allowed
+* Do not post topics which require a member to subscribe to you in return for inclusion in any projects
 
 ### Technical Help
 
