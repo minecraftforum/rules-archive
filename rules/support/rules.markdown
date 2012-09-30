@@ -65,11 +65,3 @@ This section is for questions about Mojang's websites, such as minecraft.net, or
 * __Check [help.mojang.com](http://help.mojang.com) before making a thread__
 
     Mojang's help website, help.mojang.com, contains useful information that can help you resolve your issue. You can check Mojang's server status, and find solutions to common account issues there.
-
-## Xbox Support
-
-This section is for questions about the Xbox version of Minecraft. Keep in mind that this version of Minecraft was made by 4J Studios.
-
-* __Do not encourage modding of the Xbox version for Minecraft__
-
-    Modding the Xbox versions of Minecraft is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
