@@ -17,26 +17,18 @@ Released mods only.
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure mods to be updated
 
-### Modification Development
-
-Only threads for the advancement of mods. The mod has to have already been started. Help with java code. 
-
-* Do not ask others to do it for you
-* Bumping is permitted once every 24 hours after the last reply if help is still needed
-* Mod teams are not allowed
-
 ### Mod Discussion
 
 Only if it doesn't fit in other sections does it go here. Please check all others first.
-
-### Requests / Ideas For Mods.
-
-* Topics must be either a request or an idea for a mod
 
 ### WIP Mods
 
 Incomplete mods only. If the main features of the mod are not complete, it belongs in here. When the mod is complete, and the title is formatted correctly, 
 download link and pictures are in the topic, report the topic for it to be moved to "Minecraft Mods".
+
+### Requests / Ideas For Mods.
+
+* Topics must be either a request or an idea for a mod
 
 ### Content Packs
 
@@ -47,6 +39,14 @@ download link and pictures are in the topic, report the topic for it to be moved
 * Do not ask or pressure content packs to update
 
 This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
+
+### Modification Development
+
+Only threads for the advancement of mods. The mod has to have already been started. Help with java code. 
+
+* Do not ask others to do it for you
+* Bumping is permitted once every 24 hours after the last reply if help is still needed
+* Mod teams are not allowed
 
 ## Maps
 
