@@ -44,8 +44,6 @@ Servers is the section for PC specific posts to be made.
 
   Black ASCII blocks are not allowed in your topic title.
 
-All posts that violate these rules or the global rules will be removed.
-
 ### PC Servers
 
 * Cracked servers are not allowed to be advertised
@@ -73,11 +71,6 @@ All posts that violate these rules or the global rules will be removed.
 * Posting "there is a plugin/mod for that" without linking that to the post is not allowed
 * Necroing (posting on an old thread) is not encouraged
 * Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
-    
-### Custom Server Software
-
-* Only post topics about server software in this section
-* Support questions belong in either Support or Server Administration
 
 ### Minecraft Server Hosting
 
@@ -93,8 +86,15 @@ All posts that violate these rules or the global rules will be removed.
 
 ### Clans
 
-* Malicious clans are not allowed, this includes griefing teams
-* Do not steal another clans name
+* __No Malicious clans__
+    
+    No malicious clans or teams are allowed, this includes but not limited to griefing clans.
+
+* __No Stealing Clan Names__
+
+    Do not use an existing clan's name for a new clan name.
+
+
 * __1 Thread__
 
     Each clan is allowed 1 thread only, if there are circumstances that may make
