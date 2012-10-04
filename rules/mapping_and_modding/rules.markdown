@@ -8,10 +8,10 @@
 
 Released mods only. 
 
-* Topics must have a download link
+* Topics must have a direct download link, but can include alternative links.
 * Must modify the minecraft.jar file
 * Must contain the class files. .exe only downloads will be removed
-* Topics must have pictures
+* Topics must have embedded images, videos may be included as well but may not replace images
 * Topics must follow the tagging format
 * Topics have an installation guide
 * Any required permissions must be displayed in the original post
@@ -19,7 +19,7 @@ Released mods only.
 
 ### Mod Discussion
 
-Only if it doesn't fit in other sections does it go here. Please check all others first.
+Only if it doesn't fit in other mod sections does it go here. Please check all others first.
 
 ### WIP Mods
 
@@ -29,30 +29,33 @@ download link and pictures are in the topic, report the topic for it to be moved
 ### Requests / Ideas For Mods.
 
 * Topics must be either a request or an idea for a mod
+* Posting "there is a mod for this" is not allowed unless the mod is linked in the post
 
 ### Content Packs
 
+This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
+
 * Links to the original mod must be provided in the topic
 * The original mod must be tagged in the topic tags
-* The topic must have pictures
+* Topics must have embedded images, videos may be included as well but may not replace images
 * The topic must have installation instructions
 * Do not ask or pressure content packs to update
-
-This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
+* Topics must have a direct download link, but can include alternative links.
 
 ### Modification Development
 
-Only threads for the advancement of mods. The mod has to have already been started. Help with java code. 
+Only threads for the advancement of mods. The mod has to have already been started. Get help with coding and development here. 
 
-* Do not ask others to do it for you
+* Do not ask others to do it
 * Bumping is permitted once every 24 hours after the last reply if help is still needed
-* Mod teams are not allowed
+* Recruiting for mod teams is not allowed
 
 ## Maps
 
 * Topics must have screenshots
-* Topics must have a download link
+* Topics must have a direct download link, but can include alternative links
 * Topics must follow the tagging format
+* Topics must have embedded images, videos may be included as well but may not replace images
 
 ### Maps Discussion
 
@@ -61,11 +64,8 @@ Only threads for the advancement of mods. The mod has to have already been start
 ## Texture Packs
 
 * Topics must follow tagging format
-* __Images__
- 
-  Topics must have images. Videos do not qualify if no other images are posted.
-
-* Topics must have a download link
+* Topics must have embedded images, videos may be included as well but may not replace images
+* Topics must have a direct download link, but can include alternative links.
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure texture packs to update
 
@@ -79,7 +79,7 @@ Anything that does not produce textures directly belongs in this section.
 
 ## Minecraft Tools
 
-* Topics must have screenshots
+* Topics must have embedded images, videos may be included as well but may not replace images
 * Topics must have download link or a link to the tool's location
 * Topics must have a "How to use" guide
 
