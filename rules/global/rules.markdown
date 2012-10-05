@@ -94,6 +94,10 @@ The guidelines and information below applies to the entire forum.
     The only member permitted to access an account is the owner, unless permission
     is explicitly granted by that member.
 
+*__Trolling__
+
+    Do not Troll. Trolling of any kind is not tolerated, and will result in a one point warning.
+    
 ### Illegal Activity
 
 * __Piracy__
