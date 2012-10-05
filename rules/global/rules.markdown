@@ -94,9 +94,12 @@ The guidelines and information below applies to the entire forum.
     The only member permitted to access an account is the owner, unless permission
     is explicitly granted by that member.
 
-*__Trolling__
+* __Troll__
 
-    Do not Troll. Trolling of any kind is not tolerated, and will result in a one point warning.
+    Trolling of any kind is not tolerated, and will result in a one point warning.
+    Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, 
+    eg: "Stop trolling", "You're a troll!". If someone is trolling they should be 
+    reported.
     
 ### Illegal Activity
 
