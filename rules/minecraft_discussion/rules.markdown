@@ -1,6 +1,9 @@
 # Minecraft Discussion
 
-Each individual forum in this section has unique rules, they are as follows:
+## General Rules
+
+* Server threads and server advertisements are not allowed in this section. They will be deleted on sight and an infraction will be issued
+
 
 ## Recent Updates and Snapshots
 
