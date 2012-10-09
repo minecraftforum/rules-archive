@@ -6,7 +6,7 @@ Servers is the section for PC specific posts to be made.
 
 * __Sell Items And Services__
     
-    This goes for virtual items as well as real-world items. The only exception to this rule is hosts selling Minecraft server hosting.
+  This goes for virtual items as well as real-world items. The only exception to this rule is hosts selling Minecraft server hosting.
 
 * __Advertise Another Server__
 
@@ -14,7 +14,7 @@ Servers is the section for PC specific posts to be made.
       
 * __Advertise Other Sites__
     
-    Advertising other sites that are not selling Minecraft server hosting is not allowed. A host must sell Minecraft servers to be allowed to advertise in the Minecraft Hosting Section
+  Advertising other sites that are not selling Minecraft server hosting is not allowed. A host must sell Minecraft servers to be allowed to advertise in the Minecraft Hosting Section
     
 * __Reserve Posts__
 
@@ -50,7 +50,7 @@ Servers is the section for PC specific posts to be made.
 * Only 1 review per member
 * Stealing another server's original post is not allowed, this is considered spam and plagerism
 * Encouraging bumping of any topic is not allowed
-* Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of your server topic
+* Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of the server topic
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server_types)
 
@@ -59,7 +59,7 @@ Servers is the section for PC specific posts to be made.
 * Posting video-related/let's play topics is not allowed
 * Only threads looking for specific servers, staff members, builders, or ideas are allowed
 * General server advertisement threads are not allowed
-* Copy-Paste replies are not allowed, replies must be relevant to the thread
+* Copy-Paste replies are not allowed, replies must be relevant to the topic
 * Replies to a topic may only be made up to 7 days after the last post by the OP
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
@@ -68,43 +68,28 @@ Servers is the section for PC specific posts to be made.
 
 * Bumping once every 48 hours on your support-related topic is allowed
     * This is only this section, and only if there are no replies from other people after that time
-* Posting "there is a plugin/mod for that" without linking that to the post is not allowed
-* Necroing (posting on an old thread) is not encouraged
+* Posting "there is a plugin/mod for that" without linking in the post is not allowed
+* Necroing (posting on an old topic) is not encouraged
 * Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
 
 ### Minecraft Server Hosting
 
 * At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
 * Any feedback about a host should remain in a host's topic
-* All global rules regarding affiliate links and giveaways still apply
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM
 * Support related posts are not allowed. Use the host's own support system or send them a private message
     * Informal warnings will be issued for continued support posting
 * A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
 * Posts requesting a custom quote go in the Hosting Requests section
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
+* Hosts may offer giveaways in their topic, however the topic is not to be used for posting applications
 
 ### Clans
 
-* __No Malicious clans__
-    
-    No malicious clans or teams are allowed, this includes but not limited to griefing clans.
-
-* __No Stealing Clan Names__
-
-    Do not use an existing clan's name for a new clan name.
-
-
-* __1 Thread__
-
-    Each clan is allowed 1 thread only, if there are circumstances that may make
-    multiple threads necessary please contact a staff member to obtain 
-    permission.
-
-* __No Harassment__
-
-    Do not argue or harass another clan or members of another clan, rivalry and 
-    competition is allowed but it must remain civil.
+* No malicious clans or teams are allowed, this includes but not limited to griefing clans
+* Do not use an existing clan's name for a new clan name
+* Each clan is allowed only 1 topic
+* Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
 
 ### Server Types
     
