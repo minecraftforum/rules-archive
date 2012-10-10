@@ -16,6 +16,7 @@ Released mods only.
 * Topics have an installation guide
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure mods to be updated
+* Smp "hack" and "cheat" mods are allowed, however any designed for griefing are not allowed
 
 ### Mod Discussion
 
@@ -44,7 +45,7 @@ This section is only for content packs that modify existing content mods, or mod
 
 ### Modification Development
 
-Only threads for the advancement of mods. The mod has to have already been started. Get help with coding and development here. 
+Only topics for the advancement of mods. The mod has to have already been started. Get help with coding and development here. 
 
 * Do not ask others to do it
 * Bumping is permitted once every 24 hours after the last reply if help is still needed
@@ -82,14 +83,12 @@ Anything that does not produce textures directly belongs in this section.
 * Topics must have embedded images, videos may be included as well but may not replace images
 * Topics must have download link or a link to the tool's location
 * Topics must have a "How to use" guide
+* Tools that are designed to grief or harm a server are not allowed
 
 ## Tutorials
 
-* __Tutorials Only__
- 
-    Topics must contain a "Last updated" date or which version of Minecraft it works for 
-    (You can put "Any" if Minecraft version number is irrelevant.)
-
+* Tutorials only
+* Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
 * Do not post topics asking for help here
 
 ## Language Packs
