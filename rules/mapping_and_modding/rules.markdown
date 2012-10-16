@@ -13,7 +13,7 @@ Released mods only.
 * Must contain the class files. .exe only downloads will be removed
 * Topics must have embedded images, videos may be included as well but may not replace images
 * Topics must follow the tagging format
-* Topics have an installation guide
+* Topics must have an installation guide
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure mods to be updated
 * Smp "hack" and "cheat" mods are allowed, however any designed for griefing are not allowed
@@ -39,7 +39,7 @@ This section is only for content packs that modify existing content mods, or mod
 * Links to the original mod must be provided in the topic
 * The original mod must be tagged in the topic tags
 * Topics must have embedded images, videos may be included as well but may not replace images
-* The topic must have installation instructions
+* Topics must have installation instructions
 * Do not ask or pressure content packs to update
 * Topics must have a direct download link, but can include alternative links.
 
@@ -83,7 +83,7 @@ Anything that does not produce textures directly belongs in this section.
 * Topics must have embedded images, videos may be included as well but may not replace images
 * Topics must have download link or a link to the tool's location
 * Topics must have a "How to use" guide
-* Tools that are designed to grief or harm a server are not allowed
+* Tools that are designed to grief or harm a server or users are not allowed
 
 ## Tutorials
 
