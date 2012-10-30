@@ -53,10 +53,9 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 ## Maps
 
-* Topics must have screenshots
 * Topics must have a direct download link, but can include alternative links
 * Topics must follow the tagging format
-* Topics must have embedded images, videos may be included as well but may not replace images
+* Topics must have embedded screenshots, videos may be included as well but may not replace screenshots
 
 ### Maps Discussion
 
