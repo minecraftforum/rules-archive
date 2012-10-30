@@ -6,7 +6,7 @@ Servers is the section for PC specific posts to be made.
 
 * __Sell Items And Services__
     
-  This goes for virtual items as well as real-world items. The only exception to this rule is hosts selling Minecraft server hosting.
+  This goes for virtual items and services as well as real-world items and services. The only exception to this rule is hosts selling Minecraft server hosting.
 
 * __Advertise Another Server__
 
@@ -14,7 +14,7 @@ Servers is the section for PC specific posts to be made.
       
 * __Advertise Other Sites__
     
-  Advertising other sites that are not selling Minecraft server hosting is not allowed. A host must sell Minecraft servers to be allowed to advertise in the Minecraft Hosting Section
+  Advertising other sites that are not selling Minecraft server hosting is not allowed. A host must sell Minecraft servers to be allowed to advertise in the Minecraft Hosting Section and Other Host sections.
     
 * __Reserve Posts__
 
@@ -22,11 +22,11 @@ Servers is the section for PC specific posts to be made.
   
 * __Use Affiliate Links__
 
-  Using affiliate links is not allowed in the hosting section.
+  Using affiliate or referral links is not allowed in any section.
   
 * __Post Multiple Topics__
 
-  There is only allowed to be 1 topic for each server or idea. There is also a posting limit of one topic every 10 days, 30 days in Hosting, this applies to all but Server Administration and Custom Server Software
+  There is only allowed to be 1 topic for each server or idea. There is also a posting limit of one topic every 10 days, 30 days in Hosting, this applies to all but Server Administration
   
 * __Post "Grief This Server" Topics__ 
 
@@ -38,7 +38,7 @@ Servers is the section for PC specific posts to be made.
   
 * __Copy Paste Posts__
 
-  This is considered spam.
+  This is considered spam and is not allowed in any section, even if the post is relevant to the topic.
 
 * __Use ASCII Blocks__
 
@@ -66,7 +66,7 @@ Servers is the section for PC specific posts to be made.
 
 ### Server Administration
 
-* Bumping once every 48 hours on your support-related topic is allowed
+* Bumping once every 48 hours on support-related topics is allowed
     * This is only this section, and only if there are no replies from other people after that time
 * Posting "there is a plugin/mod for that" without linking in the post is not allowed
 * Necroing (posting on an old topic) is not encouraged
@@ -83,10 +83,11 @@ Servers is the section for PC specific posts to be made.
 * Posts requesting a custom quote go in the Hosting Requests section
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting applications
+* The Hosting Request section is not to be used for recruiting staff for servers, this may be done in the host's topic
 
 ### Clans
 
-* No malicious clans or teams are allowed, this includes but not limited to griefing clans
+* No malicious clans or teams are allowed, this includes but not limited to griefing or hacking clans
 * Do not use an existing clan's name for a new clan name
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
@@ -99,7 +100,7 @@ Servers is the section for PC specific posts to be made.
   
 * __Creative Servers__
 
-  Servers that allow players to freely build either by giving creative mode or though the use of unlimited items.
+  Servers that allow players to freely build either by giving creative mode or though the use of unlimited items and similar concepts.
   
 * __Objective Servers__
 
