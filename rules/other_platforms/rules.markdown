@@ -58,3 +58,10 @@
 * __Do not post update threads__
 
     Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have discussion value. Such threads will be locked for redundancy.
+
+### Creations
+
+* Titles must describe the creation
+* Creations may only be your own work
+* Threads must include images of the creation
+* Threads must include a description of the creation
