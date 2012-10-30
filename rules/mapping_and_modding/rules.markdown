@@ -76,6 +76,7 @@ Anything that does not produce textures directly belongs in this section.
 ## Skins
 
 * Skins must be appropriate for all ages
+* Topics must have embedded images, videos may be included as well but may not replace images
 
 ## Minecraft Tools
 
@@ -93,3 +94,6 @@ Anything that does not produce textures directly belongs in this section.
 ## Language Packs
 
 * Languages relevant to the translation are allowed here
+* Topics must have embedded images, videos may be included as well but may not replace images
+* Any required permissions must be displayed in the original post
+* Do not post topics asking for help here
