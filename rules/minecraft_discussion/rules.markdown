@@ -60,6 +60,8 @@ This section is for posting and discussing seeds for maps that are considered
 impressive in some way. Posting downloads of un-edited maps in this section is 
 also allowed but the seed must also be provided.
 
+* The seed __must__ be provided in the OP (original post)
+
 * __No Edited Maps__
 
     Do not post any maps that have been edited, these maps should be posted in
