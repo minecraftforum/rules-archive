@@ -84,6 +84,7 @@ Servers is the section for PC specific posts to be made.
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting applications
 * The Hosting Request section is not to be used for recruiting staff for hosts, this may be done in the host's topic
+* Replies to requests must meet all needs outlined in the original post and not contain irrelevant information
 
 ### Clans
 
