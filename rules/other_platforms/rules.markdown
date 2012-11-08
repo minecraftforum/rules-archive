@@ -55,10 +55,6 @@
  
     Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
 
-* __Do not post update threads__
-
-    Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have discussion value. Such threads will be locked for redundancy.
-
 ### Creations
 
 * Titles must describe the creation
