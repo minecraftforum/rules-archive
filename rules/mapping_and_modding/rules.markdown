@@ -8,7 +8,7 @@
 
 Released mods only. 
 
-* Topics must have a direct download link, but can include alternative links; a definition of those can be found [here](#mapping_and_modding:download_links)
+* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Must modify the minecraft.jar file
 * Must contain the class files. .exe only downloads will be removed
 * Topics must have embedded images, videos may be included as well but may not replace images
@@ -41,7 +41,7 @@ This section is only for content packs that modify existing content mods, or mod
 * Topics must have embedded images, videos may be included as well but may not replace images
 * Topics must have installation instructions
 * Do not ask or pressure content packs to update
-* Topics must have a direct download link, but can include alternative links; a definition of those can be found [here](#mapping_and_modding:download_links)
+* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 
 ### Modification Development
 
@@ -53,7 +53,7 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 ## Maps
 
-* Topics must have a direct download link, but can include alternative links; a definition of those can be found [here](#mapping_and_modding:download_links)
+* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Topics must follow the tagging format
 * Topics must have embedded screenshots, videos may be included as well but may not replace screenshots
 
@@ -65,7 +65,7 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 * Topics must follow tagging format
 * Topics must have embedded images, videos may be included as well but may not replace images
-* Topics must have a direct download link, but can include alternative links; a definition of those can be found [here](#mapping_and_modding:download_links)
+* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure texture packs to update
 
