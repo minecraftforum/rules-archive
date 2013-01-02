@@ -39,7 +39,7 @@ The guidelines and information below applies to the entire forum.
 
     As a family friendly forum we censor all profanity, however the censor is
     not an excuse to still swear; all posts that contain any instance of 
-    profanity will be removed.
+    profanity will be removed. Self-censoring is also not allowed.
 
 * __Bump Threads__
     
@@ -96,7 +96,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Troll__
 
-    Trolling of any kind is not tolerated, and will result in a one point warning.
+    Trolling of any kind is not tolerated.
     Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, 
     eg: "Stop trolling", "You're a troll!". If someone is trolling they should be 
     reported.
