@@ -11,7 +11,7 @@ Released mods only.
 * Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Must modify the minecraft.jar file
 * Must contain the class files. .exe only downloads will be removed
-* Topics must have embedded images, videos may be included as well but may not replace images
+* Topics must have embedded images or videos
 * Topics must follow the tagging format
 * Topics must have an installation guide
 * Any required permissions must be displayed in the original post
@@ -38,7 +38,7 @@ This section is only for content packs that modify existing content mods, or mod
 
 * Links to the original mod must be provided in the topic
 * The original mod must be tagged in the topic tags
-* Topics must have embedded images, videos may be included as well but may not replace images
+* Topics must have embedded images or videos
 * Topics must have installation instructions
 * Do not ask or pressure content packs to update
 * Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
@@ -55,7 +55,7 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 * Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Topics must follow the tagging format
-* Topics must have embedded screenshots, videos may be included as well but may not replace screenshots
+* Topics must have embedded images or videos
 
 ### Maps Discussion
 
@@ -64,7 +64,7 @@ Only topics for the advancement of mods. The mod has to have already been starte
 ## Texture Packs
 
 * Topics must follow tagging format
-* Topics must have embedded images, videos may be included as well but may not replace images
+* Topics must have embedded images or videos
 * Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Any required permissions must be displayed in the original post
 * Do not ask or pressure texture packs to update
@@ -80,21 +80,21 @@ Anything that does not produce textures directly belongs in this section.
 
 ## Minecraft Tools
 
-* Topics must have embedded images, videos may be included as well but may not replace images
+* Topics must have embedded images or videos
 * Topics must have download link or a link to the tool's location
 * Topics must have a "How to use" guide
 * Tools that are designed to grief or harm a server or users are not allowed
 
 ## Tutorials
 
-* Tutorials only
+* Tutorials about maps or mods only, no gaming tutorials are allowed
 * Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
 * Do not post topics asking for help here
 
 ## Language Packs
 
 * Languages relevant to the translation are allowed here
-* Topics must have embedded images, videos may be included as well but may not replace images
+* Topics must have embedded images or videos
 * Any required permissions must be displayed in the original post
 * Do not post topics asking for help here
 
