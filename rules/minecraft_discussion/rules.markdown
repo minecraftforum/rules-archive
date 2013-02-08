@@ -33,7 +33,7 @@
     dismiss the suggestion. Suggestions are primarily for vanilla Minecraft
     features.
     
-* _No Wishlists_
+* __No Wishlists__
 
     Do not post more than one suggestion per thread. Very closely related suggestions are fine, 
     but separate suggestions require separate threads. "Wishlists" will be closed or deleted.
