@@ -8,7 +8,7 @@
     
 * __Do not create video related threads__
 
-    If you would like to share and discuss a video, use the official chat thread.
+    If you would like to share and discuss a video, use the Video Receptacle Thread.
     
 * __Do not disrupt roleplays / forum games__
 
