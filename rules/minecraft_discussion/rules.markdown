@@ -15,8 +15,6 @@
 
 ## Suggestions
 
-* Each topic should have one suggestion (or one group of closely related 
-    suggestions)
 * __No Duplicate Suggestions__
 
     Do not post duplicate suggestions, if an idea has been shared before continue
@@ -34,6 +32,12 @@
     to the mod is encouraged, however do not use the existence of a mod to 
     dismiss the suggestion. Suggestions are primarily for vanilla Minecraft
     features.
+    
+* __No Wishlists__
+
+    Do not post more than one suggestion per thread. Very closely related suggestions are fine, 
+    but separate suggestions require separate threads. "Wishlists" will be closed or deleted.
+    
 
 ## Survival Mode
 

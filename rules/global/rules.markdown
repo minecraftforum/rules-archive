@@ -51,7 +51,7 @@ The guidelines and information below applies to the entire forum.
 
     A spam post is a post that provides no value to the discussion. The most 
     common spam posts are posting "tl:dr;", "+1", "this", posting image macros,
-    and nothing but memes. These sort of posts really rustle our jimmies.
+    and nothing but memes or images. These sort of posts really rustle our jimmies.
     
 * __Post Duplicate Threads__
 
@@ -105,6 +105,17 @@ The guidelines and information below applies to the entire forum.
     Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, 
     eg: "Stop trolling", "You're a troll!". If someone is trolling they should be 
     reported.
+    
+* __Use Referral/Affiliate Links__
+
+    Linking to websites that provide you with cash or prizes in return for getting people 
+    to view their page is not allowed. This includes affiliate programs.
+    
+* __Necro Post__
+
+    Please do not reply to extremely old threads unless you are continuing
+    substantial discussion of the topic. Contentless bumps which add very
+    little to the discussion will be removed.
     
 ### Illegal Activity
 
@@ -164,6 +175,7 @@ To be acceptable "Mini-modding" the post must meet the following requirements
 
 * Explains which rule the post breaks
 * Explains (where necessary) how the poster can rectify the issue
+* Does not make statements such as: "reported", "I've told the mods", "This will be locked now" etc.
 
 Then the member must report the post. "Mini-modding" without reporting the post is not allowed.
 
