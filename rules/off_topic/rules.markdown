@@ -2,7 +2,7 @@
 
 * Do not post minecraft-related content
 
-* __Do not sell items of any kind__
+* __Do not sell or trade items of any kind__
 
     The forum is not a marketplace.
     
