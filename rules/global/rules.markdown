@@ -52,6 +52,11 @@ The guidelines and information below applies to the entire forum.
     A spam post is a post that provides no value to the discussion. The most 
     common spam posts are posting "tl:dr;", "+1", "this", posting image macros,
     and nothing but memes. These sort of posts really rustle our jimmies.
+    
+* __Post Duplicate Threads__
+
+    Posting duplicate topics around the forum is considered spam. There is no need
+    to clutter the forum by posting multiple instances of the same thread.
 
 * __Reply to Inappropriate Content__
 
