@@ -1,5 +1,13 @@
 # Minecraft: Pocket Edition
 
+* __Do not partake in or create platform wars__
+
+  Please do not make threads or comments regarding one platform being better than the other as they encourage flame wars within the community.
+
+* __Do not post update threads__
+
+  Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have no discussion value. Such threads will be locked for redundancy.
+
 ## Discussion
 
 * The discussion section is for general Pocket Edition discussion which does not fit into any other Pocket Edition forum.
@@ -10,6 +18,10 @@
 * Bumping support threads if no response is received within twelve hours is allowed
 
 ## Suggestions
+
+* __Clearly title your threads__
+
+  Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
 
 * __No Duplicate Suggestions__
 
@@ -25,9 +37,11 @@
 
 * __Existing Mod(s)__
 
-If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
+  If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
 
 ## Mapping and Modding
+
+The root of the Mapping and Modding forum is for mod related topics that aren't specifically Pocket Edition maps, texture packs or mods/tools.
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers
 
@@ -92,7 +106,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 ## Creations
 
-Creations that aren't specifically Pocket Edition screenshots or videos belong here
+The root of the Creations forum is for creative threads that aren't specifically Pocket Edition screenshots or videos.
 
 ### Screenshots
 
