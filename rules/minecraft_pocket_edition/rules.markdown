@@ -1,15 +1,15 @@
 # Minecraft: Pocket Edition
 
-## Pocket Edition: Discussion
+## Discussion
 
 * The discussion section is for general Pocket Edition discussion which does not fit into any other Pocket Edition forum.
 
-### Pocket Edition: Support
+### Support
 
 * Threads must be concerning problems experienced with Minecraft: Pocket Edition
 * Bumping support threads if no response is received within twelve hours is allowed
 
-## Pocket Edition: Suggestions
+## Suggestions
 
 * __No Duplicate Suggestions__
 
@@ -27,16 +27,16 @@
 
 If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
 
-## Pocket Edition: Mapping and Modding
+## Mapping and Modding
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers
 
-### Pocket Edition: Maps
+### Maps
 
 * Map threads must include a download link to the map
 * Monetary linking should only be used for download links
 
-### Pocket Edition: Texture Packs
+### Texture Packs
 
 * __Label threads__
 
@@ -46,14 +46,14 @@ If a mod exists that provides part (or all) of the suggestions request linking t
 
   If porting a texture pack from another platform then permissions from the original author must be gained and must be displayed within the topic.
 
-### Pocket Edition: Mods / Tools
+### Mods / Tools
 
 * Do not encourage the use of "cracked" applications
 * Please do not detail information on how to obtain pirated applications as it is encouraging piracy and will not be permitted on the forums
 
-## Pocket Edition: Multiplayer
+## Multiplayer
 
-### Pocket Edition: Servers
+### Servers
 
 * Creating more than one thread per server is not allowed
 * Creating more than one review post per server is not allowed
@@ -64,14 +64,14 @@ If a mod exists that provides part (or all) of the suggestions request linking t
 * Server support threads are not allowed
 * Threads requesting a specific type of server are not allowed
 
-### Pocket Edition: Clans
+### Clans
 
 * No malicious clans or teams are allowed, this includes but not limited to griefing or hacking clans
 * Do not use an existing clan's name for a new clan name
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
 
-### Pocket Edition: Looking For / Sessions
+### Looking For / Sessions
 
 * Posting video-related/let's play topics is not allowed
 * Only threads looking for specific servers, staff members, builders, or ideas are allowed
@@ -81,7 +81,7 @@ If a mod exists that provides part (or all) of the suggestions request linking t
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
 
-## Pocket Edition: Seeds
+## Seeds
 
 This section is for posting and discussing seeds for worlds that are considered impressive in some way. Posting downloads of un-edited worlds/maps in this section is also allowed but the seed must also be provided.
 
@@ -90,14 +90,14 @@ This section is for posting and discussing seeds for worlds that are considered 
 * Do not post any maps that have been edited, these maps should be posted in the "Pocket Edition: Maps" section of the forum
 * Seeds which are offensive or contain profanity will be removed
 
-## Pocket Edition: Creations
+## Creations
 
 Creations that aren't specifically Pocket Edition screenshots or videos belong here
 
-### Pocket Edition: Screenshots
+### Screenshots
 
 * Titles must describe the content of the screenshot(s)
 
-### Pocket Edition: Videos
+### Videos
 
 * Titles must describe the content of the video
