@@ -12,18 +12,18 @@
 
   Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
   
-## Xbox 360 Edition: Discussion
+## Discussion
 
 * The discussion section is for general Xbox 360 discussion which does not fit into any other Xbox 360 forum.
 
-### Xbox 360 Edition: Help Center
+### Help Center
 
 This section is for help with the Xbox 360: Edition of Minecraft only
 
 * Do not ask for help with any type of Xbox 360 modifications
 * Bumping support threads if no response is received within twelve hours is allowed
 
-## Xbox 360 Edition: Suggestions
+## Suggestions
 
 * __No Duplicate Suggestions__
 
@@ -71,7 +71,7 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
 
-## Xbox 360 Edition: Seeds
+## Seeds
 
 This section is for posting and discussing seeds for worlds that are considered impressive in some way.
 
