@@ -25,6 +25,10 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 
 ## Suggestions
 
+* __Clearly title your threads__
+
+  Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
+
 * __No Duplicate Suggestions__
 
   Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting thread.
@@ -82,7 +86,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 ## Creations
 
-Creations that aren't specifically Pocket Edition screenshots or videos belong here
+The root of the Creations forum is for creative threads that aren't specifically Xbox 360 Edition screenshots or videos.
 
 ### Screenshots
 
