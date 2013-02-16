@@ -88,7 +88,7 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 ### Looking For / Sessions
 
 * Posting video-related/let's play topics is not allowed
-* Only threads looking for specific servers, staff members, builders, or ideas are allowed
+* Only session threads or topics looking for specific servers, staff members, builders, or ideas are allowed
 * General server advertisement threads are not allowed
 * Copy-Paste replies are not allowed, replies must be relevant to the topic
 * Replies to a topic may only be made up to 7 days after the last post by the OP
