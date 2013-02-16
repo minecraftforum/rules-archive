@@ -10,7 +10,7 @@
 
 * __Do not encourage modification__
 
-  Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
   
 ## Discussion
 
@@ -43,7 +43,7 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 
 * __Do not request mods__
 
-  Do not request mods or ideas for mods in this section. Modifications to the Minecraft: Xbox Edition is against [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Do not request mods or ideas for mods in this section. Modifications to the Minecraft: Xbox Edition is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
 
 ## Multiplayer
 
@@ -68,7 +68,7 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 ### Looking For / Sessions
 
 * Posting video-related/let's play topics is not allowed
-* Only threads looking for specific servers, staff members, builders, or ideas are allowed
+* Only session threads or topics looking for specific servers, staff members, builders, or ideas are allowed
 * General server advertisement threads are not allowed
 * Copy-Paste replies are not allowed, replies must be relevant to the topic
 * Replies to a topic may only be made up to 7 days after the last post by the OP
