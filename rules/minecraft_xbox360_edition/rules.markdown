@@ -86,12 +86,13 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 ## Creations
 
-The root of the Creations forum is for creative threads that aren't specifically Xbox 360 Edition screenshots or videos.
+* __Titles must describe the content of the creation__
 
-### Screenshots
+  Please ensure your titles are clearly related to the content of your creation. Titles which are misleading
+  or needlessly sensationalist will be removed.
+  
+* __Always embed your images and/or videos__
 
-* Titles must describe the content of the screenshot(s)
-
-### Videos
-
-* Titles must describe the content of the video
+  All images and videos should be properly embedded within your posts. Content which is not embedded may be
+  removed. If you need assistance embedding your images, please see [Opeth's image guide](http://img.mcf.li/images.jpg).
+  If you require help with video embedding, please see [DanielleStarr's video guide](http://img.mcf.li/video_guide.png).
