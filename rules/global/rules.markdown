@@ -224,6 +224,10 @@ Every 30 days infractions "expire" and the points are removed from a members tot
 Permanent bans are never automatically issued, they are reserved for members that we believe to be detrimental to the minecraftforum.net community.
 They are issued to members that continually break the rules and do not provide any value to the community.
 
+## Disclaimer
+
+The administrators and moderators are responsible for the smooth and efficient running of the site. The staff reserves the right to take whatever action is deemed appropriate in any given situation, regardless of whether there is a specific rule covering that situation or not. If there is a misunderstanding or dispute, then please bring the issue up politely with that staff member in private. In all matters, the decision of the administration is final.
+
 ## Help And Support
 
 Support is provided to minecraftforum.net members through the [Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) section of the forum.
