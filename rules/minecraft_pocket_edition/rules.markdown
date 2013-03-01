@@ -1,5 +1,13 @@
 # Minecraft: Pocket Edition
 
+* __Do not partake in or create platform wars__
+
+  Please do not make threads or comments regarding one platform being better than the other as they encourage flame wars within the community.
+
+* __Do not post update threads__
+
+  Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have no discussion value. Such threads will be locked for redundancy.
+
 ## Discussion
 
 * The discussion section is for general Pocket Edition discussion which does not fit into any other Pocket Edition forum.
@@ -10,6 +18,10 @@
 * Bumping support threads if no response is received within twelve hours is allowed
 
 ## Suggestions
+
+* __Clearly title your threads__
+
+  Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
 
 * __No Duplicate Suggestions__
 
@@ -25,9 +37,11 @@
 
 * __Existing Mod(s)__
 
-If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
+  If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
 
 ## Mapping and Modding
+
+The root of the Mapping and Modding forum is for mod related topics that aren't specifically Pocket Edition maps, texture packs or mods/tools.
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers
 
@@ -74,7 +88,7 @@ If a mod exists that provides part (or all) of the suggestions request linking t
 ### Looking For / Sessions
 
 * Posting video-related/let's play topics is not allowed
-* Only threads looking for specific servers, staff members, builders, or ideas are allowed
+* Only session threads or topics looking for specific servers, staff members, builders, or ideas are allowed
 * General server advertisement threads are not allowed
 * Copy-Paste replies are not allowed, replies must be relevant to the topic
 * Replies to a topic may only be made up to 7 days after the last post by the OP
@@ -92,12 +106,13 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 ## Creations
 
-Creations that aren't specifically Pocket Edition screenshots or videos belong here
+* __Titles must describe the content of the creation__
 
-### Screenshots
+  Please ensure your titles are clearly related to the content of your creation. Titles which are misleading
+  or needlessly sensationalist will be removed.
+  
+* __Always embed your images and/or videos__
 
-* Titles must describe the content of the screenshot(s)
-
-### Videos
-
-* Titles must describe the content of the video
+  All images and videos should be properly embedded within your posts. Content which is not embedded may be
+  removed. If you need assistance embedding your images, please see [Opeth's image guide](http://img.mcf.li/images.jpg).
+  If you require help with video embedding, please see [DanielleStarr's video guide](http://img.mcf.li/video_guide.png).

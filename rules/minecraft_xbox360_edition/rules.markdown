@@ -10,7 +10,7 @@
 
 * __Do not encourage modification__
 
-  Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
   
 ## Discussion
 
@@ -24,6 +24,10 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 * Bumping support threads if no response is received within twelve hours is allowed
 
 ## Suggestions
+
+* __Clearly title your threads__
+
+  Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
 
 * __No Duplicate Suggestions__
 
@@ -39,7 +43,7 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 
 * __Do not request mods__
 
-  Do not request mods or ideas for mods in this section. Modifications to the Minecraft: Xbox Edition is against [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Do not request mods or ideas for mods in this section. Modifications to the Minecraft: Xbox Edition is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
 
 ## Multiplayer
 
@@ -64,7 +68,7 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 ### Looking For / Sessions
 
 * Posting video-related/let's play topics is not allowed
-* Only threads looking for specific servers, staff members, builders, or ideas are allowed
+* Only session threads or topics looking for specific servers, staff members, builders, or ideas are allowed
 * General server advertisement threads are not allowed
 * Copy-Paste replies are not allowed, replies must be relevant to the topic
 * Replies to a topic may only be made up to 7 days after the last post by the OP
@@ -82,12 +86,13 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 ## Creations
 
-Creations that aren't specifically Pocket Edition screenshots or videos belong here
+* __Titles must describe the content of the creation__
 
-### Screenshots
+  Please ensure your titles are clearly related to the content of your creation. Titles which are misleading
+  or needlessly sensationalist will be removed.
+  
+* __Always embed your images and/or videos__
 
-* Titles must describe the content of the screenshot(s)
-
-### Videos
-
-* Titles must describe the content of the video
+  All images and videos should be properly embedded within your posts. Content which is not embedded may be
+  removed. If you need assistance embedding your images, please see [Opeth's image guide](http://img.mcf.li/images.jpg).
+  If you require help with video embedding, please see [DanielleStarr's video guide](http://img.mcf.li/video_guide.png).
