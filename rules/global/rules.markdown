@@ -132,6 +132,11 @@ The guidelines and information below applies to the entire forum.
     inappropriate nature is strictly not allowed. Please consider the types of
     content posted to a family friendly forum.
     
+* __Misuse alt accounts__
+
+    Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
+    or encourage misinformation is not allowed on the forums.
+    
 ### Illegal Activity
 
 * __Piracy__
