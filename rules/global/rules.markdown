@@ -126,6 +126,17 @@ The guidelines and information below applies to the entire forum.
     substantial discussion of the topic. Contentless bumps which add very
     little to the discussion will be removed.
     
+* __Post Provocative/Offensive Material__
+
+    Provocative and/or offensive material of a sexual, violent or otherwise
+    inappropriate nature is strictly not allowed. Please consider the types of
+    content posted to a family friendly forum.
+    
+* __Misuse alt accounts__
+
+    Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
+    or encourage misinformation is not allowed on the forums.
+    
 ### Illegal Activity
 
 * __Piracy__
