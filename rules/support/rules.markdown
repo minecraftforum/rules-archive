@@ -56,6 +56,15 @@ This section is for requesting support with the server client. Anything non-bukk
 * __Do not ask for Bukkit support__
 
     Bukkit questions should be asked on the [Bukkit Forum](http://forums.bukkit.org/forums/bukkit-help.6/).
+    
+### Server Administration
+
+* Bumping once every 48 hours on support-related topics is allowed
+    * This is only this section, and only if there are no replies from other people after that time
+* Posting "there is a plugin/mod for that" without linking in the post is not allowed
+* Necroing (posting on an old topic) is not encouraged
+* Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
+
 
 
 ## Mojang Accounts / Minecraft.net Support
