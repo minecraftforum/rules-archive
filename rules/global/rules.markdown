@@ -7,8 +7,7 @@ The guidelines and information below applies to the entire forum.
 * __Be Nice And Polite__
 
     Every member deserves to be treated with respect. Positive and polite posts 
-    create a friendly and welcoming environment that all Minecraft players
-    will feel comfortable in.
+    create a friendly and welcoming environment that all members will feel comfortable in.
 
 * __Search__
 
@@ -39,7 +38,8 @@ The guidelines and information below applies to the entire forum.
 
     As a family friendly forum we censor all profanity, however the censor is
     not an excuse to still swear; all posts that contain any instance of 
-    profanity will be removed. Self-censoring is also not allowed.
+    profanity will be removed. This includes profanity within acronyms.
+    Self-censoring is also not allowed.
 
 * __Bump Threads__
     
@@ -69,7 +69,7 @@ The guidelines and information below applies to the entire forum.
     We do not allow the sale of Minecraft Accounts, if you wish to acquire a
     Minecraft account please purchase via [Minecraft.net](http://minecraft.net).
 
-* __Offer or request Services/Products__
+* __Offer or Request Services/Products__
     
     With the exception of the
     [Minecraft Server Hosting](http://www.minecraftforum.net/forum/131-minecraft-server-hosting/)
@@ -78,7 +78,7 @@ The guidelines and information below applies to the entire forum.
     section, we do not allow members to trade or sell services/products.
     Forums are for discussions, they are not a market or trading place.
 
-* __Giveaways__
+* __Post Giveaways__
 
     Member-run giveaways or contests that require performing a specific action
     for entry (eg: subscribe to my Youtube channel, follow me on Twitter) 
@@ -98,10 +98,10 @@ The guidelines and information below applies to the entire forum.
     report any abuse to the site operators and will often result in the
     relevant accounts being shut down.
 
-* __Hoaxes__
+* __Hoax__
 
     Deliberately posting misleading or inaccurate information to confuse members
-    is unacceptable, this includes sightings of Herobrine.
+    is unacceptable. This includes sightings of Herobrine.
 
 * __Access Accounts Without Permission__
 
@@ -111,9 +111,15 @@ The guidelines and information below applies to the entire forum.
 * __Troll__
 
     Trolling of any kind is not tolerated.
-    Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, 
+    Accusing someone of trolling, which is known as "Troll Calling" is also disallowed,
     eg: "Stop trolling", "You're a troll!". If someone is trolling they should be 
     reported.
+    
+* __Flame or Provoke__
+
+    Do not insult or flame other members of the forum. Similarly, do not post with the
+    intention of provoking a reaction from fellow members. This includes encouraging flame
+    wars. Instigation is not tolerated.
     
 * __Use Referral/Affiliate Links__
 
@@ -130,9 +136,10 @@ The guidelines and information below applies to the entire forum.
 
     Provocative and/or offensive material of a sexual, violent or otherwise
     inappropriate nature is strictly not allowed. Please consider the types of
-    content posted to a family friendly forum.
+    content posted to a family friendly forum. Always ensure your content is both
+    "Safe For Work" and suitable for children.
     
-* __Misuse alt accounts__
+* __Misuse Alt Accounts__
 
     Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
     or encourage misinformation is not allowed on the forums.
