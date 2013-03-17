@@ -64,14 +64,6 @@ Servers is the section for PC specific posts to be made.
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
 
-### Server Administration
-
-* Bumping once every 48 hours on support-related topics is allowed
-    * This is only this section, and only if there are no replies from other people after that time
-* Posting "there is a plugin/mod for that" without linking in the post is not allowed
-* Necroing (posting on an old topic) is not encouraged
-* Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
-
 ### Minecraft Server Hosting
 
 * At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
