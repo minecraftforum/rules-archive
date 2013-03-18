@@ -43,7 +43,7 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 
 * __Do not request mods__
 
-  Do not request mods or ideas for mods in this section. Modifications to the Minecraft: Xbox Edition is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Do not request new mods, existing mods or ideas for mods in this section. Referencing an existing mod as context for your feature request is acceptable, however specific mod requests alone are not allowed. This includes DLC marketplace requests. Modifications to the Minecraft: Xbox Edition is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
 
 ## Multiplayer
 
