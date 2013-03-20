@@ -68,6 +68,8 @@ The guidelines and information below applies to the entire forum.
     
     We do not allow the sale of Minecraft Accounts, if you wish to acquire a
     Minecraft account please purchase via [Minecraft.net](http://minecraft.net).
+	The sale of Minecraft Cape codes (eg: <a href="http://www.minecraftwiki.net/wiki/MineCon#Cape_2">Minecon 2012 Cape</a>) 
+    and any other game content is also disallowed.
 
 * __Offer or Request Services/Products__
     
