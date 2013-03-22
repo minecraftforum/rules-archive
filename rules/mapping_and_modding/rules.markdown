@@ -32,17 +32,6 @@ download link and pictures are in the topic, report the topic for it to be moved
 * Topics must be either a request or an idea for a mod
 * Posting "there is a mod for this" is not allowed unless the mod is linked in the post
 
-### Content Packs
-
-This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
-
-* Links to the original mod must be provided in the topic
-* The original mod must be tagged in the topic tags
-* Topics must have embedded images or videos
-* Topics must have installation instructions
-* Do not ask or pressure content packs to update
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
-
 ### Modification Development
 
 Only topics for the advancement of mods. The mod has to have already been started. Get help with coding and development here. 
@@ -50,6 +39,13 @@ Only topics for the advancement of mods. The mod has to have already been starte
 * Do not ask others to do it
 * Bumping is permitted once every 24 hours after the last reply if help is still needed
 * Recruiting for mod teams is not allowed
+
+### Modding Tutorials
+
+* Tutorials about mods and modding only
+* Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
+* Do not post topics asking for help here
+* Video-only topics are not allowed
 
 ## Maps
 
@@ -60,6 +56,13 @@ Only topics for the advancement of mods. The mod has to have already been starte
 ### Maps Discussion
 
 * Only topics which do not fit in another map section, but are still related to maps go here. 
+
+### Mapping Tutorials
+
+* Tutorials about maps and map making only
+* Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
+* Do not post topics asking for help here
+* Video-only topics are not allowed
 
 ## Texture Packs
 
@@ -84,12 +87,6 @@ Anything that does not produce textures directly belongs in this section.
 * Topics must have download link or a link to the tool's location
 * Topics must have a "How to use" guide
 * Tools that are designed to grief or harm a server or users are not allowed
-
-## Tutorials
-
-* Tutorials about maps or mods only, no gaming tutorials are allowed
-* Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
-* Do not post topics asking for help here
 
 ## Language Packs
 
