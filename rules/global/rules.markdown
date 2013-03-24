@@ -120,6 +120,11 @@ The guidelines and information below applies to the entire forum.
     Do not insult or flame other members of the forum. Similarly, do not post with the
     intention of provoking a reaction from fellow members. This includes encouraging flame
     wars. Instigation is not tolerated.
+
+* __Grammar Harrass__
+    
+    Please do not correct or insult other members grammar/spelling. Grammar harrassment
+    does not add to the discussion, and is not tolerated.
     
 * __Use Referral/Affiliate Links__
 
@@ -143,10 +148,6 @@ The guidelines and information below applies to the entire forum.
 
     Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
     or encourage misinformation is not allowed on the forums.
-    
-* __Harrass about Grammar__
-    
-    Please do not Correct or Insult on other's grammar/spelling. It does not add to the discussion, and is not tolerated.
     
 ### Illegal Activity
 
