@@ -144,6 +144,10 @@ The guidelines and information below applies to the entire forum.
     Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
     or encourage misinformation is not allowed on the forums.
     
+* __Harrass about Grammar__
+    
+    Please do not Correct or Insult on other's grammar/spelling. It does not add to the discussion, and is not tolerated.
+    
 ### Illegal Activity
 
 * __Piracy__
