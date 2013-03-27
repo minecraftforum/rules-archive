@@ -166,7 +166,7 @@ The guidelines and information below applies to the entire forum.
 * __Hate Speech__
 
     As a family friendly and all inclusive community we do not allow any form of
-    discrimination, this includes -- but is not limited to -- age, race, gender
+    discrimination, this includes -- but is not limited to -- age, race, gender,
     nationality, ethnicity, religion and sexuality.
 
 * __Spread Malicious Content__
