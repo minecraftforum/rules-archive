@@ -122,6 +122,11 @@ The guidelines and information below applies to the entire forum.
     Do not insult or flame other members of the forum. Similarly, do not post with the
     intention of provoking a reaction from fellow members. This includes encouraging flame
     wars. Instigation is not tolerated.
+
+* __Grammar Harrass__
+    
+    Please do not correct or insult other members grammar/spelling. Grammar harrassment
+    does not add to the discussion, and is not tolerated.
     
 * __Use Referral/Affiliate Links__
 
