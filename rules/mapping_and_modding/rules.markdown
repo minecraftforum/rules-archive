@@ -40,13 +40,6 @@ Only topics for the advancement of mods. The mod has to have already been starte
 * Bumping is permitted once every 24 hours after the last reply if help is still needed
 * Recruiting for mod teams is not allowed
 
-### Modding Tutorials
-
-* Tutorials about mods and modding only
-* Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
-* Do not post topics asking for help here
-* Video-only topics are not allowed
-
 ## Maps
 
 * Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
@@ -56,13 +49,6 @@ Only topics for the advancement of mods. The mod has to have already been starte
 ### Maps Discussion
 
 * Only topics which do not fit in another map section, but are still related to maps go here. 
-
-### Mapping Tutorials
-
-* Tutorials about maps and map making only
-* Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
-* Do not post topics asking for help here
-* Video-only topics are not allowed
 
 ## Texture Packs
 
@@ -94,6 +80,19 @@ Anything that does not produce textures directly belongs in this section.
 * Topics must have embedded images or videos
 * Any required permissions must be displayed in the original post
 * Do not post topics asking for help here
+
+## Tutorials
+
+* Do not post topics asking for help here
+* Video-only topics are not allowed
+ 
+### Modding Tutorials
+
+* Tutorials about mod development, using, or installing only
+ 
+### Mapping Tutorials
+
+* Tutorials about map making or developing only
 
 ## Download Links
 
