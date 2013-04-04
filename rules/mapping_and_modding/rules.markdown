@@ -81,18 +81,11 @@ Anything that does not produce textures directly belongs in this section.
 * Any required permissions must be displayed in the original post
 * Do not post topics asking for help here
 
-## Tutorials
+## Mapping and Modding Tutorials
 
+* Tutorials about maps or mods only, no gaming tutorials are allowed
 * Do not post topics asking for help here
 * Video-only topics are not allowed
- 
-### Modding Tutorials
-
-* Tutorials about mod development, using, or installing only
- 
-### Mapping Tutorials
-
-* Tutorials about map making or developing only
 
 ## Download Links
 
