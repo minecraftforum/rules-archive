@@ -32,17 +32,6 @@ download link and pictures are in the topic, report the topic for it to be moved
 * Topics must be either a request or an idea for a mod
 * Posting "there is a mod for this" is not allowed unless the mod is linked in the post
 
-### Content Packs
-
-This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
-
-* Links to the original mod must be provided in the topic
-* The original mod must be tagged in the topic tags
-* Topics must have embedded images or videos
-* Topics must have installation instructions
-* Do not ask or pressure content packs to update
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
-
 ### Modification Development
 
 Only topics for the advancement of mods. The mod has to have already been started. Get help with coding and development here. 
@@ -85,18 +74,18 @@ Anything that does not produce textures directly belongs in this section.
 * Topics must have a "How to use" guide
 * Tools that are designed to grief or harm a server or users are not allowed
 
-## Tutorials
-
-* Tutorials about maps or mods only, no gaming tutorials are allowed
-* Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
-* Do not post topics asking for help here
-
 ## Language Packs
 
 * Languages relevant to the translation are allowed here
 * Topics must have embedded images or videos
 * Any required permissions must be displayed in the original post
 * Do not post topics asking for help here
+
+## Mapping and Modding Tutorials
+
+* Tutorials about maps or mods only, no gaming tutorials are allowed
+* Do not post topics asking for help here
+* Video-only topics are not allowed
 
 ## Download Links
 
