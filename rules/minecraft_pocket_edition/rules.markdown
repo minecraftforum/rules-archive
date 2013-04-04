@@ -12,6 +12,11 @@
 
 * The discussion section is for general Pocket Edition discussion which does not fit into any other Pocket Edition forum.
 
+## Recent & Upcoming Title Updates
+
+* All recent and future Xbox 360 Edition title update threads belongs here.
+* Do not post threads that are not related to a new or future title update.
+
 ### Support
 
 * Threads must be concerning problems experienced with Minecraft: Pocket Edition
@@ -67,7 +72,11 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 
 ## Multiplayer
 
+## Multiplayer
+
 ### Servers
+
+This section is for servers that are either running 24/7 or most of the time.
 
 * Creating more than one thread per server is not allowed
 * Creating more than one review post per server is not allowed
@@ -78,14 +87,18 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 * Server support threads are not allowed
 * Threads requesting a specific type of server are not allowed
 
-### Clans
+### Quick Sessions / Minigames
 
-* No malicious clans or teams are allowed, this includes but not limited to griefing or hacking clans
-* Do not use an existing clan's name for a new clan name
-* Each clan is allowed only 1 topic
-* Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
+This section is for temporary, short sessions. This includes mini-match events such as Hunger Games tournaments.
 
-### Looking For / Sessions
+* Creating more than one thread per session/minigame is not allowed
+* Off-topic replies are not allowed
+* Black ASCII blocks are not allowed in thread titles (Example: █▓▒░)
+* Threads requesting a certain session/minigame to be griefed are not allowed
+* Blacklists and threads requesting that a certain player be banned are not allowed
+* Threads requesting a specific type of session/mini are not allowed
+
+### Looking For / Build Help
 
 * Posting video-related/let's play topics is not allowed
 * Only session threads or topics looking for specific servers, staff members, builders, or ideas are allowed
@@ -94,6 +107,13 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 * Replies to a topic may only be made up to 7 days after the last post by the OP
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
+
+### Clans
+
+* No malicious clans or teams are allowed, this includes but not limited to griefing or hacking clans
+* Do not use an existing clan's name for a new clan name
+* Each clan is allowed only 1 topic
+* Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
 
 ## Seeds
 
