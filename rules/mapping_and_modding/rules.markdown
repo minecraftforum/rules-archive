@@ -3,7 +3,7 @@
 ## General Rules
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
-* Do not ask or pressure mods to be updated
+* Do not ask or pressure content to be updated
 * Topics that contain a download must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 
 ## Minecraft Mods
