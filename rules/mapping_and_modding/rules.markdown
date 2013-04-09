@@ -4,12 +4,12 @@
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
 * Do not ask or pressure mods to be updated
+* Topics that contain a download must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 
 ## Minecraft Mods
 
 Any released mods or content packs belong here.
 
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Must modify the minecraft.jar file or be an extension to an existing mod
 * Must contain the class files, .exe only downloads are not allowed
 * Topics must have embedded images or videos
@@ -44,7 +44,6 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 ## Maps
 
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
 * Topics must have embedded images or videos
 
@@ -56,7 +55,6 @@ Discuss maps and mapping here.
 
 * Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
 * Topics must have embedded images or videos
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Any required permissions must be displayed in the original post
 
 ### Texture Discussion
@@ -71,7 +69,6 @@ Anything that does not produce textures directly belongs in this section.
 ## Minecraft Tools
 
 * Topics must have embedded images or videos
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Topics must have a "How to use" guide
 * Tools that are designed to grief or harm a server or users are not allowed
 
