@@ -49,8 +49,8 @@
                     rules (since last acknowledgement) are displayed with a 
                     green background. A full history of all our rules can be 
                     viewed via our 
-                    <a href="https://github.com/minecraftforum/rules">git repository on github</a>. 
-                    Proposals of changes to the rules are always welcome and 
+                    <a href="https://github.com/minecraftforum/rules">git repository on GitHub</a>. 
+                    Proposals for changes to the rules are always welcome and 
                     will be discussed.
                 </p>
                 <p>
