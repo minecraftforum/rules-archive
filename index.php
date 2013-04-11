@@ -1,7 +1,8 @@
 <?php
 
+    require 'vendor/autoload.php';
+    
     require 'helper.php';
-    require 'class/klein.php';
     require 'class/markdown.php';
     
     require 'config/application.php';
