@@ -4,19 +4,20 @@ body{
 }
 
 h1, h2, h3, h4, h5, h6{
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight:bold;
-    margin:15px 0 5px 0;
-    padding-bottom:6px;
-    border-top:50px solid transparent;
-    margin-top:-50px;
-    -webkit-background-clip:padding-box;
-    -moz-background-clip:padding;
-    background-clip:padding-box;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight :bold;
+    margin: 15px 0 5px 0;
+    padding-bottom: 6px;
+    /* following-menu offset */
+    border-top: 50px solid transparent;
+    margin-top: -50px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
 }
 
 #content{
-    padding-top:40px;
+    padding-top: 40px;
 }
 
 .rules{
@@ -24,24 +25,24 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .rules p, li{
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size:16px;
-    font-weight:400;
-    line-height:26px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
 }
 
 .rules li{
-    margin-bottom:6px;
+    margin-bottom: 6px;
 }
 
 .section_rules{
-    border:2px solid #EEE;
-    margin-bottom:20px;
-    padding:10px;
+    border: 2px solid #EEE;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 
 .selected_heading{
-    color:#C62437;
+    color: #C62437;
 }
 
 #following-menu{
@@ -66,15 +67,15 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #footer{
-    margin-top:60px;
-    margin-bottom:60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .clear{
-    clear:both;
+    clear: both;
 }
 
 .new{
-    background-color:#D6FF9F;
-    padding:4px;
+    background-color: #D6FF9F;
+    padding: 4px;
 }
