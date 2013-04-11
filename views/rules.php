@@ -25,6 +25,9 @@
     </script>
 </head>
 <body>
+    <div id="following-menu">
+        <a href="http://www.minecraftforum.net/forum/">&larr; return to mcf</a> &ensp; &ensp; <a href="#table-of-contents">table of contents &uarr;</a>
+    </div>
     <div class="container" id="content">
         <div class="row">
             <div class="span10 rules">
@@ -35,6 +38,7 @@
                 <p>
                     When the rules are updated a message will display at the top of the forum alerting all members to the new rules. New rules (since last acknowledgement) are displayed with a green background. A full history of all our rules can be viewed via our <a href="https://github.com/minecraftforum/rules">git repository on github</a>. Proposals of changes to the rules are always welcome and will be discussed.
                 </p>
+                <p>Please pay attention to the Global Guidelines <strong>and</strong> any section specific rules for the sections that you use. For example if you post in the Minecraft Discussion section you must follow the Global Guidelines <em>and</em> the Minecraft Discussion section guidelines.</p>
             </div>
             <div class="span10 rules">
                 <div id="table-of-contents" class="rules" style="min-height:<?php echo $this->toc_height; ?>px"></div>

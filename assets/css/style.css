@@ -1,16 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 h1, h2, h3, h4, h5, h6{
     font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight:bold;
     margin:15px 0 5px 0;
     padding-bottom:6px;
+    border-top:50px solid transparent;
+    margin-top:-50px;
+    -webkit-background-clip:padding-box;
+    -moz-background-clip:padding;
+    background-clip:padding-box;
 }
 
 #content{
-    margin-top:40px;
+    padding-top:40px;
 }
 
 .rules{
-    margin-bottom:20px;
+    margin-bottom: 20px;
 }
 
 .rules p, li{
@@ -32,6 +42,27 @@ h1, h2, h3, h4, h5, h6{
 
 .selected_heading{
     color:#C62437;
+}
+
+#following-menu{
+    background-color: #361F4D;
+    padding: 6px;
+    position: fixed;
+    width: 100%;
+}
+
+#following-menu a{
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#following-menu a:hover{
+    color: #999;
+}
+
+#table-of-contents{
+    padding-top: 40px;
 }
 
 #footer{
