@@ -33,12 +33,34 @@
             <div class="span10 rules">
                 <h1 id="rules">Minecraftforum.net rules</h1>
                 <p>
-                    The rules and guidelines outlined below must be followed at all times by members of minecraftforum.net. The rules are enforced to ensure that minecraftforum.net remains a safe and friendly enviromment for all members. Anyone of any age is welcome to use minecraftforum.net, although we strictly enforce our profanity rules we cannot guarantee that the forum will never contain <em>bad</em> content, as such parents should always monitor their young childrens usage of minecraftforum.net.
+                    The rules and guidelines outlined below must be followed at 
+                    all times by members of minecraftforum.net. The rules are 
+                    enforced to ensure that minecraftforum.net remains a safe 
+                    and friendly environment for all members. Anyone of any age 
+                    is welcome to use minecraftforum.net however while we 
+                    strictly enforce our profanity rules we cannot guarantee 
+                    that the forum will never contain <em>bad</em> content, as 
+                    such parents should always monitor their young childrens 
+                    usage of minecraftforum.net.
                 </p>
                 <p>
-                    When the rules are updated a message will display at the top of the forum alerting all members to the new rules. New rules (since last acknowledgement) are displayed with a green background. A full history of all our rules can be viewed via our <a href="https://github.com/minecraftforum/rules">git repository on github</a>. Proposals of changes to the rules are always welcome and will be discussed.
+                    When the rules are updated a message will display at the top 
+                    of the forum alerting all members to the new rules. New 
+                    rules (since last acknowledgement) are displayed with a 
+                    green background. A full history of all our rules can be 
+                    viewed via our 
+                    <a href="https://github.com/minecraftforum/rules">git repository on github</a>. 
+                    Proposals of changes to the rules are always welcome and 
+                    will be discussed.
                 </p>
-                <p>Please pay attention to the Global Guidelines <strong>and</strong> any section specific rules for the sections that you use. For example if you post in the Minecraft Discussion section you must follow the Global Guidelines <em>and</em> the Minecraft Discussion section guidelines.</p>
+                <p>
+                    Please pay attention to the Global Guidelines 
+                    <strong>and</strong> any section specific rules for the 
+                    sections that you use. For example if you post in the 
+                    Minecraft Discussion section you must follow the Global 
+                    Guidelines <em>and</em> the Minecraft Discussion section 
+                    guidelines.
+                </p>
             </div>
             <div class="span10 rules">
                 <div id="table-of-contents" class="rules" style="min-height:<?php echo $this->toc_height; ?>px"></div>

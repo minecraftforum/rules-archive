@@ -47,6 +47,7 @@ h1, h2, h3, h4, h5, h6{
 
 #following-menu{
     background-color: #361F4D;
+    min-width: 960px;
     padding: 6px;
     position: fixed;
     width: 100%;
