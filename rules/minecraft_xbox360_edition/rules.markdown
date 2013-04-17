@@ -2,16 +2,23 @@
 
 * __Do not partake in or create platform wars__
 
-  Please do not make threads or comments regarding one platform being better than the other as they encourage flame wars within the community.
+  Please do not make threads or comments regarding one platform being better than the other as they encourage flame
+wars within the community.
 
 * __Do not post update threads__
 
-  Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have no discussion value. Such threads will be locked for redundancy.
+  Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be
+spamming the section as they have no discussion value. Such threads will be locked for redundancy.
 
 * __Do not encourage modification__
 
-  Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications of the game is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
-  
+  Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications
+of the game is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+
+* __Do not post duplication glitches__
+
+  Topics detailing how to perform duplication glitches within Minecraft: Xbox 360 Edition are not allowed.
+
 ## Discussion
 
 * The discussion section is for general Xbox 360 discussion which does not fit into any other Xbox 360 forum.
@@ -32,23 +39,30 @@ This section is for help with the Xbox 360: Edition of Minecraft only
 
 * __Clearly title your threads__
 
-  Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
+  Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion.
+Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
 
 * __No Duplicate Suggestions__
 
-  Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting thread.
+  Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting
+thread.
 
 * __No Vague Suggestions__
 
-  Suggestions that are vague or unclear will be removed, for proper discussion to happen suggestions must be well explained and if necessary, well demonstrated.
+  Suggestions that are vague or unclear will be removed, for proper discussion to happen suggestions must be well
+explained and if necessary, well demonstrated.
 
 * __No Wishlists__
 
-  Do not post more than one suggestion per thread. Very closely related suggestions are fine, but separate suggestions require separate threads. "Wishlists" will be closed or deleted.
+  Do not post more than one suggestion per thread. Very closely related suggestions are fine, but separate suggestions
+require separate threads. "Wishlists" will be closed or deleted.
 
 * __Do not request mods__
 
-  Do not request new mods, existing mods or ideas for mods in this section. Referencing an existing mod as context for your feature request is acceptable, however specific mod requests alone are not allowed. This includes DLC marketplace requests. Modifications to the Minecraft: Xbox Edition is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Do not request new mods, existing mods or ideas for mods in this section. Referencing an existing mod as context for
+your feature request is acceptable, however specific mod requests alone are not allowed. This includes DLC marketplace
+requests. Modifications to the Minecraft: Xbox Edition is against the
+[Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
 
 ## Multiplayer
 
@@ -91,7 +105,8 @@ This section is for temporary, short sessions. This includes mini-match events s
 * No malicious clans or teams are allowed, this includes but not limited to griefing or hacking clans
 * Do not use an existing clan's name for a new clan name
 * Each clan is allowed only 1 topic
-* Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
+* Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must
+remain civil
 
 ## Seeds
 
