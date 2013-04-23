@@ -3,19 +3,19 @@
 ## General Rules
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
+* Do not ask or pressure content to be updated
+* Topics that contain a download must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 
 ## Minecraft Mods
 
-Released mods only. 
+Any released mods or content packs belong here.
 
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
-* Must modify the minecraft.jar file
-* Must contain the class files. .exe only downloads will be removed
+* Must modify the minecraft.jar file or be an extension to an existing mod
+* Must contain the class files, .exe only downloads are not allowed
 * Topics must have embedded images or videos
-* Topics must follow the tagging format
+* Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
 * Topics must have an installation guide
 * Any required permissions must be displayed in the original post
-* Do not ask or pressure mods to be updated
 * Smp "hack" and "cheat" mods are allowed, however any designed for griefing are not allowed
 
 ### Mod Discussion
@@ -28,6 +28,8 @@ Incomplete mods only. If the main features of the mod are not complete, it belon
 download link and pictures are in the topic, report the topic for it to be moved to "Minecraft Mods".
 
 ### Requests / Ideas For Mods.
+
+Place your mod ideas or requests here.
 
 * Topics must be either a request or an idea for a mod
 * Posting "there is a mod for this" is not allowed unless the mod is linked in the post
@@ -42,21 +44,18 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 ## Maps
 
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
-* Topics must follow the tagging format
+* Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
 * Topics must have embedded images or videos
 
 ### Maps Discussion
 
-* Only topics which do not fit in another map section, but are still related to maps go here. 
+Discuss maps and mapping here.
 
 ## Texture Packs
 
-* Topics must follow tagging format
+* Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
 * Topics must have embedded images or videos
-* Topics must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Any required permissions must be displayed in the original post
-* Do not ask or pressure texture packs to update
 
 ### Texture Discussion
 
@@ -70,7 +69,6 @@ Anything that does not produce textures directly belongs in this section.
 ## Minecraft Tools
 
 * Topics must have embedded images or videos
-* Topics must have download link or a link to the tool's location
 * Topics must have a "How to use" guide
 * Tools that are designed to grief or harm a server or users are not allowed
 
@@ -100,3 +98,10 @@ Anything that does not produce textures directly belongs in this section.
   An alternative link is a link that is used for other things besides being a download page.
   An example of an alternative link is sites like Planet Minecraft links, where the link is used for other things as well.
   These links may not be used with monetary linking services.
+  
+## Tagging Format
+
+When needed, topics that are required to follow the tagging format should include the following in the title
+
+ * Version of MC it applies or is made for
+ * If it requires addition mods or content
