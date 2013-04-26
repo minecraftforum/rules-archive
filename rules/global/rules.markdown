@@ -229,7 +229,7 @@ A formal warning can have between 1 and 10 points associated with it, the averag
 
 ### Points
 
-Every 30 days infractions "expire" and the points are removed from a members total infraction points. If a member reaches a specific point total within
+Every 30 days infractions "expire" and the current total of a member's points is reduced by 1, should they remain infraction-free for that month. If a member reaches a specific point total within
 30 days posting suspensions are issued, the point total and suspension lengths are as follows:
 
 * __1 Point__ No action
