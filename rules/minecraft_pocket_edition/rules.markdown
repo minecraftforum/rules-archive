@@ -14,7 +14,7 @@
 
 ## Recent & Upcoming Title Updates
 
-* All recent and future Xbox 360 Edition title update threads belongs here.
+* All recent and future Pocket Edition update threads belongs here.
 * Do not post threads that are not related to a new or future title update.
 
 ### Support
@@ -69,8 +69,6 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 
 * Do not encourage the use of "cracked" applications
 * Please do not detail information on how to obtain pirated applications as it is encouraging piracy and will not be permitted on the forums
-
-## Multiplayer
 
 ## Multiplayer
 
