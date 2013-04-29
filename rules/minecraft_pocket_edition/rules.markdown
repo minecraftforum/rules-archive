@@ -28,19 +28,24 @@
 
   Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
 
-* __No Duplicate Suggestions__
+* __No duplicate suggestions__
 
   Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting thread.
 
-* __No Vague Suggestions__
+* __No vague suggestions__
 
   Suggestions that are vague or unclear will be removed, for proper discussion to happen suggestions must be well explained and if necessary, well demonstrated.
 
-* __No Wishlists__
+* __No wishlists__
 
   Do not post more than one suggestion per thread. Very closely related suggestions are fine, but separate suggestions require separate threads. "Wishlists" will be closed or deleted.
 
-* __Existing Mod(s)__
+* __No small suggestions__
+
+  A small suggestion is defined as an idea that tweaks or changes an existing Minecraft: Pocket Edition feature in some way.
+Small suggestions should be posted in the [Pocket Edition small suggestions thread](http://www.minecraftforum.net/topic/1690834-).
+
+* __Existing mod(s)__
 
   If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
 
@@ -61,7 +66,7 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 
   Please label threads according to what platform it will work with whether it be iOS, Android or both.
 
-* __Porting Texture Packs__
+* __Porting texture packs__
 
   If porting a texture pack from another platform then permissions from the original author must be gained and must be displayed within the topic.
 
