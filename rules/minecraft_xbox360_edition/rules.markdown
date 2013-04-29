@@ -42,20 +42,25 @@ This section is for help with the Xbox 360: Edition of Minecraft only
   Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion.
 Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
 
-* __No Duplicate Suggestions__
+* __No duplicate suggestions__
 
   Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting
 thread.
 
-* __No Vague Suggestions__
+* __No vague suggestions__
 
   Suggestions that are vague or unclear will be removed, for proper discussion to happen suggestions must be well
 explained and if necessary, well demonstrated.
 
-* __No Wishlists__
+* __No wishlists__
 
   Do not post more than one suggestion per thread. Very closely related suggestions are fine, but separate suggestions
 require separate threads. "Wishlists" will be closed or deleted.
+
+* __No small suggestions__
+
+  A small suggestion is defined as an idea that tweaks or changes an existing Minecraft: Xbox 360 Edition feature in some way.
+Small suggestions should be posted in the [Xbox 360 small suggestions thread](http://www.minecraftforum.net/topic/1690852-).
 
 * __Do not request mods__
 
