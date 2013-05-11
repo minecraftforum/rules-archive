@@ -46,7 +46,6 @@ Servers is the section for PC specific posts to be made.
 
 ### PC Servers
 
-* No posting in the topics of servers that you are banned from, unless filling out a ban appeal
 * Cracked servers are not allowed to be advertised
 * Only 1 review per member
 * Stealing another server's original post is not allowed, this is considered spam and plagiarism
@@ -54,6 +53,7 @@ Servers is the section for PC specific posts to be made.
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of the server topic
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server_types)
+* Do not start or feed drama or attacks on members and/or servers
 
 ### Looking For
 
