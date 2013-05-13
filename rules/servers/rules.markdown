@@ -85,6 +85,10 @@ Servers is the section for PC specific posts to be made.
 * Do not use an existing clan's name for a new clan name
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
+ 
+### Minecraft Realms
+
+* Do not advertise servers that are not Realm servers here
 
 ### Server Types
     
