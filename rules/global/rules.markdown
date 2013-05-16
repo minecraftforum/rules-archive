@@ -123,9 +123,9 @@ The guidelines and information below applies to the entire forum.
     intention of provoking a reaction from fellow members. This includes encouraging flame
     wars. Instigation is not tolerated.
 
-* __Grammar Harrass__
+* __Grammar Harass__
     
-    Please do not correct or insult other members grammar/spelling. Grammar harrassment
+    Please do not correct or insult other members grammar/spelling. Grammar harassment
     does not add to the discussion, and is not tolerated.
     
 * __Use Referral/Affiliate Links__
