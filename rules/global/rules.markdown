@@ -172,7 +172,7 @@ The guidelines and information below applies to the entire forum.
 
     As a family friendly and all inclusive community we do not allow any form of
     discrimination, this includes -- but is not limited to -- age, race, gender,
-    nationality, ethnicity, religion and sexuality.
+    nationality, ethnicity, religion, sexuality and disability.
 
 * __Spread Malicious Content__
 
