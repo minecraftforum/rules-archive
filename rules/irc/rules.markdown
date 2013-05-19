@@ -7,7 +7,7 @@ To connect to another channel type /join #channel-name eg: /join #minecraftforum
 
 ## Do
 
-* Read the topic, you can use 
+* Read the topic
 * Be friendly and respectful
 * Be patience when waiting for help with the forum
 * Speak English
