@@ -1,5 +1,10 @@
 #IRC
 
+If you have your own IRC client connect to irc.esper.net and join channel #minecraftforums, 
+or if you wish to connect through your browser click (here)[http://www.minecraftforum.net/irc/web-client/].
+
+To connect to another channel type /join #channel-name eg: /join #minecraftforums
+
 ## Do
 
 * Read the topic, you can use 
