@@ -10,6 +10,12 @@ wars within the community.
   Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be
 spamming the section as they have no discussion value. Such threads will be locked for redundancy.
 
+* __Do not post maps or any other modification downloads__
+
+  Please do not post content which requires Minecraft: Xbox 360 Edition to be modified in any form. Maps or any
+other modification downloads are strictly forbidden as modifications to the Minecraft: Xbox Edition game are
+against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+
 * __Do not encourage modification__
 
   Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications
