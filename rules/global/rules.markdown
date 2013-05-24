@@ -151,6 +151,10 @@ The guidelines and information below applies to the entire forum.
     Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
     or encourage misinformation is not allowed on the forums.
     
+* __Impersonate Staff__
+     
+    Do not impersonate staff, this includes the use of fake banners and titles.
+    
 ### Illegal Activity
 
 * __Piracy__
