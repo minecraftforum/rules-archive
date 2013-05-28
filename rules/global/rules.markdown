@@ -88,7 +88,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Advertise__
 
-    Advertising a website in your signature is acceptable, however creating
+    Advertising a non-commercial website in your signature is acceptable, however creating
     topics about your website is not allowed. If you want to advertise on
     minecraftforum.net please contact the 
     [Curse advertising department](http://www.curse.com/advertising/overview).
