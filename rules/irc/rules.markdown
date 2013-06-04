@@ -38,3 +38,4 @@ In all matters, the decision of the channel operators is final.
 * #mcchatter - Minecraft users off topic chat
 * #minecrafthelp - Minecraft help
 * #mctextures - Minecraft texture artist chat
+* #smp - Minecraft server advertisement 
