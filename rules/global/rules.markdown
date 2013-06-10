@@ -223,6 +223,8 @@ To be acceptable "Mini-modding" the post must meet the following requirements
 
 Then the member must report the post. "Mini-modding" without reporting the post is not allowed.
 
+"Mini-modding" type posts will be removed once a moderator has dealt with the thread/post in question.
+
 ## Infractions
 
 When a rule is broken an infraction will be issued. There are 2 types of infractions, formal and informal. 
