@@ -85,6 +85,12 @@ The guidelines and information below applies to the entire forum.
     Member-run giveaways or contests that require performing a specific action
     for entry (eg: subscribe to my Youtube channel, follow me on Twitter) 
     are not allowed.
+    
+* __Beg for Donations__
+
+    Posts which are primarily geared towards collecting donations are not allowed. Similarly, donation buttons within
+    signatures are also forbidden. You may include donation information as a side note in your thread however it
+    should not be the main focus of your post.
 
 * __Advertise__
 
