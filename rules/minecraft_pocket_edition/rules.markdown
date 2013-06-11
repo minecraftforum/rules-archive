@@ -72,8 +72,17 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 
 ### Mods / Tools
 
+* Topics must have embedded images or videos
+* Topics must use the correct tags. E.G: If the mod is an iOS mod please use: [iOS] 
+* Topics must have an installation guide
+* Any required permissions must be displayed in the original post
+* Smp "hack" and "cheat" mods are allowed, however they are not allowed if they are designed for griefing
 * Do not encourage the use of "cracked" applications
 * Please do not detail information on how to obtain pirated applications as it is encouraging piracy and will not be permitted on the forums
+
+### Mapping & Modding Requests
+
+* Only one request per thread
 
 ## Multiplayer
 
