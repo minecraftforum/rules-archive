@@ -30,6 +30,11 @@ The guidelines and information below applies to the entire forum.
     Posting in the most relevant section will ensure topics are seen by members
     most interested in the subject. Topics posted in the wrong section will be
     moved by moderators.
+    
+* __Remain on topic__
+
+    Topics should remain on the topic that they are discussing, they should not be 
+    discussing other topics. A new topic should be made for a new discussion.
 
 
 ## Do Not
