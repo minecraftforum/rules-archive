@@ -26,7 +26,7 @@ Servers is the section for PC specific posts to be made.
   
 * __Post Multiple Topics__
 
-  There is only allowed to be 1 topic for each server or idea. There is also a posting limit of one topic every 10 days, 30 days in Hosting, this applies to all but Server Administration
+  There is only allowed to be 1 topic for each server or idea.
   
 * __Post "Grief This Server" Topics__ 
 
