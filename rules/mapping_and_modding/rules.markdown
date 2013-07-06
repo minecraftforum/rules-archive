@@ -51,15 +51,24 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 Discuss maps and mapping here.
 
-## Texture Packs
+## Texture and Resource Packs
 
 * Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
-* Topics must have embedded images or videos
+* Topics must include images or videos if textures were changed
 * Any required permissions must be displayed in the original post
+* Do not use copyrighted material in resource packs
 
 ### Texture Discussion
 
-Anything that does not produce textures directly belongs in this section.
+Discuss textures here or publish a WIP (work-in-progress) texture pack
+
+### Sound Discussion
+
+Discuss sounds here or publish a WIP (work-in-progress) sound pack
+
+### Resource Pack Help
+
+Request help using or making a resource pack in this section.
 
 ## Skins
 
@@ -105,3 +114,4 @@ When needed, topics that are required to follow the tagging format should includ
 
  * Version of MC it applies or is made for
  * If it requires addition mods or content
+ * If the topic is about a resource pack that includes sounds, it must include [Sound] in the tag
