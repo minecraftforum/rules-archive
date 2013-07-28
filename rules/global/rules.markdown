@@ -38,8 +38,8 @@ The guidelines and information below applies to the entire forum.
 
     As a family friendly forum we censor all profanity, however the censor is
     not an excuse to still swear; all posts that contain any instance of 
-    profanity will be removed. This includes abbreviated curse words and profanity
-    within acronyms. Self-censoring is also not allowed.
+    profanity will be removed. This includes abbreviated curse words, profanity
+    within acronyms, and profanity within pictures. Self-censoring is also not allowed.
 
 * __Bump Threads__
     
