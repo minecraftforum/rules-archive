@@ -159,8 +159,8 @@ The guidelines and information below applies to the entire forum.
     
 * __Misuse Alt Accounts__
 
-    Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
-    or encourage misinformation is not allowed on the forums.
+    Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep,
+    post fake responses, spam or encourage misinformation is not allowed on the forums.
     
 * __Impersonate Staff__
      
