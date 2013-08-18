@@ -270,8 +270,10 @@ Every 30 days infractions "expire" and the current total of a member's points is
 
 ### Permanent Bans
 
-Permanent bans are never automatically issued, they are reserved for members that we believe to be detrimental to the minecraftforum.net community.
-They are issued to members that continually break the rules and do not provide any value to the community.
+Permanent bans are never automatically issued, they are reserved for members that 
+we believe to be detrimental to the minecraftforum.net community. They are issued 
+to members that continually break the rules and do not provide any value to the 
+community.
 
 ## Disclaimer
 
