@@ -1,6 +1,7 @@
 {
     "require": {
-        "klein/klein": "*"
+        "dflydev/markdown": "v1.0.2",
+        "shark/simple_html_dom": "*"
     },
     "minimum-stability": "dev"
 }
