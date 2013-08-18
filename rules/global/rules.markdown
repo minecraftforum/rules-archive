@@ -7,7 +7,8 @@ The guidelines and information below applies to the entire forum.
 * __Be Nice And Polite__
 
     Every member deserves to be treated with respect. Positive and polite posts 
-    create a friendly and welcoming environment that all members will feel comfortable in.
+    create a friendly and welcoming environment that all members will feel 
+    comfortable in.
 
 * __Search__
 
