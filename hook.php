@@ -5,7 +5,7 @@
     
     $commit_data = json_decode($_REQUEST['payload']);
 
-    exec("cd /var/www/new.rules.mcf.li/public_html && git fetch upstream && git merge upstream/master");
+    exec("git --work-tree=/var/www/new.rules.mcf.li/public_html fetch upstream && git --work-tree=/var/www/new.rules.mcf.li/public_html merge upstream/master");
     
     require_once 'vendor/autoload.php';
     use dflydev\markdown\MarkdownParser;
