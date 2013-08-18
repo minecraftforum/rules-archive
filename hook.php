@@ -108,6 +108,7 @@
         "{pretty-date}",
         "{commit-url}",
         "{commit-id}",
+        "{commit-id-short}",
     );
     
     $replace = array(
@@ -117,6 +118,7 @@
         date('d F Y', $commit_data->repository->pushed_at),
         $commit_data->repository->url,
         $commit_data->after,
+        substr($commit_data->after, 0, 8),
     );
     
     $template = str_replace($search, $replace, file_get_contents("template/minecraftforum.html"));

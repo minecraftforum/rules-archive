@@ -208,21 +208,26 @@ rules.
 
 ## Moderator Action
 
-The following information is about what to do when you find people breaking the rules and what happens if you break the rules outlined above.
+The following information is about what to do when you find people breaking the 
+rules and what happens if you break the rules outlined above.
 
 ### Reporting A Post
 
-Rule breaking posts should be reported by any member that comes across them. There is a "report" button on every post, when a post is reported
-the moderators of the site are alerted, reports automatically include the post content. Reports should contain an explanation of why a post is being reported.
+Rule breaking posts should be reported by any member that comes across them. 
+There is a "report" button on every post, when a post is reported the moderators 
+of the site are alerted, reports automatically include the post content. 
+Reports should contain an explanation of why a post is being reported.
 
-Any content that needs moderator attention should be reported. There are no penalties for mis-reporting content.
+Any content that needs moderator attention should be reported. There are no 
+penalties for mis-reporting content.
 
 ### Mini Modding
 
-Mini-modding is replying to a rule breaking post with information on the rule break. Some forms of mini-modding are allowed: 
-If a member has broken a section specific rule (such as posting in the wrong section or not including required information) members 
-are allowed to reply to the member explaining what rule has been broken and how to fix the issue. 
-To be acceptable "Mini-modding" the post must meet the following requirements
+Mini-modding is replying to a rule breaking post with information on the rule break. 
+Some forms of mini-modding are allowed: If a member has broken a section specific rule 
+(such as posting in the wrong section or not including required information) members 
+are allowed to reply to the member explaining what rule has been broken and how to fix 
+the issue. To be acceptable "Mini-modding" the post must meet the following requirements:
 
 * Explains which rule the post breaks
 * Explains (where necessary) how the poster can rectify the issue
