@@ -283,4 +283,5 @@ and applications can be submitted via the [application system](http://www.minecr
 
 ## Ban Appeals
 
-If you wish to appeal a minecraftforum.net ban, please send an email to banappeal@minecraftforum.net including your account information.
+If you wish to appeal a minecraftforum.net ban, please send an email to 
+banappeal@minecraftforum.net including your account information and IP address.
