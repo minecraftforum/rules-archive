@@ -273,12 +273,17 @@ The administrators and moderators are responsible for the smooth and efficient r
 
 ## Help And Support
 
-Support is provided to minecraftforum.net members through the [Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) section of the forum.
-Private Messages are not an official method of requesting support and we do not guarantee that a private message sent to any staff member will be replied to.
+Support is provided to minecraftforum.net members through the 
+[Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) 
+section of the forum or via email: support@minecraftforum.net.
+
+Private Messages are not an official method of requesting support and we do not 
+guarantee that a private message sent to any staff member will be replied to.
 
 ## Moderator Applications
 
-Active members of the community are encouraged to apply to be a forum moderator. Information on what being a moderator entails is [available here](http://www.minecraftforum.net/topic/1422941-applying-to-be-a-moderator/)
+Active members of the community are encouraged to apply to be a forum moderator. 
+Information on what being a moderator entails is [available here](http://www.minecraftforum.net/topic/1422941-applying-to-be-a-moderator/)
 and applications can be submitted via the [application system](http://www.minecraftforum.net/mod-recruit/post/).
 
 ## Ban Appeals
