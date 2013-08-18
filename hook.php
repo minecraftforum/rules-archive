@@ -1,10 +1,12 @@
 <?php
 
-    if(!isset($_REQUEST['payload']))
-        die();
+    #if(!isset($_REQUEST['payload']))
+    #    die();
     
     $commit_data = json_decode($_REQUEST['payload']);
 
+    exec("cd /var/www/rules.mcf.li/public_html && git fetch upstream && git merge upstream/master");
+    
     require_once 'vendor/autoload.php';
     use dflydev\markdown\MarkdownParser;
 
