@@ -74,7 +74,7 @@ The guidelines and information below applies to the entire forum.
     
     We do not allow the sale of Minecraft Accounts, if you wish to acquire a
     Minecraft account please purchase via [Minecraft.net](http://minecraft.net).
-	The sale of Minecraft Cape codes (eg: <a href="http://www.minecraftwiki.net/wiki/MineCon#Cape_2">Minecon 2012 Cape</a>) 
+    The sale of Minecraft Cape codes (eg: <a href="http://www.minecraftwiki.net/wiki/MineCon#Cape_2">Minecon 2012 Cape</a>) 
     and any other game content is also disallowed.
 
 * __Offer or Request Services/Products__
@@ -94,8 +94,9 @@ The guidelines and information below applies to the entire forum.
     
 * __Beg for Donations__
 
-    Posts which are primarily geared towards collecting donations are not allowed. Similarly, donation buttons within
-    signatures are also forbidden. You may include donation information as a side note in your thread however it
+    Posts which are primarily geared towards collecting donations are not allowed. 
+    Similarly, donation buttons within signatures are also forbidden. You may 
+    include donation information as a side note in your thread however it
     should not be the main focus of your post.
 
 * __Advertise__
