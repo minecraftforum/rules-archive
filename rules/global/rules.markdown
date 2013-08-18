@@ -1,6 +1,6 @@
 # Global Guidelines
 
-TEST#2 The guidelines and information below applies to the entire forum.
+TEST#3 The guidelines and information below applies to the entire forum.
 
 ## Do
 
