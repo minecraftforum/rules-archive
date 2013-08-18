@@ -30,6 +30,11 @@ The guidelines and information below applies to the entire forum.
     Posting in the most relevant section will ensure topics are seen by members
     most interested in the subject. Topics posted in the wrong section will be
     moved by moderators.
+    
+* __Remain on topic__
+
+    Topics should remain on the topic that they are discussing, they should not be 
+    discussing other topics. A new topic should be made for a new discussion.
 
 
 ## Do Not
@@ -38,8 +43,8 @@ The guidelines and information below applies to the entire forum.
 
     As a family friendly forum we censor all profanity, however the censor is
     not an excuse to still swear; all posts that contain any instance of 
-    profanity will be removed. This includes profanity within acronyms.
-    Self-censoring is also not allowed.
+    profanity will be removed. This includes abbreviated curse words, profanity
+    within acronyms, and profanity within pictures. Self-censoring is also not allowed.
 
 * __Bump Threads__
     
@@ -85,10 +90,16 @@ The guidelines and information below applies to the entire forum.
     Member-run giveaways or contests that require performing a specific action
     for entry (eg: subscribe to my Youtube channel, follow me on Twitter) 
     are not allowed.
+    
+* __Beg for Donations__
+
+    Posts which are primarily geared towards collecting donations are not allowed. Similarly, donation buttons within
+    signatures are also forbidden. You may include donation information as a side note in your thread however it
+    should not be the main focus of your post.
 
 * __Advertise__
 
-    Advertising a website in your signature is acceptable, however creating
+    Advertising a non-commercial website in your signature is acceptable, however creating
     topics about your website is not allowed. If you want to advertise on
     minecraftforum.net please contact the 
     [Curse advertising department](http://www.curse.com/advertising/overview).
@@ -123,9 +134,9 @@ The guidelines and information below applies to the entire forum.
     intention of provoking a reaction from fellow members. This includes encouraging flame
     wars. Instigation is not tolerated.
 
-* __Grammar Harrass__
+* __Grammar Harass__
     
-    Please do not correct or insult other members grammar/spelling. Grammar harrassment
+    Please do not correct or insult other members grammar/spelling. Grammar harassment
     does not add to the discussion, and is not tolerated.
     
 * __Use Referral/Affiliate Links__
@@ -148,8 +159,12 @@ The guidelines and information below applies to the entire forum.
     
 * __Misuse Alt Accounts__
 
-    Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep
-    or encourage misinformation is not allowed on the forums.
+    Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep,
+    post fake responses, spam or encourage misinformation is not allowed on the forums.
+    
+* __Impersonate Staff__
+     
+    Do not impersonate staff, this includes the use of fake banners and titles.
     
 ### Illegal Activity
 
@@ -172,7 +187,7 @@ The guidelines and information below applies to the entire forum.
 
     As a family friendly and all inclusive community we do not allow any form of
     discrimination, this includes -- but is not limited to -- age, race, gender,
-    nationality, ethnicity, religion and sexuality.
+    nationality, ethnicity, religion, sexuality and disability.
 
 * __Spread Malicious Content__
 
@@ -213,6 +228,8 @@ To be acceptable "Mini-modding" the post must meet the following requirements
 
 Then the member must report the post. "Mini-modding" without reporting the post is not allowed.
 
+"Mini-modding" type posts will be removed once a moderator has dealt with the thread/post in question.
+
 ## Infractions
 
 When a rule is broken an infraction will be issued. There are 2 types of infractions, formal and informal. 
@@ -229,7 +246,7 @@ A formal warning can have between 1 and 10 points associated with it, the averag
 
 ### Points
 
-Every 30 days infractions "expire" and the points are removed from a members total infraction points. If a member reaches a specific point total within
+Every 30 days infractions "expire" and the current total of a member's points is reduced by 1, should they remain infraction-free for that month. If a member reaches a specific point total within
 30 days posting suspensions are issued, the point total and suspension lengths are as follows:
 
 * __1 Point__ No action

@@ -26,7 +26,7 @@ Servers is the section for PC specific posts to be made.
   
 * __Post Multiple Topics__
 
-  There is only allowed to be 1 topic for each server or idea. There is also a posting limit of one topic every 10 days, 30 days in Hosting, this applies to all but Server Administration
+  There is only allowed to be 1 topic for each server or idea.
   
 * __Post "Grief This Server" Topics__ 
 
@@ -46,14 +46,14 @@ Servers is the section for PC specific posts to be made.
 
 ### PC Servers
 
-* No posting in the topics of servers that you are banned from, unless filling out a ban appeal
 * Cracked servers are not allowed to be advertised
 * Only 1 review per member
-* Stealing another server's original post is not allowed, this is considered spam and plagerism
+* Stealing another server's original post is not allowed, this is considered spam and plagiarism
 * Encouraging bumping of any topic is not allowed
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of the server topic
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server_types)
+* Do not start or feed drama or attacks on members and/or servers
 
 ### Looking For
 
@@ -85,6 +85,10 @@ Servers is the section for PC specific posts to be made.
 * Do not use an existing clan's name for a new clan name
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
+ 
+### Minecraft Realms
+
+* Do not advertise servers that are not Realm servers here
 
 ### Server Types
     
