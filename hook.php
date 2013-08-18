@@ -115,7 +115,7 @@
         $navigation,
         date("r", $commit_data->repository->pushed_at),
         date('d F Y', $commit_data->repository->pushed_at),
-        $commit_data->respository->url,
+        $commit_data->repository->url,
         $commit_data->after,
     );
     
