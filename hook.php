@@ -1,6 +1,6 @@
 <?php
 
-    if(!isset($_REQUEST['payload']))
+    if(empty($_REQUEST['payload']))
         die();
     
     $commit_data = json_decode($_REQUEST['payload']);
