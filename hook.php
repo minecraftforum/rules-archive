@@ -1,7 +1,7 @@
 <?php
 
-    #if(!isset($_REQUEST['payload']))
-    #    die();
+    if(!isset($_REQUEST['payload']))
+        die();
     
     $commit_data = json_decode($_REQUEST['payload']);
 
