@@ -1,5 +1,6 @@
 {
     "require": {
+        "ornicar/php-git-repo": "*",
         "dflydev/markdown": "v1.0.2",
         "shark/simple_html_dom": "*"
     },

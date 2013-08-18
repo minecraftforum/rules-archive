@@ -4,12 +4,14 @@
         die();
     
     $commit_data = json_decode($_REQUEST['payload']);
-
-    exec("git --work-tree=/var/www/new.rules.mcf.li/public_html fetch upstream && git --work-tree=/var/www/new.rules.mcf.li/public_html merge upstream/master");
     
     require_once 'vendor/autoload.php';
+    
+    $repo = new PHPGit_Repository(dirname(__FILE__));
+    $repo->git('fetch upstream'); 
+    $repo->git('merge upstream/master');
+    
     use dflydev\markdown\MarkdownParser;
-
     $markdownParser = new MarkdownParser();
 
     function safe_id_string($str) {
