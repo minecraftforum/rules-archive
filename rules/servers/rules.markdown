@@ -52,7 +52,7 @@ Servers is the section for PC specific posts to be made.
 * Encouraging bumping of any topic is not allowed
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of the server topic
 * Servers may be removed or banned at the staff's discretion
-* Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server_types)
+* Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
 * Do not start or feed drama or attacks on members and/or servers
 
 ### Looking For
