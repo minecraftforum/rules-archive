@@ -13,7 +13,7 @@ Any released mods or content packs belong here.
 * Must modify the minecraft.jar file or be an extension to an existing mod
 * Must contain the class files, .exe only downloads are not allowed
 * Topics must have embedded images or videos
-* Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
+* Topics must follow the tagging format, which can be found [here](#mapping-and-modding:tagging-format)
 * Topics must have an installation guide
 * Any required permissions must be displayed in the original post
 * Smp "hack" and "cheat" mods are allowed, however any designed for griefing are not allowed
@@ -44,7 +44,7 @@ Only topics for the advancement of mods. The mod has to have already been starte
 
 ## Maps
 
-* Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
+* Topics must follow the tagging format, which can be found [here](#mapping-and-modding:tagging-format)
 * Topics must have embedded images or videos
 
 ### Maps Discussion
@@ -53,7 +53,7 @@ Discuss maps and mapping here.
 
 ## Texture and Resource Packs
 
-* Topics must follow the tagging format, which can be found [here](#mapping_and_modding:tagging_format)
+* Topics must follow the tagging format, which can be found [here](#mapping-and-modding:tagging-format)
 * Topics must include images or videos if textures were changed
 * Any required permissions must be displayed in the original post
 * Do not use copyrighted material in resource packs
