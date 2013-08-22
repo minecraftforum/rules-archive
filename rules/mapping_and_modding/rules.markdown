@@ -5,6 +5,7 @@
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
 * Do not ask or pressure content to be updated
 * Topics that contain a download must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
+* Topics that offer downloads must follow the [following guidelines](#mapping-and-modding:upload-guidelines) 
 
 ## Minecraft Mods
 
@@ -115,3 +116,15 @@ When needed, topics that are required to follow the tagging format should includ
  * Version of MC it applies or is made for
  * If it requires addition mods or content
  * If the topic is about a resource pack that includes sounds, it must include [Sound] in the tag
+
+## File Guidelines
+
+When a topic offers a downloadable file, the topic and file must follow these rules:
+
+  * Topics must inform users if their file does any of the following:
+    - "Call home", or contact a server to check their version or to automatically update
+    - Send information to a remote service, such as email or server
+    - Downloads additional files
+  * Topics must explain what their file does and how to use it (this includes installing if needed)
+  * Files must not be malicious or harmful in nature, this includes malware and stealing information like account details
+  * Files must not contain any copyrighted material unless permission is given and is posted
