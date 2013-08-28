@@ -159,27 +159,33 @@ The guidelines and information below applies to the entire forum.
     content posted to a family friendly forum. Always ensure your content is both
     "Safe For Work" and suitable for children.
     
-* __Misuse Alt Accounts__
-
-    **Members are permitted to use alt accounts under the following conditions:**
-    
-    * Alt accounts must not break *any* of the forum rules.
-    * Alt accounts must not be used to evade bans or posting suspensions.
-    * You may not, under *any* circumstance, communicate with any of own accounts.
-    * You may not, under *any* circumstance, interact with any of your accounts.
-    This includes, but is not limited to: +repping posts or quoting posts.
-    * You may not use alt accounts to post fake information. This includes but is not limited to:
-    Replying with fake comments, trolling or posting consecutively to bump topics.
-    
-    **Examples of the correct usage of an alt account:**
-    
-    * Creating a shared account for your clan/server/mod/host/project.
-    * Creating an alt account to use as a separate identity to your main.
-    
 * __Impersonate Staff__
      
     Do not impersonate staff, this includes the use of fake banners and titles.
     
+
+### Alternate Accounts
+
+Members are permitted to use alt accounts under the following conditions:
+    
+* Alt accounts must not break *any* of the forum rules.
+* Alt accounts must not be used to evade bans or posting suspensions.
+* Under no circumstance is an alternate account permitted to communicate or interact 
+    with any other account held by the owner. This includes, but is not limited 
+    to:
+    * +Repping posts
+    * Quoting posts
+
+* You may not use alt accounts to post fake information. This includes but is not limited to:
+    * Replying with fake comments 
+    * Trolling 
+    * Posting consecutively to bump topics
+
+**Examples of the correct usage of an alt account:**
+
+* Creating a shared account for your clan/server/mod/host/project.
+* Creating an alt account to use as a separate identity to your main.
+
 ### Illegal Activity
 
 * __Piracy__
