@@ -161,8 +161,20 @@ The guidelines and information below applies to the entire forum.
     
 * __Misuse Alt Accounts__
 
-    Using a secondary account to evade bans/suspensions, misrepresent a topic, self-rep,
-    post fake responses, spam or encourage misinformation is not allowed on the forums.
+    **Members are permitted to use alt accounts under the following conditions:**
+    
+    * Alt accounts must not break *any* of the forum rules.
+    * Alt accounts must not be used to evade bans or posting suspensions.
+    * You may not, under *any* circumstance, communicate with any of own accounts.
+    * You may not, under *any* circumstance, interact with any of your accounts.
+    This includes, but is not limited to: +repping posts or quoting posts.
+    * You may not use alt accounts to post fake information. This includes but is not limited to:
+    Replying with fake comments, trolling or posting consecutively to bump topics.
+    
+    **Examples of the correct usage of an alt account:**
+    
+    * Creating a shared account for your clan/server/mod/host/project.
+    * Creating an alt account to use as a separate identity to your main.
     
 * __Impersonate Staff__
      
