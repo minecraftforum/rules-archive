@@ -171,7 +171,7 @@ Members are permitted to use alt accounts under the following conditions:
 * Alt accounts must not break *any* of the forum rules.
 * Alt accounts must not be used to evade bans or posting suspensions.
 * Under no circumstance is an alternate account permitted to communicate or interact 
-    with any other account held by the owner. This includes, but is not limited 
+    with any other account held by the owner(s). This includes, but is not limited 
     to:
     * +Repping posts
     * Quoting posts
