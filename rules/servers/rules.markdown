@@ -54,6 +54,10 @@ Servers is the section for PC specific posts to be made.
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
 * Do not start or feed drama or attacks on members and/or servers
+* __Hub Servers__
+
+  Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers may only have 1 topic for the entire server. 
+  Such servers may only have multiple topics if the worlds are also reachable without connecting to the hub and are advertised as such.
 
 ### Looking For
 
