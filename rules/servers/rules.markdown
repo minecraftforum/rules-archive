@@ -43,6 +43,11 @@ Servers is the section for PC specific posts to be made.
 * __Use ASCII Blocks__
 
   Black ASCII blocks are not allowed in your topic title.
+  
+* __Start or participate in drama or attacks on users and/or topics__
+
+  Posting with the intent of starting drama or to maliciously attack a user and/or topics is not allowed.
+  
 
 ### PC Servers
 
@@ -53,7 +58,6 @@ Servers is the section for PC specific posts to be made.
 * Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of the server topic
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
-* Do not start or feed drama or attacks on members and/or servers
 * __Hub Servers__
 
   Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers may only have 1 topic for the entire server. 
