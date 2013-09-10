@@ -26,7 +26,7 @@ The video sections are for sharing Minecraft related videos. Videos should be po
 
 * __Explanations__
 
-    Explanations of the video content must be included.
+    Explanations of the video content are optional.
 
 * __Post Only Once__
 
@@ -56,6 +56,10 @@ This section is only for technical help regarding livestreaming and video making
 ## Fan Art
 
 Any other Minecraft related creations belong here. This includes drawings, writings and musical pieces.
+
+* _Literature_
+
+    Stories depicting Herobrine as a character must contain a disclaimer stating that Herobrine is not real. 
 
 ### Shops / Requests
 
