@@ -6,6 +6,9 @@
 * Do not ask or pressure content to be updated
 * Topics that contain a download must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
 * Topics that offer downloads must follow the [following guidelines](#mapping-and-modding:upload-guidelines) 
+* __Be Nice__
+  Not all users are able to find an answer to a question, so please be nice when answering their question. If an answer 
+  or a reply to a post cannot be nice, do not post it
 
 ## Minecraft Mods
 
