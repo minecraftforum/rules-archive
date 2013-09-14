@@ -57,11 +57,11 @@ This section is only for technical help regarding livestreaming and video making
 
 Any other Minecraft related creations belong here. This includes drawings, writings and musical pieces.
 
-* _Literature_
+* __Literature__
 
     Stories depicting Herobrine as a character must contain a disclaimer stating that Herobrine is not real. 
 
-### Shops / Requests
+## Shops and Requests
 
 * __Creation Selling__
 
@@ -70,9 +70,3 @@ Any other Minecraft related creations belong here. This includes drawings, writi
     customer and seller. If you purchase a service it is your responsibility 
     to ensure the service is delivered, not ours. Any complaints about sellers 
     or buyers will be ignored.
-
-### Images
-
-* __Inserting Images__
-
-    Each topic should contain an image inserted into it. Images can be inserted following [Opeth's guide](http://img.mcf.li/images.jpg).
