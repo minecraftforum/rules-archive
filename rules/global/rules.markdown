@@ -82,7 +82,7 @@ The guidelines and information below applies to the entire forum.
     With the exception of the
     [Minecraft Server Hosting](http://www.minecraftforum.net/forum/131-minecraft-server-hosting/)
     section and the
-    [Shops/Requests](http://www.minecraftforum.net/forum/164-shopsrequests/)
+    [Shops and Requests](http://www.minecraftforum.net/forum/261-shops-and-requests/)
     section, we do not allow members to trade or sell services/products.
     Forums are for discussions, they are not a market or trading place.
 
