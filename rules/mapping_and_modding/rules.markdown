@@ -88,3 +88,4 @@ When needed, topics that are required to follow the tagging format should includ
  * Version of MC it applies or is made for, or [Any] if it is not specific to any 
  * If it requires addition mods or content
  * If the topic is about a resource pack that includes sounds, it must include [Sound] in the tag
+ 
