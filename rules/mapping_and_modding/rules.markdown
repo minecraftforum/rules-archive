@@ -62,15 +62,12 @@
 * Video-only topics are not allowed
 
 ## Download Links
+
+Topics that offer downloadable content must follow the following rules:
+  * The download link must be located on the topic
+  * The download link must be clearly visible and easy to locate
+  * Linking to another page is not allowed, except if the page is a file-sharing page
   
-## Tagging Format
-
-When needed, topics that are required to follow the tagging format should include the following in the title
-
- * Version of MC it applies or is made for, or [Any] if it is not specific to any 
- * If it requires addition mods or content
- * If the topic is about a resource pack that includes sounds, it must include [Sound] in the tag
-
 ## File Guidelines
 
 When a topic offers a downloadable file, the topic and file must follow these rules:
@@ -83,3 +80,11 @@ When a topic offers a downloadable file, the topic and file must follow these ru
   * Files must not be malicious or harmful in nature, this includes malware and stealing information like account details
   * Files must not contain any copyrighted material unless permission is given and is posted
   * File links may be removed at any time by the Minecraftforum staff
+  
+## Tagging Format
+
+When needed, topics that are required to follow the tagging format should include the following in the title
+
+ * Version of MC it applies or is made for, or [Any] if it is not specific to any 
+ * If it requires addition mods or content
+ * If the topic is about a resource pack that includes sounds, it must include [Sound] in the tag
