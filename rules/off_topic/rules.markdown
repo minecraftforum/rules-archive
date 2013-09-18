@@ -18,4 +18,5 @@
 * __No OS / browser / console wars__
 
     Operating system vs. operating system and/or console vs. console, browser 
-    vs. browser threads always descend into spam, flaming and flamebaiting and are therefore not allowed.
+    vs. browser threads always descend into spam, flaming and flamebaiting and are 
+    therefore not allowed.
