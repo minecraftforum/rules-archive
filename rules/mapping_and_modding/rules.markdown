@@ -4,9 +4,9 @@
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
 * Do not ask or pressure content to be updated
-* Topics that offer downloadable content must have a direct download link, but can include alternative links, a definition of those can be found [here](#mapping_and_modding:download_links)
-* Topics that offer downloadable content must follow the [following guidelines](#mapping-and-modding:upload-guidelines) 
-* Topics that offer downloadable content must follow the tagging format, which can be found [here](#mapping-and-modding:tagging-format)
+* Topics that offer downloadable content must follow the download links rules, located here: [Download Link Rules](#mapping_and_modding:download_links)
+* Topics that offer downloadable content must follow the file guidelines, located here: [File Guidelines](#mapping-and-modding:upload-guidelines) 
+* Topics that offer downloadable content must follow the tagging format, which can be found here: [Tagging Format](#mapping-and-modding:tagging-format)
 * Topics must have an installation guide if required
 * Any required permissions must be displayed in the original post
 * Topics or posts made to start or continue a flame war against another mod, a user, or a group, is not allowed.
