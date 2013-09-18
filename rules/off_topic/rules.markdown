@@ -4,7 +4,7 @@
 
 * __Do not sell or trade items of any kind__
 
-    The forum is not a marketplace.
+    The forum is not a marketplace
     
 * __Do not create video related threads__
 
