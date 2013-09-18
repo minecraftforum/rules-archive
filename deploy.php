@@ -4,16 +4,12 @@
         die();
     
     $commit_data = array(
-        "id" => $argv[1],
+        "commit_id" => $argv[1],
         "time" => $argv[2],
         "url" => $argv[3],
     );
     
     require_once 'vendor/autoload.php';
-    
-    $repo = new PHPGit_Repository(dirname(__FILE__));
-    $repo->git('fetch upstream'); 
-    $repo->git('merge upstream/master');
     
     use dflydev\markdown\MarkdownParser;
     $markdownParser = new MarkdownParser();
