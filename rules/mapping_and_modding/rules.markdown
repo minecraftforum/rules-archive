@@ -65,6 +65,7 @@
 ## Download Links
 
 Topics that offer downloadable content must follow the following rules:
+
   * The download link must be located on the topic
   * The download link must be clearly visible and easy to locate
   * Linking to another page is not allowed, except if the page is a file-sharing page
