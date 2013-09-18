@@ -12,6 +12,7 @@
 * Topics or posts made to start or continue a flame war against another mod, a user, or a group, is not allowed.
 * "No pics, no clicks" are considered spam, and are not allowed
 * __Be Nice__
+
   Not all users are able to find an answer to a question, so please be nice when answering their question. If an answer 
   or a reply to a post cannot be nice, do not post it
 
