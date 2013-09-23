@@ -21,6 +21,11 @@
 * Topics must have embedded images or videos
 * Smp "hack" and "cheat" mods are allowed, however any designed for griefing are not allowed
 
+### WIP Mods
+
+When a mod in this section is ready to be moved to the [Minecraft Mods](http://www.minecraftforum.net/forum/51-minecraft-mods/) section, 
+report the topic using the Report feature and request it to be moved.
+
 ### Requests / Ideas For Mods.
 
 * Topics must be either a request or an idea for a mod
@@ -35,11 +40,23 @@
 
 * Topics must have embedded images or videos
 
-## Texture and Resource Packs
+### WIP Map
+
+When a map in this section is ready to be moved to the [Maps](http://www.minecraftforum.net/forum/53-maps/) section, 
+report the topic using the Report feature and request it to be moved.
+
+
+## Resource Packs
 
 * Topics must include images or videos
 * Any required permissions must be displayed in the original post
 * Do not use copyrighted material in resource packs
+
+
+### WIP Resource Packs
+
+When a map in this section is ready to be moved to the [Resource Packs](http://www.minecraftforum.net/forum/41-resource-packs/) section, 
+report the topic using the Report feature and request it to be moved.
 
 ## Skins
 
