@@ -45,13 +45,10 @@ report the topic using the Report feature and request it to be moved.
 When a map in this section is ready to be moved to the [Maps](http://www.minecraftforum.net/forum/53-maps/) section, 
 report the topic using the Report feature and request it to be moved.
 
-
 ## Resource Packs
 
 * Topics must include images or videos
-* Any required permissions must be displayed in the original post
 * Do not use copyrighted material in resource packs
-
 
 ### WIP Resource Packs
 
