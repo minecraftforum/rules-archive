@@ -52,7 +52,7 @@ report the topic using the Report feature and request it to be moved.
 
 ### WIP Resource Packs
 
-When a map in this section is ready to be moved to the [Resource Packs](http://www.minecraftforum.net/forum/41-resource-packs/) section, 
+When a resource pack in this section is ready to be moved to the [Resource Packs](http://www.minecraftforum.net/forum/41-resource-packs/) section, 
 report the topic using the Report feature and request it to be moved.
 
 ## Skins
