@@ -128,6 +128,10 @@ This section is for posting and discussing seeds for worlds that are considered 
 * The seed must be provided in the OP (original post)
 * Seeds which are offensive or contain profanity will be removed
 
+### Seed Requests
+
+* Only one seed request per topic
+
 ## Creations
 
 * __Titles must describe the content of the creation__
@@ -140,3 +144,21 @@ This section is for posting and discussing seeds for worlds that are considered 
   All images and videos should be properly embedded within your posts. Content which is not embedded may be
   removed. If you need assistance embedding your images, please see [Opeth's image guide](http://img.mcf.li/images.jpg).
   If you require help with video embedding, please see [DanielleStarr's video guide](http://img.mcf.li/video_guide.png).
+  
+### Videos, Live Streams & Tutorials
+
+* Do not post YouTube channel links; Only video links, livestream links and tutorials are allowed
+* Griefing videos are not allowed
+* Posts to announce a livestream restarting are allowed
+* Do not post any Sub4Sub or similar topics
+* Do not post topics which require a member to subscribe to you in return for any prize, listing or similar
+
+### Creation Help
+
+This section is for requesting advice in order to improve your videos/images/creations, asking for software help
+to assist your creations and a place to seek actors/participants in your projects.
+
+* This section is not for sharing videos
+* Linking to YouTube channels is not allowed
+* Recruitment topics for griefing videos are not allowed
+* Do not post topics which require a member to subscribe to you in return for any prize, listing or similar
