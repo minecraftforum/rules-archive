@@ -66,9 +66,9 @@ The root of the Mapping and Modding forum is for mod related topics that aren't 
 
   Please label threads according to what platform it will work with whether it be iOS, Android or both.
 
-* __Porting texture packs__
+* __Porting maps & texture packs__
 
-  If porting a texture pack from another platform then permissions from the original author must be gained and must be displayed within the topic.
+  If you're porting a map or texture pack from another platform then permissions from the original author must be gained and clearly displayed within the topic.
 
 ### Mods / Tools
 
