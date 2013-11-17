@@ -5,7 +5,8 @@ or if you wish to connect through your browser click [here](http://www.minecraft
 
 To connect to another channel type /join #channel-name eg: /join #minecraftforums
 
-  Please note that the #minecraftforums channel is for minecraftforum.net support only. If you need Minecraft support, please join #minecrafthelp.
+Please note that the #minecraftforums channel is for minecraftforum.net support only. 
+If you need Minecraft support, please join #minecrafthelp.
 
 ## Do
 
@@ -13,6 +14,7 @@ To connect to another channel type /join #channel-name eg: /join #minecraftforum
 * Be friendly and respectful
 * Be patience when waiting for help with the forum
 * Speak English
+* Register your nickname
 
 ## Do Not
 
@@ -23,6 +25,7 @@ To connect to another channel type /join #channel-name eg: /join #minecraftforum
 * Post malicious links or software
 * Use auto-rejoin
 * Flame or insult other users
+* Impersonate other users or staff
 
 ## Registering Your Nickname
 
