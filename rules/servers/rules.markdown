@@ -83,7 +83,7 @@ Servers is the section for PC specific posts to be made.
     * Informal warnings will be issued for continued support posting
 * A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
 * Posts requesting a custom quote go in the Hosting Requests section
-* All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
+* No host may post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting entries
 * The Hosting Request section is not to be used for recruiting staff for hosts, this may be done in the host's topic
 * Replies to requests must meet all needs outlined in the original post and not contain irrelevant information
