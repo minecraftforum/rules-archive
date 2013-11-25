@@ -89,6 +89,14 @@ Servers is the section for PC specific posts to be made.
 * Replies to requests must meet all needs outlined in the original post and not contain irrelevant information
 * Replies to requests must be tailored to the request, posting of just rates is not allowed
 
+#### Hosting Discussion
+
+__Do Not__
+
+* Bash hosts
+* Create "X vs Y" topics
+* Advertise or request services and/or hosting
+
 ### Clans
 
 * No malicious clans or teams are allowed, this includes but not limited to griefing or hacking clans
