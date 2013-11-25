@@ -271,19 +271,14 @@ A formal warning can have between 1 and 10 points associated with it, the averag
 
 ### Points
 
-Every 30 days infractions "expire" and the current total of a member's points is reduced by 1, should they remain infraction-free for that month. If a member reaches a specific point total within
-30 days posting suspensions are issued, the point total and suspension lengths are as follows:
+Every 30 days infractions "expire" and the current total of a member's points is reduced. When a member's total infraction points
+reach 2, then posting suspensions are issued based on the points the last infraction gave.
 
-* __1 Point__ No action
-* __2 Points__ 3 day posting suspension
-* __3 Points__ 7 day posting suspension
-* __4 Points__ 7 day posting suspension
-* __5 Points__ 7 day posting suspension
-* __6 Points__ 14 day posting suspension
-* __7 Points__ 14 day posting suspension
-* __8 Points__ 14 day posting suspension
-* __9 Points__ 14 day posting suspension
-* __10 Points__ 30 day posting suspension
+* 1 point infractions will give a 3 day suspension
+* 2 point infractions will give a 6 day suspension
+* 3 point infractions will give a 9 day suspension
+
+Suspension times may be changed at the discretion of the administration.
 
 
 ### Permanent Bans
