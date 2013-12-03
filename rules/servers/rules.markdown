@@ -93,9 +93,10 @@ Servers is the section for PC specific posts to be made.
 
 __Do Not__
 
-* Bash hosts
-* Create "X vs Y" topics
-* Advertise or request services and/or hosting
+* Negatively post about other hosts and the services they provide.
+* Create host vs. host topics
+* Advertise or request hosting.
+* Post reviews of hosting.
 
 ### Clans
 
