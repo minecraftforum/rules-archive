@@ -38,6 +38,7 @@ The guidelines and information below applies to the entire forum.
     discussing other topics. A new topic should be made for a new discussion.
     
 * __Embed images__
+
     When posting a topic which requires embedded images or videos by the section specific rules,     embed them. sDo not use     data:image links, as they only look messy and take up a lot of      space. A tutorial on how to embed images can be found [here](http://img.mcf.li/images.jpg),     and a tutorial about embedding videos can be found [here](http://img.mcf.li/video_guide.png).
 
 
