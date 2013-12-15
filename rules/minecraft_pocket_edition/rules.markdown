@@ -54,6 +54,7 @@ Small suggestions should be posted in the [Pocket Edition small suggestions thre
 The root of the Mapping and Modding forum is for mod related topics that aren't specifically Pocket Edition maps, texture packs or mods/tools.
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers
+* "No pics, no clicks" are considered spam, and are not allowed
 
 ### Maps
 
