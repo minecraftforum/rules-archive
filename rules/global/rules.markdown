@@ -39,7 +39,7 @@ The guidelines and information below applies to the entire forum.
     
 * __Embed images__
 
-    When posting a topic which requires embedded images or videos by the section specific rules, embed them. Do not        use data:image links, as they only look messy and take up a lot of space. A tutorial on how to embed images can be      found [here](http://img.mcf.li/images.jpg), and a tutorial about embedding videos can found [here](http://img.mcf.li/video_guide.png).
+    When posting a topic which requires embedded images or videos by the section specific rules, embed them. Do not        use data:image links, as they only look messy and take up a lot of space. A tutorial on how to embed images can be      found [here](http://img.mcf.li/images.jpg), and a tutorial about embedding videos can be found [here](http://img.mcf.li/video_guide.png).
 
 
 ## Do Not
