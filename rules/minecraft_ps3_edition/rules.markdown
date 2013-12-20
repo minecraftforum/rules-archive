@@ -1,4 +1,4 @@
-# Minecraft: Xbox 360 Edition
+# Minecraft: PlayStation 3 Edition
 
 * __Do not partake in or create platform wars__
 
@@ -12,34 +12,22 @@ spamming the section as they have no discussion value. Such threads will be lock
 
 * __Do not post maps or any other modification downloads__
 
-  Please do not post content which requires Minecraft: Xbox 360 Edition to be modified in any form. Maps or any
-other modification downloads are strictly forbidden as modifications to the Minecraft: Xbox Edition game are
-against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Please do not post content which requires Minecraft: PlayStation 3 Edition to be modified in any form. Maps or any
+other modification downloads are strictly forbidden as modifications to the PlayStation 3 Edition game are
+against the [Sony Entertainment Network Terms of Service](http://legaldoc.dl.playstation.net/ps3-eula/psn/e/e_tosua_en.html).
 
 * __Do not encourage modification__
 
-  Please do not encourage or detail how to perform modifications to the Minecraft: Xbox Edition game as modifications
-of the game is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+  Please do not encourage or detail how to perform modifications to the Minecraft: PlayStation 3 Edition game as modifications
+of the game is against the [Sony Entertainment Network Terms of Service](http://legaldoc.dl.playstation.net/ps3-eula/psn/e/e_tosua_en.html).
 
 * __Do not post duplication glitches__
 
-  Topics detailing how to perform duplication glitches within Minecraft: Xbox 360 Edition are not allowed.
+  Topics detailing how to perform duplication glitches within Minecraft: PlayStation 3 Edition are not allowed.
 
 ## Discussion
 
-* The discussion section is for general Xbox 360 discussion which does not fit into any other Xbox 360 forum.
-
-### Help Center
-
-This section is for help with the Xbox 360: Edition of Minecraft only
-
-* Do not ask for help with any type of Xbox 360 modifications
-* Bumping support threads if no response is received within twelve hours is allowed
-
-## Recent & Upcoming Title Updates
-
-* All recent and future Xbox 360 Edition title update threads belongs here.
-* Do not post threads that are not related to a new or future title update.
+* The discussion section is for general PlayStation 3 discussion which does not fit into any other PlayStation 3 Edition forum.
 
 ## Suggestions
 
@@ -65,15 +53,19 @@ require separate threads. "Wishlists" will be closed or deleted.
 
 * __No small suggestions__
 
-  A small suggestion is defined as an idea that tweaks or changes an existing Minecraft: Xbox 360 Edition feature in some way.
-Small suggestions should be posted in the [Xbox 360 small suggestions thread](http://www.minecraftforum.net/topic/1690852-).
+  A small suggestion is defined as an idea that tweaks or changes an existing PlayStation 3 Edition feature in some way.
+Small suggestions should be posted in the [PlayStation 3 small suggestions thread](http://www.minecraftforum.net/topic/2219437-).
 
 * __Do not request mods__
 
   Do not request new mods, existing mods or ideas for mods in this section. Referencing an existing mod as context for
-your feature request is acceptable, however specific mod requests alone are not allowed. This includes DLC marketplace
-requests. Modifications to the Minecraft: Xbox Edition is against the
-[Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+your feature request is acceptable, however specific mod requests alone are not allowed. This includes DLC PSN
+requests. Modifications to the PlayStation 3 Edition is against the
+[Sony Entertainment Network Terms of Service](http://legaldoc.dl.playstation.net/ps3-eula/psn/e/e_tosua_en.html).
+
+* __Existing features__
+
+  Do not suggest features that exist in any other version of Minecraft on any other platform. This section is geared towards new feature suggestions.
 
 ## Multiplayer
 
@@ -118,47 +110,3 @@ This section is for temporary, short sessions. This includes mini-match events s
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must
 remain civil
-
-## Seeds
-
-This section is for posting and discussing seeds for worlds that are considered impressive in some way.
-
-* Titles must be formatted based on the Xbox 360 version: [TU7] [TU8], etc
-* Titles should be clear and to the point
-* The seed must be provided in the OP (original post)
-* Seeds which are offensive or contain profanity will be removed
-
-### Seed Requests
-
-* Only one seed request per topic
-
-## Creations
-
-* __Titles must describe the content of the creation__
-
-  Please ensure your titles are clearly related to the content of your creation. Titles which are misleading
-  or needlessly sensationalist will be removed.
-  
-* __Always embed your images and/or videos__
-
-  All images and videos should be properly embedded within your posts. Content which is not embedded may be
-  removed. If you need assistance embedding your images, please see [Opeth's image guide](http://img.mcf.li/images.jpg).
-  If you require help with video embedding, please see [DanielleStarr's video guide](http://img.mcf.li/video_guide.png).
-  
-### Videos, Live Streams & Tutorials
-
-* Do not post YouTube channel links; Only video links, livestream links and tutorials are allowed
-* Griefing videos are not allowed
-* Posts to announce a livestream restarting are allowed
-* Do not post any Sub4Sub or similar topics
-* Do not post topics which require a member to subscribe to you in return for any prize, listing or similar
-
-### Creation Help
-
-This section is for requesting advice in order to improve your videos/images/creations, asking for software help
-to assist your creations and a place to seek actors/participants in your projects.
-
-* This section is not for sharing videos
-* Linking to YouTube channels is not allowed
-* Recruitment topics for griefing videos are not allowed
-* Do not post topics which require a member to subscribe to you in return for any prize, listing or similar
