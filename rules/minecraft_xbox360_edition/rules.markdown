@@ -29,13 +29,6 @@ of the game is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/le
 
 * The discussion section is for general Xbox 360 discussion which does not fit into any other Xbox 360 forum.
 
-### Help Center
-
-This section is for help with the Xbox 360: Edition of Minecraft only
-
-* Do not ask for help with any type of Xbox 360 modifications
-* Bumping support threads if no response is received within twelve hours is allowed
-
 ## Recent & Upcoming Title Updates
 
 * All recent and future Xbox 360 Edition title update threads belongs here.
@@ -74,6 +67,10 @@ Small suggestions should be posted in the [Xbox 360 small suggestions thread](ht
 your feature request is acceptable, however specific mod requests alone are not allowed. This includes DLC marketplace
 requests. Modifications to the Minecraft: Xbox Edition is against the
 [Xbox Live Terms of Use](http://www.xbox.com/en-US/legal/livetou).
+
+* __Existing features__
+
+  Do not suggest features that exist in any other version of Minecraft on any other platform. This section is geared towards new feature suggestions.
 
 ## Multiplayer
 
@@ -132,7 +129,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 * Only one seed request per topic
 
-## Creations
+## Show Your Creation
 
 * __Titles must describe the content of the creation__
 
