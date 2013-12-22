@@ -12,17 +12,7 @@
 
 * The discussion section is for general Pocket Edition discussion which does not fit into any other Pocket Edition forum.
 
-## Recent & Upcoming Title Updates
-
-* All recent and future Pocket Edition update threads belongs here.
-* Do not post threads that are not related to a new or future title update.
-
-### Support
-
-* Threads must be concerning problems experienced with Minecraft: Pocket Edition
-* Bumping support threads if no response is received within twelve hours is allowed
-
-## Suggestions
+### Suggestions
 
 * __Clearly title your threads__
 
@@ -49,9 +39,34 @@ Small suggestions should be posted in the [Pocket Edition small suggestions thre
 
   If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
 
-## Mapping and Modding
+* __Existing features__
 
-The root of the Mapping and Modding forum is for mod related topics that aren't specifically Pocket Edition maps, texture packs or mods/tools.
+  Do not suggest features that exist in any other version of Minecraft on any other platform. This section is geared towards new feature suggestions.
+
+### Seeds
+
+This section is for posting and discussing seeds for worlds that are considered impressive in some way. Posting downloads of un-edited worlds/maps in this section is also allowed but the seed must also be provided.
+
+* The seed must be provided in the OP (original post)
+* No edited maps/worlds
+* Do not post any maps that have been edited, these maps should be posted in the "Pocket Edition: Maps" section of the forum
+* Seeds which are offensive or contain profanity will be removed
+
+#### Seed Requests
+
+* Only one seed request per topic
+
+## Recent & Upcoming Title Updates
+
+* All recent and future Pocket Edition update threads belongs here.
+* Do not post threads that are not related to a new or future title update.
+
+### Support
+
+* Threads must be concerning problems experienced with Minecraft: Pocket Edition
+* Bumping support threads if no response is received within twelve hours is allowed
+
+## Mapping and Modding
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers
 * "No pics, no clicks" are considered spam, and are not allowed
@@ -128,20 +143,7 @@ This section is for temporary, short sessions. This includes mini-match events s
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
 
-## Seeds
-
-This section is for posting and discussing seeds for worlds that are considered impressive in some way. Posting downloads of un-edited worlds/maps in this section is also allowed but the seed must also be provided.
-
-* The seed must be provided in the OP (original post)
-* No edited maps/worlds
-* Do not post any maps that have been edited, these maps should be posted in the "Pocket Edition: Maps" section of the forum
-* Seeds which are offensive or contain profanity will be removed
-
-### Seed Requests
-
-* Only one seed request per topic
-
-## Creations
+## Show Your Creation
 
 * __Titles must describe the content of the creation__
 
