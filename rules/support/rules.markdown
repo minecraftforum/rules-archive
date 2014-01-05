@@ -6,7 +6,7 @@
 
 * __Do not request support for cracked servers and/or cracked clients__
 
-    We do not support the use of cracked clients or cracked servers, and therefore will not allow people to request technical support for a cracked client/server.
+    We do not support the use of cracked clients or cracked servers, and therefore will not allow people to request technical support for a cracked client/server. Support will also not be provided for offline servers.
 
 * __Do not participate in OS/Platform/Browser wars__
 
@@ -14,7 +14,7 @@
     
 * __Do not Redistribute property of Mojang__
 
-    Do not distribute any property of Mojang to other members on the forum. This includes: the minecraft launcher, the minecraft Jar, and the Minecraft server client.
+    Do not distribute any property of Mojang to other members on the forum. This includes: the Minecraft launcher, the Minecraft Jar, and the Minecraft server client.
 
 * __Do not give out or request personal information__
 
@@ -27,6 +27,10 @@
 * __Do not post forum support questions in this section__
 
     Forum support questions belong in the Forum Discussion & Information section
+    
+* __Do not thread jack__
+
+    Thread jacking is not allowed. Thread jacking is posting on a topic in an attempt to divert the topic to another user or direction. As errors may appear similar, they are usually caused by multiple issues.
 
 
 ## Tutorials and FAQs
@@ -61,17 +65,17 @@ This section is for requesting support with an unmodifed client.
 
 This section is for requesting support with a modified client.
 
-* Do not distribute modified Minecraft Jars
+* Do not distribute modified Minecraft jars or the modifications.
 
 ## Server Support
 
-This section is for requesting support with the server client. Anything non-bukkit server technical support questions should go here.
+This section is for requesting support with the server. Anything non-Bukkit server technical support questions should go here.
 
 * Do not advertise your server in this section
 
 * __Do not make blacklist threads__
 
-    Do not post threads that tell people to ban a certain user from their servers. 
+    Do not post threads that tell people to ban a certain user from their servers or to not visit a server. 
     
 * __Do not ask for Bukkit support__
 
