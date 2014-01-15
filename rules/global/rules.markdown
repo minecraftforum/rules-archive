@@ -90,6 +90,12 @@ The guidelines and information below applies to the entire forum.
     section, we do not allow members to trade or sell services/products.
     Forums are for discussions, they are not a market or trading place.
 
+* __Crowdsource__
+
+    Requesting donations to fund a project that doesn't exist is not allowed on the forums.
+    This includes but is not limited to: Donations to start a server, donations to fund
+    a giveaway, donations to start a mod/resource pack, etc.
+
 * __Post Giveaways__
 
     Member-run giveaways or contests that require performing a specific action
