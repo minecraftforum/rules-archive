@@ -51,7 +51,7 @@ Servers is the section for PC specific posts to be made.
 
 ### PC Servers
 
-* Cracked servers are not allowed to be advertised
+* Cracked/offline servers are not allowed to be advertised
 * Only 1 review per member
 * Stealing another server's original post is not allowed, this is considered spam and plagiarism
 * Encouraging bumping of any topic is not allowed
@@ -60,8 +60,8 @@ Servers is the section for PC specific posts to be made.
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
 * __Hub Servers__
 
-  Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers may only have 1 topic for the entire server. 
-  Such servers may only have multiple topics if the worlds are also reachable without connecting to the hub and are advertised as such.
+  Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers can only have 1 topic for the entire server. 
+  Some servers may have multiple topics only if the worlds are also reachable without connecting to the hub and are advertised as such.
 
 ### Looking For
 
