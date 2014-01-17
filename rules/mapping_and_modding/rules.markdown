@@ -3,18 +3,18 @@
 ## Section Rules
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
-* Do not ask or pressure content to be updated.
+* Do not ask or pressure content to be updated
 * Topics that offer downloadable content must follow the download links rules, located here: [Download Link Rules](#mapping-and-modding:download-links)
 * Topics that offer downloadable content must follow the file guidelines, located here: [File Guidelines](#mapping-and-modding:file-guidelines) 
 * Topics that offer downloadable content must follow the tagging format, which can be found here: [Tagging Format](#mapping-and-modding:tagging-format)
-* Topics must have an installation guide if required.
-* Any required permissions must be displayed in the original post.
-* Topics or posts made to start or continue a flame war against another mod, a user, or a group, is not allowed.
-* Posts saying "No pics, no clicks" are considered spam and are not allowed.
+* Topics must have an installation guide if required
+* Any required permissions must be displayed in the original post
+* Topics or posts made to start or continue a flame war against another mod, a user, or a group, are not allowed
+* Posts containing "No pics, no clicks" are considered spam and are not allowed
 * __Be Nice__
 
   Not all users are able to find an answer to a question, so please be nice when answering their question. If an answer 
-  or a reply to a post cannot be nice, do not post it.
+  or a reply to a post cannot be nice, do not post it
 
 ## Minecraft Mods
 
@@ -29,7 +29,7 @@ report the topic using the Report feature and request it to be moved.
 ### Requests / Ideas For Mods.
 
 * Topics must be either a request or an idea for a mod
-* Topics must state the idea for the mod in the post.
+* Topics must state the idea for the mod in the post
 * Posting "there is a mod for this" is not allowed unless the mod is linked in the post
 
 ### Modification Development
