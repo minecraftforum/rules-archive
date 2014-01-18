@@ -40,6 +40,10 @@ The guidelines and information below applies to the entire forum.
 * __Embed images__
 
     When posting a topic which requires embedded images or videos by the section specific rules, embed them. Do not        use data:image links, as they only look messy and take up a lot of space. A tutorial on how to embed images can be      found [here](http://img.mcf.li/images.jpg), and a tutorial about embedding videos can be found [here](http://img.mcf.li/video_guide.png).
+    
+* __Post in English__
+
+   While the site caters to an international audience, the primary language of the forum is English. When creating a new thread or post, please be courteous and _at least_ include an English translation of your post.
 
 
 ## Do Not
