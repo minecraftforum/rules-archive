@@ -94,9 +94,10 @@ Servers is the section for PC specific posts to be made.
 __Do Not__
 
 * Negatively post about other hosts and the services they provide.
-* Create host vs. host topics
-* Advertise or request hosting.
-* Post reviews of hosting.
+* Create topics asking which host you should pick, or which host out of a selected few is the best.
+* Create topics requesting or advertising hosting.
+* Post reviews of hosting companies or services.
+* Create topics asking for server related support, these topics should go in [Server Support](http://www.minecraftforum.net/forum/152-server-support/).
 
 ### Clans
 
