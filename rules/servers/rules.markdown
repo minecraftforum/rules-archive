@@ -62,6 +62,19 @@ Servers is the section for PC specific posts to be made.
 
   Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers can only have 1 topic for the entire server. 
   Some servers may have multiple topics only if the worlds are also reachable without connecting to the hub and are advertised as such.
+* __Bumping__
+
+  Bumping is not tolerated. Any user or topic found to be excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
+  - Posts which do not contribute or add to the topic
+  - Posts which provide or encourage daily posting for in-game rewards
+  - Posting about general Minecraft or other topics which are not directly related to the server
+  - General chatter
+  - Ban reports or appeals. Such posts must be done outside of the topic
+
+  Posts which are allowed include:
+  - Posting updates about a server; those posts must include what was updated and must be limited to once every few days
+  - Posting an application for entry into the server; any other applications must be done outside of the topic
+  - Discussing server related topics such as events, suggestions, and support
 
 ### Looking For
 
