@@ -91,6 +91,15 @@ Servers is the section for PC specific posts to be made.
 
 #### Hosting Discussion
 
+__Do__
+
+Following is a list of actions which are encouraged, to give an idea what the Hosting Discussion section is for. You are *not* limited to only what is included below.
+
+ * Requests staff or aid for your hosting work.
+ * Post guides relating to the hosting of servers.
+ * Share websites relating to or assisting with server hosting.
+ * Post questions about hardware or service providers related to dedicated hosting.
+
 __Do Not__
 
 * Negatively post about other hosts and the services they provide.
