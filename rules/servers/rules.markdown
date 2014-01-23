@@ -64,7 +64,7 @@ Servers is the section for PC specific posts to be made.
 
   Bumping is not tolerated. Any user or topic found to be excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
   - Posts which do not contribute or add to the topic
-  - Posts which provide or encourage daily posting for in-game rewards
+  - Posts which provide or encourage posting for in-game rewards
   - Posting about general Minecraft or other topics which are not directly related to the server
   - General chatter
   - Ban reports or appeals. Such posts must be done outside of the topic.
