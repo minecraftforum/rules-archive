@@ -70,7 +70,7 @@ Servers is the section for PC specific posts to be made.
   - Posting multiple reviews
 
   Posts which are allowed include:
-  - Updates about a server; those posts must include what was updated and must be limited to once every few days
+  - Updates about the server; those posts must include what was updated and must be limited to once every few days
   - Application for entry into the server; any other applications must be done outside of the topic
   - Discussing server related topics such as events, suggestions, and support
 
