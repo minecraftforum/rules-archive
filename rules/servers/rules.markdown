@@ -93,20 +93,20 @@ Servers is the section for PC specific posts to be made.
 
 __Do__
 
-Following is a list of actions which are encouraged, to give an idea what the Hosting Discussion section is for. You are *not* limited to only what is included below.
+Following is a list of actions which are encouraged, to give an idea what the Hosting Discussion section is for. This is *not* a comprehensive list.
 
- * Requests staff or aid for your hosting work.
- * Post guides relating to the hosting of servers.
- * Share websites relating to or assisting with server hosting.
- * Post questions about hardware or service providers related to dedicated hosting.
+ * Requests staff or aid for hosting work
+ * Post guides relating to the hosting of servers
+ * Share websites relating to or assisting with server hosting
+ * Post questions about hardware or service providers related to dedicated hosting
 
 __Do Not__
 
-* Negatively post about other hosts and the services they provide.
-* Create topics asking which host you should pick, or which host out of a selected few is the best.
-* Create topics requesting or advertising hosting.
-* Post reviews of hosting companies or services.
-* Create topics asking for server related support, these topics should go in [Server Support](http://www.minecraftforum.net/forum/152-server-support/).
+* Negatively post about other hosts and the services they provide
+* Create topics asking which host you should pick, or which host out of a selected few is the best
+* Create topics requesting or advertising hosting
+* Post reviews of hosting companies or services
+* Create topics asking for server related support, these topics should go in [Server Support](http://www.minecraftforum.net/forum/152-server-support/)
 
 ### Clans
 
