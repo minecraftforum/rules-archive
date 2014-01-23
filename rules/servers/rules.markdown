@@ -61,7 +61,7 @@ Servers is the section for PC specific posts to be made.
   Some servers may have multiple topics only if the worlds are also reachable without connecting to the hub and are advertised as such.
 * __Bumping__
 
-  Bumping is not tolerated. Bumping is generally defined as making a post which is only serving to push the topic to the front page without providing any contribution to the topic. Such posts generally provide no place for disucssion to take place or do not provide any context that a topic reader could contribute to. Any user or topic found to be excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
+  Bumping is not tolerated. Bumping is defined as making a post which is only serving to push the topic to the front page without providing any contribution to the topic. Such posts generally provide little to no discussion or do not provide content to which a reader could join. Any user or topic found to be excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
   - Posts which do not contribute or add to the topic
   - Posts which provide or encourage posting for in-game rewards
   - Posting about general Minecraft or other topics which are not directly related to the server
