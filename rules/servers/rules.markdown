@@ -74,6 +74,9 @@ Servers is the section for PC specific posts to be made.
 * Replies to a topic must follow the guidelines outlined in the original post
 * Replies must include all information needed, they cannot just provide a link to a topic/site or refer to user to a signature
 
+### Hosting Requests
+* Do not create topics asking which host you should pick, or which host out of a selected few is the best.
+
 ### Minecraft Server Hosting
 
 * At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
