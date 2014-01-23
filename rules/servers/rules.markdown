@@ -51,9 +51,8 @@ Servers is the section for PC specific posts to be made.
 
 ### PC Servers
 
-* Cracked/offline servers are not allowed to be advertised
-* Only 1 review per member
-* Stealing another server's original post is not allowed, this is considered spam and plagiarism
+* Cracked and offline servers are not allowed
+* Stealing or copying another server's original post is not allowed, this is considered plagiarism
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
 * __Hub Servers__
@@ -68,6 +67,7 @@ Servers is the section for PC specific posts to be made.
   - Posting about general Minecraft or other topics which are not directly related to the server
   - General chatter
   - Ban reports or appeals. Such posts must be done outside of the topic.
+  - Posting multiple reviews
 
   Posts which are allowed include:
   - Updates about a server; those posts must include what was updated and must be limited to once every few days
