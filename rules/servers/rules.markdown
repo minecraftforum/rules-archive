@@ -63,16 +63,17 @@ Servers is the section for PC specific posts to be made.
 
   Bumping is not tolerated. Bumping is defined as making a post which is only serving to push the topic to the front page without providing any contribution to the topic. Such posts generally provide little to no discussion or do not provide content to which a reader could join. Any user or topic found to be excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
   - Posts which do not contribute or add to the topic
-  - Posts which provide or encourage posting for in-game rewards
+  - Posts which provide or encourage posting for in-game rewards which are not ranks
   - Posting about general Minecraft or other topics which are not directly related to the server
   - General chatter
-  - Ban reports or appeals. Such posts must be done outside of the topic.
   - Posting multiple reviews
+  - Ban "reports" (i.e. "i banned x" or "please ban x")
 
   Posts which are allowed include:
   - Updates about the server; those posts must include what was updated and must be limited to once every few days
-  - Application for entry into the server; any other applications must be done outside of the topic
+  - Application for entry or a rank to play on the server; 
   - Discussing server related topics such as events, suggestions, and support
+  - Ban appeals
 
 ### Looking For
 
