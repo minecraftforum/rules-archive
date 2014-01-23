@@ -95,9 +95,9 @@ __Do__
 
 Following is a list of actions which are encouraged, to give an idea what the Hosting Discussion section is for. This is *not* a comprehensive list.
 
- * Requests staff or aid for hosting work
+ * Request staff or aid for hosting work
  * Post guides relating to the hosting of servers
- * Share websites relating to or assisting with server hosting
+ * Share websites relating to or assisting with server hosting, particularly non-commercial websites and "How-To" websites
  * Post questions about hardware or service providers related to dedicated hosting
 
 __Do Not__
