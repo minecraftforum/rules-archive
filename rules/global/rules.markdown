@@ -173,6 +173,12 @@ The guidelines and information below applies to the entire forum.
     content posted to a family friendly forum. Always ensure your content is both
     "Safe For Work" and suitable for children.
     
+* __Breach Privacy__
+
+    Posting other peoples private information is strictly against the rules. Private
+    information includes but is not limited to: Real names, family names, photographs,
+    email addresses, telephone numbers, skype details, physical addresses, etc.
+    
 * __Impersonate Staff__
      
     Do not impersonate staff, this includes the use of fake banners and titles.
