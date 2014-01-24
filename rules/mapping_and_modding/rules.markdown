@@ -9,8 +9,8 @@
 * Topics that offer downloadable content must follow the tagging format, which can be found here: [Tagging Format](#mapping-and-modding:tagging-format)
 * Topics must have an installation guide if required
 * Any required permissions must be displayed in the original post
-* Topics or posts made to start or continue a flame war against another mod, a user, or a group, is not allowed.
-* "No pics, no clicks" are considered spam, and are not allowed
+* Topics or posts made to start or continue a flame war against another mod, a user, or a group, are not allowed
+* "No pics, no clicks" posts are considered spam and are not allowed
 * __Be Nice__
 
   Not all users are able to find an answer to a question, so please be nice when answering their question. If an answer 
@@ -29,6 +29,7 @@ report the topic using the Report feature and request it to be moved.
 ### Requests / Ideas For Mods.
 
 * Topics must be either a request or an idea for a mod
+* All requests must have an idea associated with them. Topics requesting a mod be created without also including the idea are not allowed
 * Posting "there is a mod for this" is not allowed unless the mod is linked in the post
 
 ### Modification Development
