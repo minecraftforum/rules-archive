@@ -51,17 +51,29 @@ Servers is the section for PC specific posts to be made.
 
 ### PC Servers
 
-* Cracked/offline servers are not allowed to be advertised
-* Only 1 review per member
-* Stealing another server's original post is not allowed, this is considered spam and plagiarism
-* Encouraging bumping of any topic is not allowed
-* Discussing of non-server related topics in a server topic is not allowed. An excessive amount of off topic posts can lead to a temporary or permanent lock of the server topic
+* Cracked and offline servers are not allowed
+* Stealing or copying another server's original post is not allowed, this is considered plagiarism
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
 * __Hub Servers__
 
   Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers can only have 1 topic for the entire server. 
   Some servers may have multiple topics only if the worlds are also reachable without connecting to the hub and are advertised as such.
+* __Bumping__
+
+  Bumping is not tolerated. Bumping is defined as making a post which is only serving to push the topic to the front page without providing any contribution to the topic. Such posts generally provide little to no discussion or do not provide content to which a reader could join. Any user or topic found to be excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
+  - Posts which do not contribute or add to the topic
+  - Posts which provide or encourage posting for in-game rewards which are not ranks
+  - Posting about general Minecraft or other topics which are not directly related to the server
+  - General chatter
+  - Posting multiple reviews
+  - Ban "reports" (i.e. "i banned x" or "please ban x")
+
+  Posts which are allowed include:
+  - Updates about the server; those posts must include what was updated and must be limited to once every few days
+  - Application for entry or a rank to play on the server; 
+  - Discussing server related topics such as events, suggestions, and support
+  - Ban appeals
 
 ### Looking For
 
