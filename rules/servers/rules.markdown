@@ -84,7 +84,8 @@ Servers is the section for PC specific posts to be made.
 * Replies to a topic may only be made up to 7 days after the last post by the OP
 * Replies must use words, using pictures that contain all the text is not allowed
 * Replies to a topic must follow the guidelines outlined in the original post
-* Replies must include all information needed, they cannot just provide a link to a topic/site or refer to user to a signature
+* Replies must include all information needed, they cannot just provide a link to a topic/site or refer the user to a signature
+* Do not post PC server threads in Looking For. They are to be posted in the corresponding PC servers section.
 
 ### Hosting Requests
 * Do not create topics asking which host you should pick, or which host out of a selected few is the best.
