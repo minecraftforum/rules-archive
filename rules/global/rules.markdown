@@ -257,7 +257,7 @@ of the site are alerted, reports automatically include the post content.
 Reports should contain an explanation of why a post is being reported.
 
 Any content that needs moderator attention should be reported. There are no 
-penalties for mis-reporting content.
+penalties for mis-reporting content, however abusing the report system is not allowed.
 
 ### Mini Modding
 
