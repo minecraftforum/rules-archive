@@ -6,7 +6,8 @@ Servers is the section for PC specific posts to be made.
 
 * __Sell Items And Services__
     
-  This goes for virtual items and services as well as real-world items and services. The only exception to this rule is hosts selling Minecraft server hosting.
+  This goes for virtual items and services as well as real-world items and services. The only exception to 
+  this rule is hosts selling Minecraft server hosting.
 
 * __Advertise Another Server__
 
@@ -14,11 +15,13 @@ Servers is the section for PC specific posts to be made.
       
 * __Advertise Other Sites__
     
-  Advertising other sites that are not selling Minecraft server hosting is not allowed. A host must sell Minecraft servers to be allowed to advertise in the Minecraft Hosting Section and Other Host sections.
+  Advertising other sites that are not selling Minecraft server hosting is not allowed. A host must sell 
+  Minecraft servers to be allowed to advertise in the Minecraft Hosting Section and Other Host sections.
     
 * __Reserve Posts__
 
-  There is no reserving of posts or any "First!" posts. The OP should be used for this instead. These posts are considered spam and a waste of space.
+  There is no reserving of posts or any "First!" posts. The OP should be used for this instead. These 
+  posts are considered spam and a waste of space.
   
 * __Use Affiliate Links__
 
@@ -46,22 +49,27 @@ Servers is the section for PC specific posts to be made.
   
 * __Start or participate in drama or attacks on users and/or topics__
 
-  Posting with the intent of starting drama or to maliciously attack a user and/or topics is not allowed.
+  Posting with the intent of starting drama or to maliciously attack users and/or topics is not allowed.
   
 
-### PC Servers
+## PC Servers
 
 * Cracked and offline servers are not allowed
 * Stealing or copying another server's original post is not allowed, this is considered plagiarism
 * Servers may be removed or banned at the staff's discretion
-* Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
+* Servers are to be posted in the section that best fits what the server offers, a description of the 
+  sections can be found [here](#servers:server-types)
 * __Hub Servers__
 
-  Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers can only have 1 topic for the entire server. 
-  Some servers may have multiple topics only if the worlds are also reachable without connecting to the hub and are advertised as such.
+  Hub servers are servers that offer multiple "servers" by connecting to one IP. These servers can only 
+  have 1 topic for the entire server. Some servers may have multiple topics only if the worlds are also 
+  reachable without connecting to the hub and are advertised as such.
 * __Bumping__
 
-  Bumping is not tolerated. Bumping is defined as making a post which is only serving to push the topic to the front page without providing any contribution to the topic. Such posts generally provide little to no discussion or do not provide content to which a reader could join. Any user or topic found to be excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
+  Bumping is not tolerated. Bumping is defined as making a post which is only serving to push the topic 
+  to the front page without providing any contribution to the topic. Such posts generally provide little 
+  to no discussion or do not provide content to which a reader could join. Any user or topic found to be 
+  excessively bumping or promoting it will be removed. Bumping includes, but is not limited to:
   - Posts which do not contribute or add to the topic
   - Posts which provide or encourage posting for repeatable in-game rewards
   - Posting about general Minecraft or other topics which are not directly related to the server
@@ -75,10 +83,11 @@ Servers is the section for PC specific posts to be made.
   - Discussing server related topics such as events, suggestions, and support
   - Ban appeals
 
-### Looking For
+## Looking For
 
 * Posting video-related/let's play topics is not allowed
-* Only threads looking for specific servers, staff members, builders, or ideas are allowed. Please do not post PC server threads, they are to be posted in the corresponding PC servers section
+* Only threads looking for specific servers, staff members, builders, or ideas are allowed. Please do not 
+post PC server threads, they are to be posted in the corresponding PC servers section
 * General server advertisement threads are not allowed
 * Copy-Paste replies are not allowed, replies must be relevant to the topic
 * Replies to a topic may only be made up to 7 days after the last post by the OP
@@ -86,10 +95,7 @@ Servers is the section for PC specific posts to be made.
 * Replies to a topic must follow the guidelines outlined in the original post
 * Replies must include all information needed, they cannot just provide a link to a topic/site, leave only an IP to a server with no description or refer the user to a signature
 
-### Hosting Requests
-* Do not create topics asking which host you should pick, or which host out of a selected few is the best.
-
-### Minecraft Server Hosting
+## Minecraft Server Hosting
 
 * At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
 * Any feedback about a host should remain in a host's topic
@@ -101,14 +107,20 @@ Servers is the section for PC specific posts to be made.
 * No host may post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting entries
 * The Hosting Request section is not to be used for recruiting staff for hosts, this may be done in the host's topic
-* Replies to hosting requests must meet all needs outlined in the original post along with any other relevant information based on what the topic starter posted (memory, price, slots, country, etc.). Posting only server rates is not allowed.
+* Replies to hosting requests must meet all needs outlined in the original post along with any other relevant 
+  information based on what the topic starter posted (memory, price, slots, country, etc.), posting only server rates is not allowed.
 * Topics must pertain to Minecraft based hosting. Advertising non-Minecraft specific hosting is not allowed.
 
-#### Hosting Discussion
+### Hosting Requests
+
+* Do not create topics asking which host should be used, or which host out of a selected few is the best.
+
+### Hosting Discussion
 
 __Do__
 
-Following is a list of actions which are encouraged, to give an idea what the Hosting Discussion section is for. This is *not* a comprehensive list.
+Following is a list of actions which are encouraged, to give an idea of what the Hosting Discussion section is for. 
+This is *not* a comprehensive list.
 
  * Request staff or aid for hosting work
  * Post guides relating to the hosting of servers
@@ -123,22 +135,23 @@ __Do Not__
 * Post reviews of hosting companies or services
 * Create topics asking for server related support, these topics should go in [Server Support](http://www.minecraftforum.net/forum/152-server-support/)
 
-### Clans
+## Clans
 
 * No malicious clans or teams are allowed, this includes but not limited to griefing or hacking clans
 * Do not use an existing clan's name for a new clan name
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
  
-### Minecraft Realms
+## Minecraft Realms
 
 * Do not advertise servers that are not Realm servers here
 
-### Server Types
+## Server Types
     
 * __Survival Servers__
 
-  The traditional style. Build, mine, and survive in the classic minecraft style with - or without - allies. Such servers do not offer a long-term goal other than surviving.
+  The traditional style. Build, mine, and survive in the classic minecraft style with - or without - allies. 
+  Such servers do not offer a long-term goal other than surviving.
   
 * __Creative Servers__
 
@@ -146,7 +159,8 @@ __Do Not__
   
 * __Objective Servers__
 
-  Servers that differs from regular minecraft survival style. These servers offer a goal or objective players are to reach. Some examples are prison, spleef, and Hunger Games.
+  Servers that differs from regular minecraft survival style. These servers offer a goal or objective players
+  are to reach. Some examples are prison, spleef, and Hunger Games.
   
 * __Hybrid Servers__
 

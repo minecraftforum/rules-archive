@@ -39,11 +39,16 @@ The guidelines and information below applies to the entire forum.
     
 * __Embed images__
 
-    When posting a topic which requires embedded images or videos by the section specific rules, embed them. Do not        use data:image links, as they only look messy and take up a lot of space. A tutorial on how to embed images can be      found [here](http://img.mcf.li/images.jpg), and a tutorial about embedding videos can be found [here](http://img.mcf.li/video_guide.png).
+    When posting a topic which requires embedded images or videos by the section 
+    specific rules, embed them. A tutorial on how to embed images can be found 
+    [here](http://img.mcf.li/images.jpg), and a tutorial about embedding videos 
+    can be found [here](http://img.mcf.li/video_guide.png).
     
 * __Post in English__
 
-   While the site caters to an international audience, the primary language of the forum is English. When creating a new thread or post, please be courteous and _at least_ include an English translation of your post.
+   While the site caters to an international audience, the primary language of 
+   the forum is English. When creating a new thread or post, please be courteous 
+   and _at least_ include an English translation of your post.
 
 
 ## Do Not
@@ -55,7 +60,7 @@ The guidelines and information below applies to the entire forum.
     profanity will be removed. This includes abbreviated curse words, profanity
     within acronyms, and profanity within pictures. Self-censoring is also not allowed.
 
-* __Bump Threads__
+* __Bump Topics__
     
     Posting in a topic only to bring it back to the front page of the forum
     is not allowed, a topic should only be on the front page of a forum if there
@@ -67,10 +72,10 @@ The guidelines and information below applies to the entire forum.
     common spam posts are posting "tl:dr;", "+1", "this", posting image macros,
     and nothing but memes or images. These sort of posts really rustle our jimmies.
     
-* __Post Duplicate Threads__
+* __Post Duplicate Topics__
 
     Posting duplicate topics around the forum is considered spam. There is no need
-    to clutter the forum by posting multiple instances of the same thread.
+    to clutter the forum by posting multiple instances of the same topic.
 
 * __Reply to Inappropriate Content__
 
@@ -82,15 +87,14 @@ The guidelines and information below applies to the entire forum.
     
     We do not allow the sale of Minecraft Accounts, if you wish to acquire a
     Minecraft account please purchase via [Minecraft.net](http://minecraft.net).
-    The sale of Minecraft Cape codes (eg: <a href="http://www.minecraftwiki.net/wiki/MineCon#Cape_2">Minecon 2012 Cape</a>) 
+    The sale of Minecraft Cape codes (eg: [Minecon 2012 Capes](http://www.minecraftwiki.net/wiki/MineCon#Cape_2)) 
     and any other game content is also disallowed.
 
 * __Offer or Request Services/Products__
     
     With the exception of the
     [Minecraft Server Hosting](http://www.minecraftforum.net/forum/131-minecraft-server-hosting/)
-    section and the
-    [Shops and Requests](http://www.minecraftforum.net/forum/261-shops-and-requests/)
+    section and the [Shops and Requests](http://www.minecraftforum.net/forum/261-shops-and-requests/)
     section, we do not allow members to trade or sell services/products.
     Forums are for discussions, they are not a market or trading place.
 
@@ -109,15 +113,14 @@ The guidelines and information below applies to the entire forum.
 * __Beg for Donations__
 
     Posts which are primarily geared towards collecting donations are not allowed. 
-    Similarly, donation buttons within signatures are also forbidden. You may 
-    include donation information as a side note in your thread however it
-    should not be the main focus of your post.
-
+    Similarly, donation buttons within signatures are also forbidden. Donation 
+    information as a side note in a post is permitted as long as it is relevent to 
+    the topic however it should not be the main focus of the post.
+    
 * __Advertise__
 
-    Advertising a non-commercial website in your signature is acceptable, however creating
-    topics about your website is not allowed. If you want to advertise on
-    minecraftforum.net please contact the 
+    Advertising a non-commercial website in a signature is acceptable, however creating
+    topics about a website is not allowed. To advertise on  minecraftforum.net please contact the 
     [Curse advertising department](http://www.curse.com/advertising/overview).
 
 * __Misuse Money Linking Services__
@@ -157,12 +160,14 @@ The guidelines and information below applies to the entire forum.
     
 * __Use Referral/Affiliate Links__
 
-    Linking to websites that provide you with cash or prizes in return for getting people 
-    to view their page is not allowed. This includes affiliate programs.
+    Posting incentive based links which reward users with cash, credit, or prizes in return 
+    for sales or click-throughs are not allowed. Monetary links such as Adf.ly are the
+    exception to this rule, however must follow the ToS of both the monetary link service 
+    and any other rules specified.
     
 * __Necro Post__
 
-    Please do not reply to extremely old threads unless you are continuing
+    Please do not reply to extremely old threads unless they are continuing
     substantial discussion of the topic. Contentless bumps which add very
     little to the discussion will be removed.
     
@@ -183,7 +188,6 @@ The guidelines and information below applies to the entire forum.
      
     Do not impersonate staff, this includes the use of fake banners and titles.
     
-
 ### Alternate Accounts
 
 Members are permitted to use alt accounts under the following conditions:
@@ -196,7 +200,7 @@ Members are permitted to use alt accounts under the following conditions:
     * +Repping posts
     * Quoting posts
 
-* You may not use alt accounts to post fake information. This includes but is not limited to:
+* Alt accounts may not be used to post fake information. This includes but is not limited to:
     * Replying with fake comments 
     * Trolling 
     * Posting consecutively to bump topics
@@ -234,6 +238,7 @@ Members are permitted to use alt accounts under the following conditions:
     Viruses and malware are forbidden, any intentional distribution of either
     will result in permanent exclusion from minecraftforum.net.
 
+    
 ## Section Specific Rules
 
 Each section (and individual forum) may have individual rules. Sectional rules 
@@ -243,6 +248,7 @@ made in a specific way or contain information not required in other sections.
 The sectional rules are also included in this document, after reading through
 the remainder of the global rules you can scroll down to find the sectional 
 rules.
+
 
 ## Moderator Action
 
@@ -275,31 +281,33 @@ Then the member must report the post. "Mini-modding" without reporting the post 
 
 "Mini-modding" type posts will be removed once a moderator has dealt with the thread/post in question.
 
+
 ## Infractions
 
 When a rule is broken an infraction will be issued. There are 2 types of infractions, formal and informal. 
 
 ### Informal
 
-An informal infraction is used to remind a member that they have broken a minor rule for the first time. Informal infractions are used as a record
-of when a member has been informed. There are no infraction points issued with informals, they do not count towards the posting suspension limits.
+An informal infraction is used to remind a member that they have broken a minor rule for the first time. 
+Informal infractions are used as a record of when a member has been informed. There are no infraction 
+points issued with informals, they do not count towards the posting suspension limits.
 
 ### Formal
 
-A formal infraction is issued when a rule has been broken and we believe continued violation of this rule should result in a posting suspension.
-A formal warning can have between 1 and 10 points associated with it, the average formal warning has 1 point.
+A formal infraction is issued when a rule has been broken and we believe continued violation of this rule 
+should result in a posting suspension. A formal warning can have between 1 and 10 points associated with 
+it, the average formal warning has 1 point.
 
 ### Points
 
-Every 30 days infractions "expire" and the current total of a member's points is reduced. When a member's total infraction points
-reach 2, then posting suspensions are issued based on the points the last infraction gave.
+Every 30 days infractions "expire" and the current total of a member's points is reduced. When a member's 
+total infraction points reach 2, then posting suspensions are issued based on the points the last infraction gave.
 
 * 1 point infractions will give a 3 day suspension
 * 2 point infractions will give a 6 day suspension
 * 3 point infractions will give a 9 day suspension
 
 Suspension times may be changed at the discretion of the administration.
-
 
 ### Permanent Bans
 
@@ -308,18 +316,27 @@ we believe to be detrimental to the minecraftforum.net community. They are issue
 to members that continually break the rules and do not provide any value to the 
 community.
 
+
 ## Disclaimer
 
-The administrators and moderators are responsible for the smooth and efficient running of the site. The staff reserves the right to take whatever action is deemed appropriate in any given situation, regardless of whether there is a specific rule covering that situation or not. If there is a misunderstanding or dispute, then please bring the issue up politely with that staff member in private. In all matters, the decision of the administration is final.
+The administrators and moderators are responsible for the smooth and efficient running of the site. 
+The staff reserves the right to take whatever action is deemed appropriate in any given situation, 
+regardless of whether there is a specific rule covering that situation or not. If there is a 
+misunderstanding or dispute, then please bring the issue up politely with that staff member in private. 
+In all matters, the decision of the administration is final.
+
 
 ## Help And Support
 
-Support is provided to minecraftforum.net members through the 
-[Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) 
-section of the forum or via email: support@minecraftforum.net.
+Any account specific support should be submitted through 
+[Curse Support](http://support.curse.com/anonymous_requests/new?ticket[fields][22848886]=minecraft_forums)
 
-Private Messages are not an official method of requesting support and we do not 
-guarantee that a private message sent to any staff member will be replied to.
+Any general help, support, or questions should be submitted through
+[Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) 
+
+The above 2 methods are the only official methods of support and no guarentees are made that contacting
+staff members though other means (such as private messages) will be answered in a timely fashion.
+
 
 ## Moderator Applications
 
@@ -327,7 +344,9 @@ Active members of the community are encouraged to apply to be a forum moderator.
 Information on what being a moderator entails is [available here](http://www.minecraftforum.net/topic/1422941-applying-to-be-a-moderator/)
 and applications can be submitted via the [application system](http://www.minecraftforum.net/mod-recruit/post/).
 
+
 ## Ban Appeals
 
-If you wish to appeal a minecraftforum.net ban, please send an email to 
-banappeal@minecraftforum.net including your account information and IP address.
+Ban appeals may be submitted to [Curse Support](http://support.curse.com/anonymous_requests/new?ticket[fields][22848886]=minecraft_forums).
+
+Please include account information, IP address(es), and any other information which may be relevent. 

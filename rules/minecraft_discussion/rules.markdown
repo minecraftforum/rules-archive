@@ -1,8 +1,10 @@
 # Minecraft Discussion
 
+
 ## General Rules
 
 * Server threads and server advertisements are not allowed in this section.
+
 
 ## Recent Updates and Snapshots
 
@@ -12,6 +14,7 @@
 
 * Discussion of speculated, hinted and announced Minecraft features only
 * Suggestions are not allowed
+
 
 ## Suggestions
 
@@ -43,9 +46,11 @@
 
 * Discussion about survival mode only
 
+
 ## Creative Mode
 
 * Discussion about creative mode only
+
 
 ## Redstone
 
@@ -58,6 +63,7 @@ made using Redstone and pistons.
     The focus of this section is Redstone itself, do not discuss creations that 
     are not made using Redstone and/or pistons in this section.
     
+
 ## Seeds
 
 This section is for posting and discussing seeds for maps that are considered
@@ -65,10 +71,8 @@ impressive in some way. Posting downloads of un-edited maps in this section is
 also allowed but the seed must also be provided.
 
 * The seed __must__ be provided in the OP (original post)
-
+* Seeds which are offensive or contain profanity will be removed
 * __No Edited Maps__
 
     Do not post any maps that have been edited, these maps should be posted in
     the "Maps" section of the forum.
-
-* Seeds which are offensive or contain profanity will be removed

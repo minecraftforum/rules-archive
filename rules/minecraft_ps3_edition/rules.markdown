@@ -25,9 +25,11 @@ of the game is against the [Sony Entertainment Network Terms of Service](http://
 
   Topics detailing how to perform duplication glitches within Minecraft: PlayStation 3 Edition are not allowed.
 
+  
 ## Discussion
 
 * The discussion section is for general PlayStation 3 discussion which does not fit into any other PlayStation 3 Edition forum.
+
 
 ## Suggestions
 
@@ -67,6 +69,7 @@ requests. Modifications to the PlayStation 3 Edition is against the
 
   Do not suggest features that exist in any other version of Minecraft on any other platform. This section is geared towards new feature suggestions.
 
+  
 ## Multiplayer
 
 ### Servers

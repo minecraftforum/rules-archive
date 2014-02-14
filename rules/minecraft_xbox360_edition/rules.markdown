@@ -25,14 +25,17 @@ of the game is against the [Xbox Live Terms of Use](http://www.xbox.com/en-US/le
 
   Topics detailing how to perform duplication glitches within Minecraft: Xbox 360 Edition are not allowed.
 
+  
 ## Discussion
 
 * The discussion section is for general Xbox 360 discussion which does not fit into any other Xbox 360 forum.
+
 
 ## Recent & Upcoming Title Updates
 
 * All recent and future Xbox 360 Edition title update threads belongs here.
 * Do not post threads that are not related to a new or future title update.
+
 
 ## Suggestions
 
@@ -72,6 +75,7 @@ requests. Modifications to the Minecraft: Xbox Edition is against the
 
   Do not suggest features that exist in any other version of Minecraft on any other platform. This section is geared towards new feature suggestions.
 
+  
 ## Multiplayer
 
 ### Servers
@@ -116,6 +120,7 @@ This section is for temporary, short sessions. This includes mini-match events s
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must
 remain civil
 
+
 ## Seeds
 
 This section is for posting and discussing seeds for worlds that are considered impressive in some way.
@@ -128,6 +133,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 ### Seed Requests
 
 * Only one seed request per topic
+
 
 ## Show Your Creation
 
