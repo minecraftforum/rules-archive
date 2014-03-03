@@ -94,7 +94,7 @@ Servers is the section for PC specific posts to be made.
 * At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
 * Any feedback about a host should remain in a host's topic
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM
-* Members may at no time accuse a host of being a scam, hosting malicious content, or otherwise attack a host in their topic
+* Members may at no time accuse a host of being a scam or otherwise attack a host in their topic. If a member has reason to believe a host is a scam a report should be filed by using the report button, or by creating a topic in Contact Forum Administration.
 * Support related posts are not allowed. Use the host's own support system or send them a private message
     * Informal warnings will be issued for continued support posting
 * A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
