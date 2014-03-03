@@ -15,9 +15,11 @@
 
     Each topic should contain an image inserted into it. Images can be inserted following [Opeth's guide](http://img.mcf.li/images.jpg).
 
+    
 ## Videos
 
-The video sections are for sharing Minecraft related videos. Videos should be posted in the appropriate section type. Topics made in the wrong section will be moved.
+The video sections are for sharing Minecraft related videos. Videos should be posted in the appropriate section type. 
+Topics made in the wrong section will be moved.
 
 * __Embedded Videos__
 
@@ -38,9 +40,11 @@ The video sections are for sharing Minecraft related videos. Videos should be po
 * Do not post any Sub4Sub or similar topics
 * Do not post topics which require a member to subscribe to you in return for inclusion on any lists
 
+
 ## Videos / Series Help
 
-This section is for requesting advice in order to improve your videos or series, asking for help with software, or where you should seek actors.
+This section is for requesting advice in order to improve your videos or series, asking for help with software, or 
+where you should seek actors.
 
 Please do not post topics with the purpose of sharing videos here.
 
@@ -53,6 +57,7 @@ Please do not post topics with the purpose of sharing videos here.
 
 This section is only for technical help regarding livestreaming and video making. It is not for general computer help.
 
+
 ## Fan Art
 
 Any other Minecraft related creations belong here. This includes drawings, writings and musical pieces.
@@ -61,6 +66,7 @@ Any other Minecraft related creations belong here. This includes drawings, writi
 
     Stories depicting Herobrine as a character must contain a disclaimer stating that Herobrine is not real. 
 
+    
 ## Shops and Requests
 
 * __Creation Selling__

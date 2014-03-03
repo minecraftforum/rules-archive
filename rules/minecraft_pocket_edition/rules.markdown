@@ -2,50 +2,64 @@
 
 * __Do not partake in or create platform wars__
 
-  Please do not make threads or comments regarding one platform being better than the other as they encourage flame wars within the community.
+  Please do not make threads or comments regarding one platform being better than the other as 
+  they encourage flame wars within the community.
 
 * __Do not post update threads__
 
-  Threads requesting dates on when a certain update is to be released are not allowed. They are considered to be spamming the section as they have no discussion value. Such threads will be locked for redundancy.
+  Threads requesting dates on when a certain update is to be released are not allowed. They are 
+  considered to be spamming the section as they have no discussion value. Such threads will be 
+  locked for redundancy.
 
 ## Discussion
 
-* The discussion section is for general Pocket Edition discussion which does not fit into any other Pocket Edition forum.
+The discussion section is for general Pocket Edition discussion which does not fit into any other 
+Pocket Edition forum.
 
 ### Suggestions
 
 * __Clearly title your threads__
 
-  Be specific with your thread title. Always ensure that your topic titles are relevant to your suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have a suggestion!" or "Read my idea!"
+  Be specific with your thread title. Always ensure that your topic titles are relevant to your 
+  suggestion. Good titles: "Underground cave biome" or "New mob: The T-Rex". Bad titles: "I have
+  a suggestion!" or "Read my idea!"
 
 * __No duplicate suggestions__
 
-  Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting thread.
+  Do not post duplicate suggestions, if an idea has been shared before continue the discussion 
+  in the pre-exisiting thread.
 
 * __No vague suggestions__
 
-  Suggestions that are vague or unclear will be removed, for proper discussion to happen suggestions must be well explained and if necessary, well demonstrated.
+  Suggestions that are vague or unclear will be removed, for proper discussion to happen suggestions 
+  must be well explained and if necessary, well demonstrated.
 
 * __No wishlists__
 
-  Do not post more than one suggestion per thread. Very closely related suggestions are fine, but separate suggestions require separate threads. "Wishlists" will be closed or deleted.
+  Do not post more than one suggestion per thread. Very closely related suggestions are fine, but 
+  separate suggestions require separate threads. "Wishlists" will be closed or deleted.
 
 * __No small suggestions__
 
-  A small suggestion is defined as an idea that tweaks or changes an existing Minecraft: Pocket Edition feature in some way.
-Small suggestions should be posted in the [Pocket Edition small suggestions thread](http://www.minecraftforum.net/topic/1690834-).
+  A small suggestion is defined as an idea that tweaks or changes an existing Minecraft: Pocket Edition 
+  feature in some way. Small suggestions should be posted in the 
+  [Pocket Edition small suggestions thread](http://www.minecraftforum.net/topic/1690834-).
 
 * __Existing mod(s)__
 
-  If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla Minecraft features.
+  If a mod exists that provides part (or all) of the suggestions request linking to the mod is encouraged, 
+  however do not use the existence of a mod to dismiss the suggestion. Suggestions are primarily for vanilla 
+  Minecraft features.
 
 * __Existing features__
 
-  Do not suggest features that exist in any other version of Minecraft on any other platform. This section is geared towards new feature suggestions.
+  Do not suggest features that exist in any other version of Minecraft on any other platform. This section 
+  is geared towards new feature suggestions.
 
 ### Seeds
 
-This section is for posting and discussing seeds for worlds that are considered impressive in some way. Posting downloads of un-edited worlds/maps in this section is also allowed but the seed must also be provided.
+This section is for posting and discussing seeds for worlds that are considered impressive in some way. 
+Posting downloads of un-edited worlds/maps in this section is also allowed but the seed must also be provided.
 
 * The seed must be provided in the OP (original post)
 * No edited maps/worlds
@@ -56,6 +70,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 * Only one seed request per topic
 
+
 ## Recent & Upcoming Title Updates
 
 * All recent and future Pocket Edition update threads belongs here.
@@ -65,6 +80,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 * Threads must be concerning problems experienced with Minecraft: Pocket Edition
 * Bumping support threads if no response is received within twelve hours is allowed
+
 
 ## Mapping and Modding
 
@@ -84,7 +100,8 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 * __Porting maps & texture packs__
 
-  If you're porting a map or texture pack from another platform then permissions from the original author must be gained and clearly displayed within the topic.
+  If you're porting a map or texture pack from another platform then permissions from the original author must 
+  be gained and clearly displayed within the topic.
 
 ### Mods / Tools
 
@@ -99,6 +116,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 ### Mapping & Modding Requests
 
 * Only one request per thread
+
 
 ## Multiplayer
 
@@ -142,6 +160,7 @@ This section is for temporary, short sessions. This includes mini-match events s
 * Do not use an existing clan's name for a new clan name
 * Each clan is allowed only 1 topic
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
+
 
 ## Show Your Creation
 
