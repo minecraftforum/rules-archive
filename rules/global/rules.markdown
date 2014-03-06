@@ -114,8 +114,8 @@ The guidelines and information below applies to the entire forum.
 
     Posts which are primarily geared towards collecting donations are not allowed. 
     Similarly, donation buttons within signatures are also forbidden. Donation 
-    information as a side note in a post is permitted as long as it is relevent to 
-    the topic however it should not be the main focus of the post.
+    information as a side note in a post is permitted, as long as it is relevant to 
+    the topic, however it should not be the main focus of the post.
     
 * __Advertise__
 
