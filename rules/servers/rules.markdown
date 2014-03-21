@@ -31,7 +31,7 @@ __Please Note:__ Ignoring an informal infraction and continuing to break the sam
 
   There is only allowed to be 1 topic for each server or idea.
 
-* __Post "Grief This Server" Topics_
+* __Post "Grief This Server" Topics__
 
   This also includes looking for members to help you grief or recruiting for griefing teams.
 
