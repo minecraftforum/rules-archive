@@ -5,8 +5,6 @@ This section is dedicated to multiplayer servers for the PC edition of Minecraft
 
 ## Do Not
 
-__Please Note:__ Ignoring an informal infraction and continuing to break the same rule will result in a 2 point infraction. Ignoring a 1 point infraction and continuing to break the same rule will result in a 3 point infraction. Anything beyond this may lead to prolonged suspensions or a permanent ban. This applies to all forums within this section.
-
 * __Sell Items And Services__
 
   This goes for virtual items and services as well as real-world items and services. The only exception to this rule is hosts selling Minecraft server hosting.
