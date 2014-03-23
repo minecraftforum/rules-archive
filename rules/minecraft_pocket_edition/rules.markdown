@@ -75,7 +75,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers
 * "No pics, no clicks" are considered spam, and are not allowed
-* __Porting maps, texture packs $ mods__
+* __Porting maps, texture packs & mods__
 
   If you're porting a map, texture pack, or mod from another platform then permissions from the original author must be gained and clearly displayed within the topic.
 
