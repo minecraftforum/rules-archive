@@ -75,6 +75,9 @@ This section is for posting and discussing seeds for worlds that are considered 
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers
 * "No pics, no clicks" are considered spam, and are not allowed
+* __Porting maps, texture packs $ mods__
+
+  If you're porting a map, texture pack, or mod from another platform then permissions from the original author must be gained and clearly displayed within the topic.
 
 
 ### Maps
@@ -88,10 +91,6 @@ This section is for posting and discussing seeds for worlds that are considered 
 * __Label topics__
 
   Please label topics according to what platform it will work with whether it be iOS, Android or both.
-
-* __Porting maps & texture packs__
-
-  If you're porting a map or texture pack from another platform then permissions from the original author must be gained and clearly displayed within the topic.
 
 
 ### Mods / Tools
