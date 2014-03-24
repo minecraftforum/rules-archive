@@ -10,7 +10,7 @@
 
 * __Porting maps, texture packs & mods__
 
-  If you're porting a map, texture pack, or mod from another platform then permissions from the original author must be clearly displayed within the topic.
+  If you're porting a map, texture pack, or mod from another platform then permission from the original author must be clearly displayed within the topic.
 
 
 ## Discussion
