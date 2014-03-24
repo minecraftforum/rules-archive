@@ -1,6 +1,6 @@
 # Servers
 
-Servers is the section for PC specific posts to be made
+This section is dedicated to multiplayer servers for the PC edition of Minecraft.
 
 
 ## Do Not
@@ -29,7 +29,7 @@ Servers is the section for PC specific posts to be made
 
   There is only allowed to be 1 topic for each server or idea.
 
-* __Post "Grief This Server" Topics_
+* __Post "Grief This Server" Topics__
 
   This also includes looking for members to help you grief or recruiting for griefing teams.
 
@@ -105,7 +105,7 @@ IP to a server with no description or refer the user to a signature
 * Topics must pertain to Minecraft based hosting. Advertising non-Minecraft specific hosting is not allowed.
 
 
-### Hosting Request
+### Hosting Requests
 
 * This section is not to be used for recruiting staff for hosts, this may be done in the host's topic
 * Replies must meet all needs outlined in the original post along with any other relevant information based on what the topic starter posted (memory, price, slots, country, etc.), posting only server rates is not allowed.
@@ -138,7 +138,7 @@ __Do Not__
 
 ## Minecraft Realms
 
-* Do not advertise servers that are not Realm servers here
+* Do not advertise servers that are not Realms servers here
 
 
 ## Server Types
