@@ -61,7 +61,7 @@ made using redstone.
 
 * __Redstone Only__
 
-    The focus of this section is redstone itself, do not discuss creations tha
+    The focus of this section is redstone itself, do not discuss creations that
     are not made using redstone in this section.
 
 
