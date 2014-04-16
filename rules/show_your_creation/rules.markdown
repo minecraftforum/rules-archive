@@ -69,3 +69,5 @@ Any other Minecraft related creations belong here. This includes drawings, writi
 * __Creation Selling__
 
     Selling your creations and/or services for money or trading for other services is allowed, however we provide no assurances or protections for customer and seller. If you purchase a service it is your responsibility to ensure the service is delivered, not ours. Any complaints about sellers or buyers will be ignored.
+   
+    You may not have payment options that require promotion of personal pages (eg: subscribe to my Youtube channel, follow me on Twitter/Stream).
