@@ -107,7 +107,7 @@ IP to a server with no description or refer the user to a signature
 
 ### Hosting Requests
 
-* This section is not to be used for recruiting staff for hosts, this may be done in the host's topic
+* This section is not to be used for recruiting staff for hosts, the forum is not a place to hire staff
 * Replies must meet all needs outlined in the original post along with any other relevant information based on what the topic starter posted (memory, price, slots, country, etc.), posting only server rates is not allowed.
 
 
@@ -115,7 +115,6 @@ IP to a server with no description or refer the user to a signature
 
 __Do__
 
- * Request staff or aid for hosting work
  * Post guides relating to the hosting of servers
  * Share websites relating to or assisting with server hosting, particularly non-commercial websites and "How-To" websites
  * Post questions about hardware or service providers related to dedicated hosting
