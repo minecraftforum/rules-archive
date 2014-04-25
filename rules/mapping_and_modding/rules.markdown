@@ -7,7 +7,7 @@
 * Do not ask or pressure content to be updated
 * Topics that offer downloadable content must follow the download links rules, located here: [Download Link Rules](#mapping-and-modding:download-links)
 * Topics that offer downloadable content must follow the file guidelines, located here: [File Guidelines](#mapping-and-modding:file-guidelines
-* Smp "hack" and "cheat" mods or tools are allowed, however any designed for griefing are not allowed
+* SMP "hack" and "cheat" mods or tools are allowed, however any designed for griefing are not allowed
 * Any required permissions must be displayed in the original post
 * Topics or posts made to start or continue a flame war against another mod, a user, or a group, are not allowed
 * "No pics, no clicks" posts are considered spam and are not allowed
