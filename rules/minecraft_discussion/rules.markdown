@@ -33,7 +33,7 @@
 * __Existing Mod(s)__
 
     If a mod exists that provides part (or all) of the suggestions request linking
-    to the mod is encouraged, however do not use the existence of a mod t
+    to the mod is encouraged, however do not use the existence of a mod to
     dismiss the suggestion. Suggestions are primarily for vanilla Minecraft
     features.
 
