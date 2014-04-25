@@ -19,6 +19,6 @@
     vs. browser topics always descend into spam, flaming and flamebaiting and are 
     therefore not allowed.
 
-### Hardware/Software Discussion and Support
+### General Support
 
 Support topics can be "bumped" every 12 hours if no one responds.
