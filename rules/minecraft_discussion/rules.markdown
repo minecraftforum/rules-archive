@@ -27,13 +27,13 @@
 * __No Vague Suggestions__
 
     Suggestions that are vague or unclear will be removed, for proper discussion
-    to happen suggestions must be well explained and if necessary, wel
+    to happen suggestions must be well explained and if necessary, well
     demonstrated.
 
 * __Existing Mod(s)__
 
     If a mod exists that provides part (or all) of the suggestions request linking
-    to the mod is encouraged, however do not use the existence of a mod t
+    to the mod is encouraged, however do not use the existence of a mod to
     dismiss the suggestion. Suggestions are primarily for vanilla Minecraft
     features.
 
