@@ -27,7 +27,7 @@
 * __No Vague Suggestions__
 
     Suggestions that are vague or unclear will be removed, for proper discussion
-    to happen suggestions must be well explained and if necessary, wel
+    to happen suggestions must be well explained and if necessary, well
     demonstrated.
 
 * __Existing Mod(s)__
