@@ -2,7 +2,7 @@
 
 If you wish to connect through your browser, click [here](http://www.minecraftforum.net/irc/web-client/). If you have your own IRC client, connect to irc.esper.net and join channel #minecraftforums. 
 
-To connect to another channel type /join #channel-name (eg: /join #minecraftforums)
+To connect to another channel type /join #channel-name (e.g.: /join #minecraftforums)
 
 Please note that the #minecraftforums channel is for minecraftforum.net support only. If you need Minecraft support, please join #minecrafthelp.
 
