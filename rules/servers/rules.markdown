@@ -103,6 +103,7 @@ IP to a server with no description or refer the user to a signature
 * No host may post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting entries
 * Topics must pertain to Minecraft based hosting. Advertising non-Minecraft specific hosting is not allowed.
+* Topics must be created by a representative of a company. Members may not create a topic to advertise a host whom they use or recommend.
 
 
 ### Hosting Requests
