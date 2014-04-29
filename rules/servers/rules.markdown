@@ -89,6 +89,7 @@ This section is dedicated to multiplayer servers for the PC edition of Minecraft
 * Replies to a topic must follow the guidelines outlined in the original post
 * Replies must include all information needed, they cannot just provide a link to a topic/site, leave only a
 IP to a server with no description or refer the user to a signature
+* As the forum does not handle monetary transactions, monetary offers are not permitted. Any reports about being "scammed" or "x is a scammer" will be ignored.
 
 
 ## Minecraft Server Hosting
