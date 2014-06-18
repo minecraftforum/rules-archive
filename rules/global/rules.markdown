@@ -119,7 +119,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Breach Privacy__
 
-    Posting other peoples private information is not tolerated. Private information includes but is not limited to: real names, family names, photographs, email addresses, telephone numbers, Skype details, physical addresses.
+    Posting other peoples private information (even if the information is publicly available from sources like a domain WHOIS search) is not tolerated. Private information includes but is not limited to: real names, family names, photographs, email addresses, telephone numbers, Skype details, physical addresses.
 
 * __Impersonate__
 
